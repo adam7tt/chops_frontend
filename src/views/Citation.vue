@@ -26,7 +26,7 @@ export default {
     }
   },
   mounted () {
-      axios.get('http://django-env.zectunjjvb.us-west-2.elasticbeanstalk.com/citations/')
+      axios.get('http://django-env.zectunjjvb.us-west-2.elasticbeanstalk.com/citations')
         .then(response => (
           this.info = response.data
           ))
