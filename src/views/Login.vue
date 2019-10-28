@@ -15,7 +15,7 @@
                             <span class="md-error" v-if="!form.username.required">The username is required</span>
                             <span class="md-error" v-else-if="!form.username.minlength">Invalid username</span>
                         </md-field>
-                    </div>
+                    </div> 
 
                     <div class="md-layout-item md-small-size-100">
                         <md-field :class="getValidationClass('password')">
