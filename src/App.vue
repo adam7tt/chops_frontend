@@ -11,7 +11,12 @@
               Home
             </router-link>
           </md-button>
-          <md-button><router-link to="/about" class="nav-link header-item">About</router-link></md-button>
+          <md-button>
+            <router-link to="/about" class="nav-link header-item">
+            <img alt="Vue logo" src="./assets/baseline_person_black_18dp.png">
+              About
+            </router-link>
+          </md-button>
           <md-button><router-link to="/citation" class="nav-link header-item">Citations</router-link></md-button>
         </div>
         <div class="login-btn">
