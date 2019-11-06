@@ -1,36 +1,30 @@
 <template>
   <div id="app">
-    <!-- <div class="header">
-        <div class="header-left">
-          <img alt="Vue logo" class="logo" src="./assets/ChopsLogo.png">
-        </div>
-        <div class="menu">
-          <md-button><router-link to="/home" class="nav-link">Home</router-link></md-button>
-          <md-button><router-link to="/about" class="nav-link">About</router-link></md-button>
-          <md-button><router-link to="/citation" class="nav-link">Citations</router-link></md-button>
-        </div>
-        <div class="login-btn">
-          <md-button @click="showDialog = true">Login</md-button>
-        </div>
-    </div> -->
-
     <md-toolbar class="header" md-elevation="1">
         <div class="header-left">
           <img alt="Vue logo" class="logo" src="./assets/ChopsLogo.png">
         </div>
         <div class="menu">
-          <md-button><router-link to="/home" class="nav-link">Home</router-link></md-button>
-          <md-button><router-link to="/about" class="nav-link">About</router-link></md-button>
-          <md-button><router-link to="/citation" class="nav-link">Citations</router-link></md-button>
+          <md-button>
+            <router-link to="/home" class="nav-link header-item">
+              <md-icon class="md-size-1x">home</md-icon>
+              Home
+            </router-link>
+          </md-button>
+          <md-button><router-link to="/about" class="nav-link header-item">About</router-link></md-button>
+          <md-button><router-link to="/citation" class="nav-link header-item">Citations</router-link></md-button>
         </div>
         <div class="login-btn">
-          <md-button @click="showDialog = true">Login</md-button>
+          <md-button class="header-item" @click="showDialog = true">Login</md-button>
         </div>
     </md-toolbar>
     <div class="main-content">
       <router-view/>
     </div>
-    <div>
+    <div id="footer">
+      Chops!
+    </div>
+    <!-- <div> -->
       <md-dialog class="login" :md-active.sync="showDialog">
         <md-dialog-title>Login</md-dialog-title>
           <div class="inputs"> 
@@ -48,7 +42,7 @@
           <md-button class="md-primary" @click="showDialog = false">Login</md-button>
         </md-dialog-actions>
       </md-dialog>
-    </div>
+    <!-- </div> -->
   </div>
   
 </template>
@@ -67,9 +61,16 @@
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  /* font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
+  height: 100% !important;
+}
+
+#footer{
+  display:flex;
+  justify-content: flex-end;
+  padding: 2% 2%;
 }
 
 .login{
@@ -95,7 +96,7 @@
 }
 
 .header{
-  background-image: linear-gradient(black, rgba(0, 0, 124, 0.5));
+  background-image: linear-gradient(grey, rgba(0, 0, 124, 0.5));
   max-height: 20%;
   margin: 0 0 !important;
   width: 100%;
@@ -112,6 +113,7 @@
 
 .main-content{
   height: 80%;
+  text-align: center;
 }
 
 .row{
@@ -122,5 +124,10 @@
 .menu{
   display: flex;
   justify-content: center;
+}
+
+.header-item { 
+  text-decoration: none !important;
+  color: black !important;
 }
 </style>
