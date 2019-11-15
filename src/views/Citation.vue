@@ -2,7 +2,7 @@
   <div class="container citation my-5">
     <div class='row'>
       <div class='col'></div>
-      <div class='col'><img style='max-width:200px;' src='../assets/samplewordcloud.png'></div>
+      <div class='col'><img style='max-width:200px;' src='@/assets/samplewordcloud.png'></div>
     </div>
     <table class='table my-5'>
       <thead>
@@ -19,6 +19,7 @@
 
 <script>
 import axios from 'axios'
+
 export default {
   data () {
     return {

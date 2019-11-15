@@ -7,3 +7,10 @@
     Chops also gives you the ablity to build teams according to the solution you are trying to find.
   </div>
 </template>
+
+<script>
+export default {
+  name: 'About'
+  
+}
+</script>
