@@ -1,6 +1,6 @@
 <template>
     <div id="footer">
-      Chops!
+      Chops
     </div>
 </template>
 
