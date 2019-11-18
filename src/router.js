@@ -27,6 +27,11 @@ const routes = [
   component: Citation
 },
 {
+  path: '/profile',
+  name: 'profile',
+  component: Profile
+},
+{
   path:'/signup',
   name: 'Signup',
   component: Signup
