@@ -8,9 +8,9 @@
 </template>
 
 <script>
-export default {
+    export default {
 
-};
+    };
 </script>
 
 
@@ -27,7 +27,6 @@ export default {
         display: inline-flex;
         padding: 5px;
         /* border: solid 2px black; */
-
     }
 
     button {
