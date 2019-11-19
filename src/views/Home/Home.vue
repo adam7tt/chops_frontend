@@ -2,12 +2,13 @@
 
   <div>
       <searchbar></searchbar>
+
+      <div class="placeholder"></div>
   </div>
 
 </template>
 
 <script>
-
 import Searchbar from './Searchbar.vue'
 
 export default {
@@ -25,6 +26,9 @@ export default {
 
 <style scoped>
 
-
+  .placeholder{
+    height : 650px;
+    width : auto;
+  }
 
 </style>

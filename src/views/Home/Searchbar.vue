@@ -8,8 +8,6 @@
 </template>
 
 <script>
-
-
 export default {
 
 };
@@ -19,7 +17,7 @@ export default {
 <style scoped>
 
     .searchbar-p {
-        padding: 5px;
+        padding: 10px 5px 5px 5px;
         text-align: center;
 
     }
@@ -36,8 +34,7 @@ export default {
         border-radius: 5px;
         margin: 5px;
         padding: 5px;
+        width: 100px;
     }
-
-
 
 </style>

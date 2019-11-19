@@ -1,17 +1,17 @@
 <template>
     <div class="navbar">
         <nav class="light-blue">
-        <div class="container">
-            <router-link :to="{ name: 'home'}" class="brand-logo left">Chops</router-link>
-            <ul class="right">
-            <li><router-link to="/about">About</router-link></li>
-            <li><router-link to="/citation">Citations</router-link></li>
-            <li v-if="!user"><router-link :to="{ name: 'Signup' }">Signup</router-link></li>
-            <li v-if="!user"><router-link :to="{ name: 'Login'}">Login</router-link></li>
-            <li v-if="user"><a>{{ user.email }}</a></li>
-            <li v-if="user"><a @click="logout">Logout</a></li>
-            </ul>
-        </div>
+            <div class="container">
+                <router-link :to="{ name: 'home'}" class="brand-logo left">Chops</router-link>
+                <ul class="right">
+                    <li><router-link to="/about">About</router-link></li>
+                    <li><router-link to="/citation">Citations</router-link></li>
+                    <li v-if="!user"><router-link :to="{ name: 'Signup' }">Signup</router-link></li>
+                    <li v-if="!user"><router-link :to="{ name: 'Login'}">Login</router-link></li>
+                    <li v-if="user"><a>{{ user.email }}</a></li>
+                    <li v-if="user"><a @click="logout">Logout</a></li>
+                </ul>
+            </div>
         </nav>
     </div>
 </template>
@@ -45,3 +45,6 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+</style>
