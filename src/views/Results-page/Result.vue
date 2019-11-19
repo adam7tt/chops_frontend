@@ -1,10 +1,10 @@
 <template>
     <div class="parent">
         <div class="result">
-            <div>Id</div>
-            <div>Name</div>
-            <div>School</div>
-            <div>Last Publication Date</div>
+            <p>Id</p>
+            <p>Name</p>
+            <p>School</p>
+            <p>Last Publication Date</p>
         </div>
     </div>
 </template>
@@ -17,8 +17,8 @@
 
 <style scoped>
 
-    .result {
+    /* .result {
         display: inline-block;
-    }
+    } */
 
 </style>

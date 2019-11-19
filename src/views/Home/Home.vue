@@ -5,7 +5,7 @@
       <p>Welcome to Chops!</p>
 
       <div class="center">
-        Type in the school, professor, or area of research to find Academics.
+        Type in the school, professor, or area of research to find academic researchers.
       </div>
 
       <searchbar/>
@@ -44,7 +44,7 @@ export default {
   }
 
   .placeholder {
-    height : 500px;
+    height : 600px;
     width : auto;
   }
 

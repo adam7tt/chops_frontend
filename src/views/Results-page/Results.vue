@@ -1,6 +1,8 @@
 <template>
     <div>
-        <result/>
+        <div>
+            <result></result>
+        </div>
     </div>
 </template>
 
@@ -11,7 +13,7 @@
     export default {
 
         component:{
-            result : Result
+            'result' : Result
         }
         
     }

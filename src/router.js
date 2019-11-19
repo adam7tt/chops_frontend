@@ -5,6 +5,7 @@ import Home from '@/views/Home/Home.vue'
 import Citation from '@/views/Citation.vue'
 import Signup from '@/views/auth/Signup'
 import Login from '@/views/auth/Login'
+import Results from '@/views/Results-page/Results.vue'
 import Profile from '@/views/Professor-profile/Profile.vue'
 import firebase from 'firebase'
 
@@ -35,7 +36,13 @@ const routes = [
   path:'/login',
   name:'Login',
   component: Login
+},
+{
+  path: '/views/Results-page/Results.vue',
+  name: 'Results',
+  component: Results
 }
+
 ]
 
 const router = new VueRouter({
