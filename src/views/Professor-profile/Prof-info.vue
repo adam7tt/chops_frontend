@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h5>Professor Name</h5>
+        <h4>Professor Name</h4>
         <div class="info">
             <div class="item" v-for="(item, index) in profInfo" :key="index">
                 <label class="info-field">{{ index }}</label>: {{ item }}
