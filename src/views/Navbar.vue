@@ -5,6 +5,7 @@
             <router-link :to="{ name: 'home'}" class="brand-logo left">Chops</router-link>
             <ul class="right">
             <li><router-link to="/about">About</router-link></li>
+            <li><router-link to="/profile">Profile</router-link></li>
             <li><router-link to="/citation">Citations</router-link></li>
             <li v-if="!user"><router-link :to="{ name: 'Signup' }">Signup</router-link></li>
             <li v-if="!user"><router-link :to="{ name: 'Login'}">Login</router-link></li>

@@ -6,6 +6,7 @@ import About from '@/views/About.vue'
 import Citation from '@/views/Citation.vue'
 import Signup from '@/views/auth/Signup'
 import Login from '@/views/auth/Login'
+import Profile from '@/views/Professor-profile/Profile.vue'
 import firebase from 'firebase'
 
 Vue.use(Router)
