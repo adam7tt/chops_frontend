@@ -15,7 +15,7 @@
     export default {
         methods:{
             goToProfile() {
-                eventBus.$emit('componentWasChanged', 'Profile')
+                eventBus.changeComponent('Profile')
             }
         }
     }
