@@ -2,14 +2,21 @@
   <div class="searchbar-p">
       <div class="searchbar">
         <input type="text" />
-        <button>Search</button>
+        <button @click="goToResults">Search</button>
       </div>
   </div>
 </template>
 
 <script>
-    export default {
 
+    import { eventBus} from '../../main'
+
+    export default {
+        methods: {
+            goToResults() {
+                eventBus.changeComponent('Results')
+            }
+        }
     };
 </script>
 

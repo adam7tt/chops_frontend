@@ -28,11 +28,13 @@ export default {
         }
     },
     methods: {
-        logout(){
-        firebase.auth().signOut().then(()=>{
-            this.$router.push({ name: 'Login' })
-        })
-    }
+            logout(){
+            firebase.auth().signOut()
+            .then( () => {
+                    this.$router.push({ name: 'Login' })
+                }
+            )
+        }
     },
     created(){
         firebase.auth().onAuthStateChanged((user) => {

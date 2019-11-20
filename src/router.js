@@ -38,7 +38,7 @@ const routes = [
   component: Login
 },
 {
-  path: '/views/Results-page/Results.vue',
+  path: '/results',
   name: 'Results',
   component: Results
 }

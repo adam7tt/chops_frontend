@@ -9,6 +9,14 @@ let app = null;
 
 //Wait for firebase auth to initialize before creating app
 
+export const eventBus = new Vue({
+  methods: {
+    changeComponent(cName){
+      this.$emit('componentWasChanged', cName);
+    }
+  }
+});
+
 
 firebase.auth().onAuthStateChanged(()=>{
   //init app if not already created

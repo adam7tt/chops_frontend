@@ -1,24 +1,31 @@
 <template>
-    <div class="parent">
-        <div class="result">
-            <p>Id</p>
-            <p>Name</p>
-            <p>School</p>
-            <p>Last Publication Date</p>
+    <div>
+        <div
+            style="cursor: pointer"
+            @click="goToProfile">
+            <p>This is a test</p>
         </div>
     </div>
 </template>
 
 <script>
+
+    import { eventBus } from '../../main';
+
     export default {
-        
+        methods:{
+            goToProfile() {
+                eventBus.$emit('componentWasChanged', 'Profile')
+            }
+        }
     }
 </script>
 
 <style scoped>
 
-    /* .result {
-        display: inline-block;
-    } */
+    p {
+        border: 2px solid black; 
+    }
+
 
 </style>

@@ -6,7 +6,6 @@
                 <label class="info-field">{{ index }}</label>: {{ item }}
             </div>
         </div>
-
     </div>
 </template>
 

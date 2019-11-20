@@ -14,10 +14,6 @@ export default {
 </script>
 
 <style scoped>
-/* 
-  .footer{
-    height: 1;
-  } */
 
   .container{
     color: white;
