@@ -1,10 +1,9 @@
 <template>
     <div>
         <h4>Professor Name</h4>
-        <div class="info">
-            <div class="item" v-for="(item, index) in profInfo" :key="index">
-                <label class="info-field">{{ index }}</label>: {{ item }}
-            </div>
+        <div v-for="(item, index) in profInfo" :key="index">
+            <label class="field-name">{{ index }}:</label>
+            <label class="field-value"> {{ item }} </label>
         </div>
     </div>
 </template>
@@ -27,20 +26,16 @@
 </script>
 
 <style scoped>
-    .info{
-        display:flex;
-        flex-wrap: wrap;
-    }
-
-    .item{
-        display:flex;
-        flex-wrap: wrap;
-        width: 50%;
-    }
-
-    .info-field{
+    
+    .field-name{
         font-weight: bold;
         color: black;
-        font-size: 14px;
+        font-size: 12px;
+    }
+
+    .field-value{
+        font-size: 12px;
+        padding-left: 1%;
+        color: black;
     }
 </style>
