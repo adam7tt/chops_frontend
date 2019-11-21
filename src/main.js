@@ -11,8 +11,14 @@ let app = null;
 
 export const eventBus = new Vue({
   methods: {
-    changeComponent(cName){
+    changeComponent(cName) {
       this.$emit('componentWasChanged', cName);
+    },
+    sendDataToResults(data) {
+      this.$emit('dataWasSentToResults', data);
+    },
+    sendDataToProfile(data) {
+      this.$emit('dataWasSentToProfile', data);
     }
   }
 });

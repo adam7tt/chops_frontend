@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <Navbar class="nav"/>
+    <Navbar/>
     <main>
       <!-- <router-view/> -->
       <keep-alive>
-        <component :is="activeComponent" class="layout"></component>
+        <component :is="activeComponent"></component>
       </keep-alive>
     </main>
-    <Footer class="footer"/>
+    <Footer/>
   </div>
 </template>
 
 <script>
+
   import Navbar from '@/views/Navbar.vue'
   import Footer from '@/views/Footer.vue'
   import Home from './views/Home/Home.vue'
@@ -38,9 +39,11 @@
     created() {
       eventBus.$on('componentWasChanged', (comp) => {
         this.activeComponent = comp;
+        // console.log("This ran");
       });
     }
   }
+
 </script>
 
 <style scoped>

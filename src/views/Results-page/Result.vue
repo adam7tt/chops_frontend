@@ -13,6 +13,9 @@
     import { eventBus } from '../../main';
 
     export default {
+        // props:{
+        //    d : Object
+        // },
         methods:{
             goToProfile() {
                 eventBus.changeComponent('Profile')
