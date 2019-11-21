@@ -1,11 +1,12 @@
 <template>
   <div id="app">
     <Navbar class="nav"/>
-    <!-- <router-view class="main"/> -->
-    <keep-alive>
-      <component :is="activeComponent"></component>
-    </keep-alive>
-
+    <main>
+      <!-- <router-view/> -->
+      <keep-alive>
+        <component :is="activeComponent" class="layout"></component>
+      </keep-alive>
+    </main>
     <Footer class="footer"/>
   </div>
 </template>
@@ -42,28 +43,16 @@
   }
 </script>
 
-<style>
+<style scoped>
 
-  .main {
-     flex: 1 0 auto;
+  main {
+    flex: 1 0 auto;
   }   
   
-  .app {
+  #app {
      display: flex;
      min-height: 100vh;
      flex-direction: column;
   }
-
-  /* .app{
-    text-align: center;
-  }
-
-  .nav {
-    width: 80%;
-  }
-
-  .footer{
-    width: 80%;
-  } */
 
 </style>
