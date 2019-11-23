@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <Navbar class="nav"/>
-    <!-- <router-view class="main"/> -->
-    <keep-alive>
-      <component :is="activeComponent"></component>
-    </keep-alive>
-
-    <Footer class="footer"/>
+    <Navbar/>
+    <main>
+      <!-- <router-view/> -->
+      <keep-alive>
+        <component :is="activeComponent"></component>
+      </keep-alive>
+    </main>
+    <Footer/>
   </div>
 </template>
 
 <script>
+
   import Navbar from '@/views/Navbar.vue'
   import Footer from '@/views/Footer.vue'
   import Home from './views/Home/Home.vue'
@@ -37,33 +39,23 @@
     created() {
       eventBus.$on('componentWasChanged', (comp) => {
         this.activeComponent = comp;
+        // console.log("This ran");
       });
     }
   }
+
 </script>
 
-<style>
+<style scoped>
 
-  .main {
-     flex: 1 0 auto;
+  main {
+    flex: 1 0 auto;
   }   
   
-  .app {
+  #app {
      display: flex;
      min-height: 100vh;
      flex-direction: column;
   }
-
-  /* .app{
-    text-align: center;
-  }
-
-  .nav {
-    width: 80%;
-  }
-
-  .footer{
-    width: 80%;
-  } */
 
 </style>

@@ -2,7 +2,7 @@
 
   <div class = "home">
 
-      <p>Welcome to Chops!</p>
+      <h4 class="center">Welcome to Chops!</h4>
 
       <div class="center">
         Type in the school, professor, or area of research to find academic researchers.
@@ -11,8 +11,6 @@
       <searchbar/>
 
       <about/>
-
-      <div class="placeholder"></div>
 
   </div>
 
