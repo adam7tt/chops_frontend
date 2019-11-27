@@ -1,14 +1,4 @@
 <template>
-<<<<<<< Updated upstream
-    <div>
-        <ul>
-            <li v-for="(person, index) in data" :key="index">
-                <router-link :to="{ name: 'Result', params: { person: person }}">
-                    {{ person }}
-                </router-link>
-            </li>
-        </ul>
-=======
     <div class="content">
         {{ data }}
         Hello
@@ -18,15 +8,10 @@
             :key="d"
             :d="d">
         </result>
->>>>>>> Stashed changes
     </div>
 </template>
 
 <script>
-<<<<<<< Updated upstream
-    export default {
-        data: function() {
-=======
 
     // import { eventBus } from '../../main'
     import Result from './Result.vue'
@@ -35,15 +20,12 @@
     export default {
 
         data() {
->>>>>>> Stashed changes
             return {
             }
         },
         props: ['data'],
         components: {
         },
-<<<<<<< Updated upstream
-=======
         methods:{
 
         },
@@ -67,19 +49,15 @@
             // console.log("check this out", this.data)
         }
         
->>>>>>> Stashed changes
     }
 </script>
 
 <style scoped>
-<<<<<<< Updated upstream
-=======
 
     /* .content {
         width: 70%;
     } */
 
->>>>>>> Stashed changes
     .result {
         width: 70%;
     }
