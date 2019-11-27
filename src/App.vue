@@ -2,14 +2,10 @@
   <div id="app">
     <Navbar/>
     <main>
-<<<<<<< Updated upstream
-      <router-view/>
-=======
       <!-- <router-view/> -->
       <keep-alive>
-        <component v:bind :is="component"></component>
+        <component :is="component"></component>
       </keep-alive>
->>>>>>> Stashed changes
     </main>
     <Footer/>
   </div>
@@ -18,13 +14,6 @@
 <script>
   import Navbar from '@/views/Navbar.vue'
   import Footer from '@/views/Footer.vue'
-<<<<<<< Updated upstream
-  
-  export default {
-    name: 'Login',
-    data (){
-      return {
-=======
   import Home from './views/Home/Home.vue'
   import Results from './views/Results-page/Results.vue'
   import Profile from './views/Professor-profile/Profile.vue'
@@ -42,20 +31,17 @@
       component() {
         // return { ...this.$store.activeComponent }
         // console.log(this.$store.activeComponent);
-        // return 'Home';
-        return store.activeComponent
->>>>>>> Stashed changes
+        return 'Home';
+        // return store.activeComponent
       }
     },
     components: {
       Navbar,
       Footer,
+      Home,
+      Results,
+      Profile
     },
-<<<<<<< Updated upstream
-    created() {
-    }
-=======
->>>>>>> Stashed changes
   }
 </script>
 
