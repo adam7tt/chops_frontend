@@ -1,6 +1,6 @@
 <template>
   <div id="profile">
-    <div class="row">
+    <div class="container">
         <div id="info" class="col s2"><ProfInfo/></div>
         <div id="visualization" class="col s10"><Visualization/></div>
         <div id="citation" class="col s12"><Citation/></div>
