@@ -2,7 +2,7 @@
   <div id="app">
     <Navbar/>
     <main>
-      <!-- <router-view/> -->
+      <router-view/>
       <keep-alive>
         <component :is="activeComponent"></component>
       </keep-alive>
