@@ -1,14 +1,24 @@
 <template>
     <div>
-        <p>{{ person}}</p>
+        <div
+            style="cursor: pointer"
+            @click="goToProfile">
+            <p>This is a test</p>
+            <!-- <p>{{ d }}</p> -->
+        </div>
     </div>
 </template>
 
 <script>
+
+    // import { eventBus } from '../../main';
+
     export default {
         methods:{
-        },
-    props: ['person']
+            goToProfile() {
+                // eventBus.changeComponent('Profile')
+            }
+        }
     }
 </script>
 
