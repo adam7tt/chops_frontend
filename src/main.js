@@ -9,16 +9,6 @@ Vue.config.productionTip = false
 let app = null;
 
 //Wait for firebase auth to initialize before creating app
-<<<<<<< Updated upstream
-firebase.auth().onAuthStateChanged(()=>{
-  //init app if not already created
-  if(!app){
-  app = new Vue({
-    router,
-    render: h => h(App)
-  }).$mount('#app')
-}
-=======
 
 
 firebase.auth().onAuthStateChanged( () =>{
@@ -30,7 +20,6 @@ firebase.auth().onAuthStateChanged( () =>{
       render: h => h(App)
     }).$mount('#app')
   }
->>>>>>> Stashed changes
 })
 
 
