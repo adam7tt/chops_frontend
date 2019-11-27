@@ -6,6 +6,7 @@ import Citation from '@/views/Citation.vue'
 import Signup from '@/views/auth/Signup'
 import Login from '@/views/auth/Login'
 import Results from '@/views/Results-page/Results.vue'
+import Result from '@/views/Results-page/Result.vue'
 import Profile from '@/views/Professor-profile/Profile.vue'
 import firebase from 'firebase'
 
@@ -40,7 +41,14 @@ const routes = [
 {
   path: '/results',
   name: 'Results',
-  component: Results
+  component: Results,
+  props: true
+},
+{
+  path: '/result',
+  name: 'Result',
+  component: Result,
+  props: true
 }
 
 ]

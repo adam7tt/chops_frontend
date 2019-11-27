@@ -1,34 +1,19 @@
 <template>
     <div>
-        <div
-            style="cursor: pointer"
-            @click="goToProfile">
-            <p>This is a test</p>
-        </div>
+        <p>{{ person}}</p>
     </div>
 </template>
 
 <script>
-
-    import { eventBus } from '../../main';
-
     export default {
-        // props:{
-        //    d : Object
-        // },
         methods:{
-            goToProfile() {
-                eventBus.changeComponent('Profile')
-            }
-        }
+        },
+    props: ['person']
     }
 </script>
 
 <style scoped>
-
     p {
         border: 2px solid black; 
     }
-
-
 </style>
