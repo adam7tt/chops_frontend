@@ -1,8 +1,7 @@
 <template>
         <div id="footer" class="light-blue">
             <div class="container">
-                  <router-link :to="{ name: 'home'}" class="brand-logo center">Chops</router-link>
-                  <span class="span">&copy;</span>
+                  <span class="span">&copy; Chops Inc.</span>
             </div>
         </div>
 </template>
