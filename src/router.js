@@ -20,13 +20,14 @@ const routes = [
 },
 {
   path: '/citation',
-  name: 'citation',
+  name: 'Citation',
   component: Citation
 },
 {
-  path: '/profile',
-  name: 'profile',
-  component: Profile
+  path: '/profile/:id',
+  name: 'Profile',
+  component: Profile,
+  props: true
 },
 {
   path:'/signup',

@@ -28,9 +28,30 @@
           </tr>
         </tbody>
       </table>
+      {{id}}
+      {{info}}
     </div>
 </template>
 
+<script>
+import axios from 'axios'
+
+export default {
+  data() {
+    return{
+      info: null,
+    }
+  },
+  mounted(){
+        axios.get('http://127.0.0.1:8000/citations/?id=' + this.id)
+          .then(response => (
+            this.info = response.data
+            ))
+          .catch(error => (this.info = error))
+  },
+  props: ['id'],
+}
+</script>
 <style scoped>
     .main{
         display:flex;

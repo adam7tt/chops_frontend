@@ -1,27 +1,53 @@
 <template>
     <div>
-        <h4>Professor Name</h4>
-        <div v-for="(item, index) in profInfo" :key="index">
-            <label class="field-name">{{ index }}:</label>
-            <label class="field-value"> {{ item }} </label>
+        <h4>Professor {{ info[0].name}} </h4>
+        <div>
+            <label class="field-name">
+                School:
+            </label>
+            <label class="field-value">
+                {{info[0].university}}
+            </label>
+            <br/>
+            <label class="field-name">
+                Department:
+            </label>
+            <label class="field-value">
+                Don't have this
+            </label>
+            <br/>
+            <label class="field-name">
+                Area of Interst:
+            </label>
+            <label class="field-value">
+                Don't have this               
+            </label>
+            <br/>
+            <label class="field-name">
+                Number of Citatons:
+            </label>
+            <label class="field-value">
+                {{info[0].citations.length}}
+            </label>
+            <br/>
+            <label class="field-name">
+                Most Recent:
+            </label>
+            <label class="field-value">
+                Could get
+            </label>
         </div>
+        <p>{{info[0]}}</p>
     </div>
 </template>
 
 <script>
-
     export default {
        data(){
            return{
-               profInfo : {
-                   'School': "CSUN",
-                   'Department': 'Computer Science',
-                   'Area of Interest': 'Artificial Inteligence',
-                   'number of citations': 20,
-                   'Most Recent' : '01-01-2019'
-               }
            }
-       } 
+       },
+       props: ['info']
     }
 </script>
 
