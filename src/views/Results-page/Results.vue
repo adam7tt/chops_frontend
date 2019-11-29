@@ -1,15 +1,4 @@
 <template>
-    <!-- <div>
-        <ul>
-            <li v-for="(person, index) in data" :key="index">
-                <router-link :to="{ name: 'Profile', params: { id: person.id }}">
-                    {{ person }}
-                </router-link>
-            </li>
-        </ul>
-    </div> -->
-
-
   <div class="container">
     <ul>
       <h4>Citations</h4>
@@ -34,19 +23,20 @@
 </template>
 
 <script>
-    export default {
-        data: function() {
-            return {
-            }
-        },
-        props: ['data'],
-        components: {
-        },
-    }
+import Result from './Result'
+export default {
+  data: function() {
+    return {};
+  },
+  props: ["data"],
+  components: {
+      Result
+  }
+};
 </script>
 
 <style scoped>
-    .result {
-        width: 70%;
-    }
+.result {
+  width: 70%;
+}
 </style>
