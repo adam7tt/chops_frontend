@@ -23,14 +23,12 @@
 </template>
 
 <script>
-import Result from './Result'
 export default {
   data: function() {
     return {};
   },
   props: ["data"],
   components: {
-      Result
   }
 };
 </script>
