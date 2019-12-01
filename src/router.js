@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Router from 'vue-router'
 import Home from '@/views/Home/Home.vue'
-import Citation from '@/views/Citation.vue'
 import Signup from '@/views/auth/Signup'
 import Login from '@/views/auth/Login'
 import Results from '@/views/Results-page/Results.vue'
@@ -19,14 +18,10 @@ const routes = [
   component: Home
 },
 {
-  path: '/citation',
-  name: 'citation',
-  component: Citation
-},
-{
-  path: '/profile',
-  name: 'profile',
-  component: Profile
+  path: '/profile/:id',
+  name: 'Profile',
+  component: Profile,
+  props: true
 },
 {
   path:'/signup',
