@@ -1,7 +1,8 @@
 <template>
   <div class="container">
+    <Searchbar/>
     <ul>
-      <h4>Citations</h4>
+      <h5>Results by Professors</h5>
       <table class="highlight">
         <thead>
           <tr>
@@ -23,12 +24,14 @@
 </template>
 
 <script>
+import Searchbar from '../Home/Searchbar'
 export default {
   data: function() {
     return {};
   },
   props: ["data"],
   components: {
+    Searchbar,
   }
 };
 </script>
