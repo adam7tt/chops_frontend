@@ -1,9 +1,9 @@
 <template>
   <div id="profile">
-    <div class="row">
+    <div class="row"> {{ info}}
         <div id="info" class="col s2"><ProfInfo :info="info"/></div>
         <div id="visualization" class="col s10"><Visualization/></div>
-        <div id="citation" class="col s12"><Citation :id="info[0].citations[0]"/></div>
+        <div id="citation" class="col s12"><Citation :id="info[0]"/></div>
     </div>
   </div>
 </template>

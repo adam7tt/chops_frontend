@@ -28,10 +28,6 @@ export default {
 </script>
 
 <style>
-    svg{
-        height: 400 !important;
-    }
-
     g {
         transform: translate(250px,150px);
     }
