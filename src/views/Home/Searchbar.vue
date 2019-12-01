@@ -19,7 +19,7 @@ export default {
     },
     methods: {
         getResults() {
-            axios.get("http://127.0.0.1:8000/academics")
+            axios.get("http://127.0.0.1:8000/academics/?search=" + this.input)
             .then(res => {
                 const data = res.data
                 const profs = []

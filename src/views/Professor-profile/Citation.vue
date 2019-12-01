@@ -29,7 +29,7 @@
         </tbody>
       </table>
       {{id}}
-      {{info}}
+      {{info[0]}}
     </div>
 </template>
 

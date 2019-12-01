@@ -13,14 +13,7 @@
                 Department:
             </label>
             <label class="field-value">
-                Don't have this
-            </label>
-            <br/>
-            <label class="field-name">
-                Area of Interst:
-            </label>
-            <label class="field-value">
-                Don't have this               
+                {{info[0].department}}
             </label>
             <br/>
             <label class="field-name">
@@ -29,15 +22,8 @@
             <label class="field-value">
                 {{info[0].citations.length}}
             </label>
-            <br/>
-            <label class="field-name">
-                Most Recent:
-            </label>
-            <label class="field-value">
-                Could get
-            </label>
         </div>
-        <p>{{info[0]}}</p>
+        <p>{{info}}</p>
     </div>
 </template>
 
