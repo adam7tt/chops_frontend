@@ -15,7 +15,7 @@
           <tr v-for="(citation, index) in info" :key="index">
             <td>{{ index + 1 }}</td>
             <td>{{ citation.title }}</td>
-            <td>{{ citation.url}}</td>
+            <td><a :href="citation.url">{{citation.url.slice(0,-10)}}</a></td>
             <td>{{ citation.date_published.slice(0,10) }}</td>
           </tr>     
         </tbody>
