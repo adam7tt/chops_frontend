@@ -4,32 +4,22 @@
         <table class="highlight">
         <thead>
           <tr>
-              <th>Name</th>
-              <th>Item Name</th>
-              <th>Item Price</th>
+              <th>#</th>
+              <th>Title</th>
+              <th>URL</th>
+              <th>Date Published</th>
           </tr>
         </thead>
 
         <tbody>
-          <tr>
-            <td>Natan</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
-          </tr>
-          <tr>
-            <td>Jorge</td>
-            <td>Jellybean</td>
-            <td>$3.76</td>
-          </tr>
-          <tr>
-            <td>Roee</td>
-            <td>Lollipop</td>
-            <td>$7.00</td>
-          </tr>
+          <tr v-for="(citation, index) in info" :key="index">
+            <td>{{ index + 1 }}</td>
+            <td>{{ citation.title }}</td>
+            <td>{{ citation.url}}</td>
+            <td>{{ citation.date_published.slice(0,10) }}</td>
+          </tr>     
         </tbody>
       </table>
-      {{id}}
-      {{info[0]}}
     </div>
 </template>
 
