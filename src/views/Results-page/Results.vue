@@ -26,13 +26,18 @@
 <script>
 import Searchbar from '../Home/Searchbar'
 export default {
-  data: function() {
-    return {};
+  data() {
+    return {
+
+    };
   },
   props: ["data"],
   components: {
     Searchbar,
-  }
+  },
+  // created(){
+  //   console.log(this.data)
+  // }
 };
 </script>
 

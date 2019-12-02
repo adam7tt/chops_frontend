@@ -43,7 +43,7 @@ export default {
     }
   },
   mounted(){
-        axios.get('http://127.0.0.1:8000/citations/?id=' + this.id)
+        axios.get('http://127.0.0.1:8000/citations/?academic_id=' + this.id)
           .then(response => (
             this.info = response.data.results
             ))
