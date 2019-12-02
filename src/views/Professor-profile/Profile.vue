@@ -31,12 +31,12 @@ import Citation from '@/views/Professor-profile/Citation.vue';
     mounted () {
         axios.get('http://127.0.0.1:8000/academics/?id=' + this.id)
           .then(response => (
-            this.info = response.data
+            this.info = response.data.results
             ))
           .catch(error => (this.info = error))
     }
   }
-  
+
 </script>
 
 <style scoped>
