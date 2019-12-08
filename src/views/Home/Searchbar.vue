@@ -1,7 +1,7 @@
 <template>
   <div class="searchbar-p">
       <div class="searchbar">
-        <input type="text" v-model="input"/>
+        <input @keydown.enter="getResults" type="text" v-model="input"/>
         <button @click="getResults">Search</button>
       </div>
   </div>
