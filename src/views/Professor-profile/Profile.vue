@@ -1,10 +1,10 @@
 <template>
-  <div id="profile">
-    <div class="row"> <!-- {{ info}} -->
-        <div id="info" class="col s2"><ProfInfo :info="info"/></div>
-        <div id="visualization" class="col s10"><Visualization/></div>
-        <div id="citation" class="col s12"><Citation :id="info[0].id"/></div>
+  <div class="profile">
+    <div class="profile__top"> <!-- {{ info}} -->
+        <ProfInfo :info="info"/>
+        <Visualization/>
     </div>
+    <div id="citation" ><Citation :id="info[0].id"/></div>
   </div>
 </template>
 
@@ -39,8 +39,18 @@ import Citation from '@/views/Professor-profile/Citation.vue';
 
 </script>
 
-<style scoped>
-    #citation{
-        padding-top: 5%;
+<style lang="scss" scoped>
+.profile {
+    &__top {
+        display: flex;
+        flex-direction: row;
+        padding: 0 0.75rem;
     }
+
+    &__citation {
+        padding-top: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+}
 </style>

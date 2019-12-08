@@ -1,7 +1,7 @@
 <template>
     <div id="visualization">
         <cloud :data="words" :fontSizeMapper="fontSizeMapper"/>
-    </div>   
+    </div>
 </template>
 
 <script>
@@ -27,8 +27,8 @@ export default {
 }
 </script>
 
-<style>
-    g {
+<style scoped>
+    .wordCloud svg g {
         transform: translate(250px,150px);
     }
 

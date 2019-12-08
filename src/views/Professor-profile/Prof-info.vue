@@ -1,25 +1,26 @@
 <template>
-    <div>
-        <h4>Professor {{ info[0].name}} </h4>
-        <div>
-            <label class="field-name">
+    <!-- BEM CSS convention https://css-tricks.com/bem-101/ -->
+    <div class="profinfo">
+        <h4 class="profinfo__name">Professor {{ info[0].name}} </h4>
+        <div class="profinfo__data">
+            <label class="profinfo__data__fname">
                 School:
             </label>
-            <label class="field-value">
+            <label class="profinfo__data__fvalue">
                 {{info[0].university}}
             </label>
             <br/>
-            <label class="field-name">
+            <label class="profinfo__data__fname">
                 Department:
             </label>
-            <label class="field-value">
+            <label class="profinfo__data__fvalue">
                 {{info[0].department}}
             </label>
             <br/>
-            <label class="field-name">
+            <label class="profinfo__data__fname">
                 Number of Citatons:
             </label>
-            <label class="field-value">
+            <label class="profinfo__data__fvalue">
                 {{info[0].citations.length}}
             </label>
         </div>
@@ -37,17 +38,27 @@
     }
 </script>
 
-<style scoped>
-    
-    .field-name{
-        font-weight: bold;
-        color: black;
-        font-size: 12px;
+<style lang="scss" scoped>
+.profinfo {
+    &__name {
     }
 
-    .field-value{
+    &__data {
+
         font-size: 12px;
-        padding-left: 1%;
         color: black;
+
+        &__fname{
+            font-weight: bold;
+            color: inherit;
+        }
+
+        &__fvalue{
+            padding-left: 0.25rem;
+            color: inherit;
+        }
     }
+
+}
+
 </style>
