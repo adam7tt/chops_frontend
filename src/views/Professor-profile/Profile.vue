@@ -4,6 +4,7 @@
         <ProfInfo :info="info"/>
         <Visualization/>
         <Citation class="citation" v-if="info" :id="info[0].id"/>
+    </div>
   </div>
 </template>
 
