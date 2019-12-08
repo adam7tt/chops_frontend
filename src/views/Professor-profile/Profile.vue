@@ -4,7 +4,7 @@
         <ProfInfo :info="info"/>
         <Visualization/>
     </div>
-    <Citation class="citation" v-if="info" :id="info[0].id"/>
+    <Citation class="profile__citation" v-if="info" :id="info[0].id"/>
   </div>
 </template>
 
