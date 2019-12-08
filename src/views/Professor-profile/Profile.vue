@@ -1,18 +1,9 @@
 <template>
-<<<<<<< HEAD
   <div class="profile">
     <div class="profile__top"> <!-- {{ info}} -->
         <ProfInfo :info="info"/>
         <Visualization/>
-=======
-  <div id="profile">
-    <div class="row">
-        <div id="info" class="col s2"><ProfInfo :info="info"/></div>
-        <div id="visualization" class="col s10"><Visualization/></div>
-        <div id="citation" v-if="info" class="col s12"><Citation :id="info[0].id"/></div>
->>>>>>> 4b0ebeaa4747c3cf451b4d9902f0d693ef5bd1cf
-    </div>
-    <div id="citation" ><Citation :id="info[0].id"/></div>
+        <Citation class="citation" v-if="info" :id="info[0].id"/>
   </div>
 </template>
 
