@@ -5,7 +5,7 @@
                 :stats='[1,1,1,1,1,1]'
                 :max = '[5,5,5,5,5,5]'
                 :num='5'/>
-            <word-cloud />
+            <word-cloud v-if="info" :info="info"/>
            <!-- <timeline/> -->
     </div>
 </template>
@@ -17,6 +17,7 @@
 
     export default {
         name: 'visualization',
+        props: ['info'],
         components:{
             WordCloud,
              // Timeline,

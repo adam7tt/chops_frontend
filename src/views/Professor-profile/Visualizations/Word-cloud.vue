@@ -10,19 +10,18 @@ import Cloud from 'vue-d3-cloud'
 export default {
     name: "word-cloud",
     data(){
+        // console.log(this.info)
         return{
-            words:[
-                { text: 'Vue', value: 1000 },
-                { text: 'js', value: 200 },
-                { text: 'Jorge', value: 8000 },
-                { text: 'very cool', value: 1000000 },
-                { text: 'lunch', value: 100 },
-            ],
-            fontSizeMapper: word => Math.log2(word.value) * 2
+            words: this.info[0].wordcloud,
+            fontSizeMapper: word => Math.log2(word.value) * 10
         }
     },
+    props: ['info'],
     components:{
         Cloud
+    },
+    created(){
+        // console.log("info", this.info);
     }
 }
 </script>
@@ -33,10 +32,10 @@ export default {
     }
 
     .wordCloud{
-        width: 50%;
+        /* width: 50%; */
         margin: 0 0;
-        border-style: solid;
-        border-width: 2px;
-        border-color: grey;
+        /* border-style: solid; */
+        /* border-width: 2px; */
+        /* border-color: grey; */
     }
 </style>
