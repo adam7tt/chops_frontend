@@ -1,6 +1,6 @@
 <template>
     <!-- BEM CSS convention https://css-tricks.com/bem-101/ -->
-    <div class="profinfo">
+    <div v-if="info" class="profinfo">
         <h4 class="profinfo__name">Professor {{ info[0].name}} </h4>
         <div class="profinfo__data">
             <label class="profinfo__data__fname">
@@ -60,5 +60,4 @@
     }
 
 }
-
 </style>
