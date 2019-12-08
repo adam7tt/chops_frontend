@@ -3,8 +3,8 @@
     <div class="profile__top"> <!-- {{ info}} -->
         <ProfInfo :info="info"/>
         <Visualization/>
-        <Citation class="citation" v-if="info" :id="info[0].id"/>
     </div>
+    <Citation class="citation" v-if="info" :id="info[0].id"/>
   </div>
 </template>
 
