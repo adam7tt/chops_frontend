@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div v-if="info">
         <h4>Professor {{ info[0].name}} </h4>
         <div>
             <label class="field-name">
