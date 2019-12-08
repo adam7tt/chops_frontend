@@ -1,3 +1,18 @@
+<!-- <template>
+    <div class='word-cloud'>
+      <wordcloud
+      :data="defaultWords"
+      nameKey="text"
+      valueKey="value"
+      :color="myColors"
+      :showTooltip="true"
+      
+      />
+    </div>
+
+    <!-- :wordClick="wordClickHandler"
+</template>
+-->
 <template>
     <div id="visualization">
         <cloud :data="words" :fontSizeMapper="fontSizeMapper"/>
@@ -5,6 +20,7 @@
 </template>
 
 <script>
+// import wordcloud from '@/views/Professor-profile/Visualizations/WordCloudpkg.vue'
 import Cloud from 'vue-d3-cloud'
 
 export default {
@@ -14,28 +30,44 @@ export default {
         return{
             words: this.info[0].wordcloud,
             fontSizeMapper: word => Math.log2(word.value) * 10
+            // myColors: ['#1f77b4', '#629fc9', '#94bedb', '#c9e0ef'],
+            // defaultWords: this.info[0].wordcloud
         }
     },
     props: ['info'],
     components:{
         Cloud
+        // wordcloud
     },
-    created(){
-        // console.log("info", this.info);
-    }
+    // methods:{
+    //     wordClickHandler(name, value, vm) {
+    //     }
+    // }
 }
 </script>
 
 <style scoped>
+    
     .wordCloud svg g {
         transform: translate(250px,150px);
     }
 
     .wordCloud{
         /* width: 50%; */
-        margin: 0 0;
+        /* margin: 0 0; */
         /* border-style: solid; */
         /* border-width: 2px; */
         /* border-color: grey; */
+    }
+   
+        
+    .word-cloud{
+        width: 50%;
+        margin: 0 0;
+        border: 2px solid grey;
+    }
+    .tooltip{
+        display: none;
+        position:relative !important;
     }
 </style>
