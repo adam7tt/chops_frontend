@@ -7,7 +7,7 @@
             <word-cloud class="visualization__wordcloud"
                 v-if="info"
                 :info="info"/>
-           <timeline/>
+           <!-- <timeline/> -->
     </div>
 </template>
 

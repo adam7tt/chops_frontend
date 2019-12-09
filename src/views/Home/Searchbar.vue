@@ -22,11 +22,10 @@ export default {
             axios.get("http://127.0.0.1:8000/academics/?search=" + this.input)
             .then(res => {
                 const data = res.data.results
-                const profs = []
-                for(let d in data)
-                    profs.push(d)
-
-                this.data = profs
+                // const profs = []
+                // for(let d in data)
+                //     profs.push(d)
+                // this.data = profs
                 this.$router.push({ name: 'Results', params: {data: data} })
             })
         }

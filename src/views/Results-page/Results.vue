@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <Searchbar/>
     <ul>
       <h5>Results by Professors</h5>
       <table class="highlight">
@@ -13,8 +12,6 @@
         </thead>
         <tbody>
 
-            <!-- Result -->
-
             <Result 
               v-for="person in data"
               :key="person" :person="person">
@@ -23,9 +20,9 @@
             
             </Result>
             
-            <tr  >
+            <!-- <tr  >
 
-            </tr>
+            </tr> -->
         </tbody>
       </table>
     </ul>
@@ -33,7 +30,6 @@
 </template>
 
 <script>
-import Searchbar from '../Home/Searchbar'
 import Result from './Result'
 export default {
   data() {
@@ -43,7 +39,6 @@ export default {
   },
   props: ["data"],
   components: {
-    Searchbar,
     Result
   },
   // created(){

@@ -1,29 +1,26 @@
 <template>
-    <div id="timeline">  
+<div id="timeline">  
+    <svg  :height="height" :width="width">
+        <g :transform="`translate(0 ${height/2})`">
 
-        <svg  :height="height" :width="width">
-            <g :transform="`translate(0 ${height/2})`">
-
-                <line class="timeline__axis" x1="0" y1="0" :x2="width" y2="0" />
-                
-                <line class='timeline__point-line' v-for='(d, i) in points' :key="i"
-                    :x1='d.x' y1='0' 
-                    :x2='d.x + width/15 * Math.pow(-1,i)' 
-                    :y2='Math.pow(-1,i) * d.y' />
-            </g>  
-        </svg>
-        <!-- <button @click="createAxisPoints">Print Points</button> -->
-    </div>
-  
+            <line class="timeline__axis" x1="0" y1="0" :x2="width" y2="0" />
+            
+            <line class='timeline__point-line' v-for='(d, i) in points' :key="i"
+                :x1='d.x' y1='0' 
+                :x2='d.x + width/15 * Math.pow(-1,i)' 
+                :y2='Math.pow(-1,i) * d.y' />
+        </g>  
+    </svg>
+</div>
 </template>
 
 <script>
 export default {
     data() {
         return {
-        height : 200,
-        width : 500,
-        points : []
+            height : 500,
+            width : 900,
+            points : []
         }
     },
 
@@ -32,7 +29,7 @@ export default {
             console.log("hello world");
         },
         createAxisPoints() {
-            let citations = [3,4,5,6]
+            let citations = [3,4,5,6,8]
             this.points = []
             let nodes = citations.length
             let step = parseFloat( (this.width - 20) / (nodes-1)).toFixed(0) -1
@@ -51,17 +48,17 @@ export default {
 
 <style lang="scss" scoped>
 
-    .timeline{
-        
-        &__axis {
-        stroke: blue;
-        stroke-width: 2;
-        }
+.timeline{
 
-        &__point-line {
-        stroke: black;
-        stroke-width: 2;
-        }
+    &__axis {
+    stroke: blue;
+    stroke-width: 2;
     }
+
+    &__point-line {
+    stroke: black;
+    stroke-width: 2;
+    }
+}
 
 </style>
