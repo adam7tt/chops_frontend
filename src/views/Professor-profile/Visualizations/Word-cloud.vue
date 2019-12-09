@@ -49,19 +49,16 @@ export default {
     .wordCloud svg g {
         transform: translate(250px,150px);
     }
-
+*/
     .wordCloud{
-    */
         /* width: 50%; */
         /* margin: 0 0; */
         /* border-style: solid; */
         /* border-width: 2px; */
         /* border-color: grey; */
-/*
     }
-*/
-    .wordCloud{
-        flex-shrink: 100;
-        border: 2px solid grey;
+    .word-cloud{
+        /* flex-shrink: 1; */
+        /* border: 2px solid grey; */
     }
 </style>

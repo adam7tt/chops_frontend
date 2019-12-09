@@ -1,15 +1,19 @@
 <template>
 <svg class='stat' :viewBox='`-${size/2} -${size/2} ${size} ${size}`'>
-      <line class='stat__axis' v-for='point in spokePoints' :key="point" x1='0' y1='0' :x2='point.x' :y2='point.y'/>
+      <line class='stat__axis'
+        v-for='(point, i) in spokePoints' :key='`axis${i}`'
+        x1='0' y1='0'
+        :x2='point.x' :y2='point.y'/>
 
-      <polygon class='stat__grid' v-for="i in Array(5).keys()" :key="i"
+      <polygon class='stat__grid'
+        v-for="i in Array(5).keys()" :key='`polygon${i}`'
         :points='spacedPolarPoints(Array.from({length: num},
                 () =>(i+1) * size/2 / 5 - 10)
                ).map((e, i) => `${e.x} ${e.y}`).join(", ")' />
 
       <polygon class='stat__gon' :points='pointsToString(tweenedPoints)'/>
 
-      <g class='stat__tooltip' v-for='(point, i) in tweenedPoints' :key="i">
+      <g class='stat__tooltip' v-for='(point, i) in tweenedPoints' :key='`tooltip${i}`'>
         <circle class='stat__tooltip__collision' :cx='point.x' :cy='point.y' :r='Math.sqrt(size)'/>
         <text class='stat__tooltip__text' :x='point.x' :y='point.y-15'>{{ values[i] }}</text>
       </g>
