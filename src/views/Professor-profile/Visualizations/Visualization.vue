@@ -30,7 +30,7 @@
 <style lang="scss" scoped>
 
 .visualization {
-    display: block;
+    display: inline-flex;
     padding: 0.75rem;
     justify-content: space-between;
 
