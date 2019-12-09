@@ -10,7 +10,7 @@
       />
     </div>
 
-    <!-- :wordClick="wordClickHandler"
+    :wordClick="wordClickHandler"
 </template>
 -->
 <template>

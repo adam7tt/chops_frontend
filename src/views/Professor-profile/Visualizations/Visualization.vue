@@ -7,13 +7,13 @@
             <word-cloud class="visualization__wordcloud"
                 v-if="info"
                 :info="info"/>
-           <!-- <timeline/> -->
+           <timeline/>
     </div>
 </template>
 
 <script>
     import WordCloud from '@/views/Professor-profile/Visualizations/Word-cloud.vue';
-//    import Timeline from '@/views/Professor-profile/Visualizations/Timeline.vue';
+    import Timeline from '@/views/Professor-profile/Visualizations/Timeline2.vue';
     import StatGram from '@/views/Professor-profile/Visualizations/StatGram.vue';
 
     export default {
@@ -21,7 +21,7 @@
         props: ['info'],
         components:{
             WordCloud,
-             // Timeline,
+            Timeline,
             StatGram
         }
     }
@@ -30,7 +30,7 @@
 <style lang="scss" scoped>
 
 .visualization {
-    display: inline-flex;
+    display: block;
     padding: 0.75rem;
     justify-content: space-between;
 
