@@ -2,7 +2,7 @@
   <div class="profile">
     <div class="profile__top"> <!-- {{ info}} -->
         <ProfInfo :info="info"/>
-        <Visualization/>
+        <Visualization :info="info"/>
     </div>
     <Citation class="profile__citation" v-if="info" :id="info[0].id"/>
   </div>

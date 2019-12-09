@@ -1,11 +1,12 @@
 <template>
     <div class="visualization">
-            <stat-gram
-                :size='500'
+            <stat-gram class="visualization__statgram"
                 :stats='[1,1,1,1,1,1]'
                 :max = '[5,5,5,5,5,5]'
                 :num='6'/>
-            <word-cloud />
+            <word-cloud class="visualization__wordcloud"
+                v-if="info"
+                :info="info"/>
            <!-- <timeline/> -->
     </div>
 </template>
@@ -17,6 +18,7 @@
 
     export default {
         name: 'visualization',
+        props: ['info'],
         components:{
             WordCloud,
              // Timeline,
@@ -25,13 +27,21 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 
 .visualization {
     display: inline-flex;
-    flex-direction: row;
-    justify-content: space-around;
-    flex-grow: 1;
+    padding: 0.75rem;
+    justify-content: space-between;
+
+    &__statgram {
+        flex: 1 1;
+    }
+
+    &__wordcloud {
+        flex: 1 1;
+        width: 10%;
+    }
 }
 
 </style>

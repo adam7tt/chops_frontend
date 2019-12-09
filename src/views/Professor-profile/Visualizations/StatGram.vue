@@ -1,5 +1,5 @@
 <template>
-<svg class='stat' :width='size' :height='size' :viewBox='`-${size/2} -${size/2} ${size} ${size}`'>
+<svg class='stat' :viewBox='`-${size/2} -${size/2} ${size} ${size}`'>
       <line class='stat__axis' v-for='point in spokePoints'  x1='0' y1='0' :x2='point.x' :y2='point.y'/>
 
       <polygon class='stat__grid' v-for="i in Array(5).keys()"
@@ -24,7 +24,7 @@ export default {
   props: {
     size: {
       type: Number,
-      required: true
+      default: 500
     },
     stats: {
       type: Array,
@@ -36,7 +36,6 @@ export default {
     },
     max: {
       type: Array,
-      required: false,
       default: null
     }
   },
@@ -124,6 +123,7 @@ export default {
 .stat {
   overflow: visible;
   background-color: none;
+  max-width: 100%;
   /* border: 1px solid black; */
 
   &__axis {

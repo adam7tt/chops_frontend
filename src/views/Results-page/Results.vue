@@ -12,10 +12,19 @@
           </tr>
         </thead>
         <tbody>
-            <tr v-for="(person, index) in data" :key="index">
-                <router-link :to="{ name: 'Profile', params: { id: person.id }}">
-                    {{ person.name }}
-                </router-link>
+
+            <!-- Result -->
+
+            <Result 
+              v-for="person in data"
+              :key="person" :person="person">
+
+                
+            
+            </Result>
+            
+            <tr  >
+
             </tr>
         </tbody>
       </table>
@@ -25,6 +34,7 @@
 
 <script>
 import Searchbar from '../Home/Searchbar'
+import Result from './Result'
 export default {
   data() {
     return {
@@ -34,6 +44,7 @@ export default {
   props: ["data"],
   components: {
     Searchbar,
+    Result
   },
   // created(){
   //   console.log(this.data)
