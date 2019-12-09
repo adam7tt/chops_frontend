@@ -1,23 +1,24 @@
 <template>
 <svg class='stat' :width='size' :height='size' :viewBox='`-${size/2} -${size/2} ${size} ${size}`'>
-      <line class='stat__axis' v-for='point in spokePoints' :key='point' x1='0' y1='0' :x2='point.x' :y2='point.y'/>
+      <line class='stat__axis' v-for='point in spokePoints'  x1='0' y1='0' :x2='point.x' :y2='point.y'/>
 
-      <polygon class='stat__grid' v-for="i in Array(5).keys()" :key='i'
-        :points='spacedPolarPoints(Array.from({length: stats.length},
+      <polygon class='stat__grid' v-for="i in Array(5).keys()"
+        :points='spacedPolarPoints(Array.from({length: num},
                 () =>(i+1) * size/2 / 5 - 10)
                ).map((e, i) => `${e.x} ${e.y}`).join(", ")' />
 
       <polygon class='stat__gon' :points='pointsToString(tweenedPoints)'/>
 
-      <g class='stat__tooltip' v-for='(point, i) in points' :key='point'>
+      <g class='stat__tooltip' v-for='(point, i) in tweenedPoints'>
         <circle class='stat__tooltip__collision' :cx='point.x' :cy='point.y' :r='Math.sqrt(size)'/>
-        <text class='stat__tooltip__text' :x='point.x' :y='point.y-15'>{{ stats[i] }}</text>
+        <text class='stat__tooltip__text' :x='point.x' :y='point.y-15'>{{ values[i] }}</text>
       </g>
 </svg>
 </template>
 
 <script>
-import TweenLite from 'gsap';
+import gsap from 'gsap';
+gsap.registerPlugin()
 
 export default {
   props: {
@@ -42,22 +43,37 @@ export default {
 
   data() {
     return {
+      values: this.stats,
       tweenedPoints: Array.from({ length: this.num }, () => ({
         x: 0,
         y: 0
-      })),
-      updateInterval: 1
+      }
+      )),
+      updateInterval: 0.3
     };
   },
 
-  watch: {
-    stats: {
-      handler: function() {
-        TweenLite.to(this.$data, this.updateInterval, {
-          tweenedPoints: this.points
-        });
-      },
+  mounted() {
+    var v = this
+    setInterval(function(){
+        v.values = v.values.map(
+            _ => (Math.random() * 4.9 + 0.1).toPrecision(2)
+        )
+    }, 1400)
+  },
 
+  watch: {
+    values: {
+      handler: function() {
+        let timeline = gsap.timeline()
+        this.tweenedPoints.forEach(
+            (target, idx) => timeline.to(target, {
+                ease: "sine.inOut",
+                duration: this.updateInterval,
+                x: this.points[idx].x,
+                y: this.points[idx].y
+                }, `>=${this.updateInterval*Math.random()}`))
+      },
       immediate: true
     }
   },
@@ -82,20 +98,20 @@ export default {
   computed: {
     statsMax() {
       return this.max == null
-        ? Array.from({ length: this.stats.length }, () =>
-            Math.max(...this.stats)
+        ? Array.from({ length: this.num }, () =>
+            Math.max(...this.values)
           )
         : this.max;
     },
     points() {
-      let lengths = this.stats.map(
+      let lengths = this.values.map(
         (el, i) => el / this.statsMax[i] * this.size / 2
       );
       return this.spacedPolarPoints(lengths);
     },
     spokePoints() {
       let lengths = Array.from(
-        { length: this.stats.length },
+        { length: this.num },
         () => this.size / 2
       );
       return this.spacedPolarPoints(lengths);
@@ -140,7 +156,8 @@ export default {
       text-anchor: middle;
       font-size: 1.5rem;
       transition: opacity 250ms ease-in;
-      opacity: 0;
+      // opacity: 0;
+      opacity: 1;
     }
 
     &__collision:hover ~ &__text {

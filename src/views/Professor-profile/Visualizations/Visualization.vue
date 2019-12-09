@@ -4,7 +4,7 @@
                 :size='500'
                 :stats='[1,1,1,1,1,1]'
                 :max = '[5,5,5,5,5,5]'
-                :num='5'/>
+                :num='6'/>
             <word-cloud />
            <!-- <timeline/> -->
     </div>
