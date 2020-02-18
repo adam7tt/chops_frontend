@@ -13,7 +13,6 @@
 
 <script>
     import WordCloud from '@/views/Professor-profile/Visualizations/Word-cloud.vue';
-    import Timeline from '@/views/Professor-profile/Visualizations/Timeline2.vue';
     import StatGram from '@/views/Professor-profile/Visualizations/StatGram.vue';
 
     export default {
@@ -21,7 +20,6 @@
         props: ['info'],
         components:{
             WordCloud,
-            Timeline,
             StatGram
         }
     }

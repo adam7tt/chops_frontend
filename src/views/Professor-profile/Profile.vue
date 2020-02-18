@@ -1,6 +1,6 @@
 <template>
   <div class="profile">
-    <div class="profile__top"> <!-- {{ info}} -->
+    <div class="profile__top">
         <ProfInfo :info="info"/>
         <Visualization :info="info"/>
     </div>

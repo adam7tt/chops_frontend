@@ -60,7 +60,7 @@ export default {
     var v = this
     setInterval(function(){
         v.values = v.values.map(
-            _ => (Math.random() * 4.9 + 0.1).toPrecision(2)
+          () => (Math.random() * 4.9 + 0.1).toPrecision(2)
         )
     }, 1400)
   },

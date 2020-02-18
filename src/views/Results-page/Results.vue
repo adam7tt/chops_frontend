@@ -11,18 +11,10 @@
           </tr>
         </thead>
         <tbody>
-
             <Result 
               v-for="person in data"
-              :key="person" :person="person">
-
-                
-            
+              :key="person" :person="person">   
             </Result>
-            
-            <!-- <tr  >
-
-            </tr> -->
         </tbody>
       </table>
     </ul>
@@ -41,9 +33,6 @@ export default {
   components: {
     Result
   },
-  // created(){
-  //   console.log(this.data)
-  // }
 };
 </script>
 

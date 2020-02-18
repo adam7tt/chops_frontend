@@ -6,10 +6,8 @@
 
 <script>
 import ApexCharts from 'apexcharts'
-
 export default {
     name: 'timeline',
-    //el: '#timeline',
     components: {
         ApexCharts
     },

@@ -24,7 +24,6 @@
                 {{info[0].citations.length}}
             </label>
         </div>
-        <!-- <p>{{info}}</p> -->
     </div>
 </template>
 

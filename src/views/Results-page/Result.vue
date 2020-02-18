@@ -19,7 +19,4 @@ export default {
 </script>
 
 <style scoped>
-/* td {
-  border: 2px solid black;
-} */
 </style>

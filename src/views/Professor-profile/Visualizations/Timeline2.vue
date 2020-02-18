@@ -25,9 +25,6 @@ export default {
     },
 
     methods: {
-        print() {
-            console.log("hello world");
-        },
         createAxisPoints() {
             let citations = [3,4,5,6,8]
             this.points = []
@@ -36,7 +33,6 @@ export default {
             for (let i = 0; i < nodes; i++) {
                 this.points.push( {x:20 + step*i, y:this.height/4})
             }
-        console.log(this.points)
         },
     },
     mounted() {
