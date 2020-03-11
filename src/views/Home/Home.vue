@@ -5,6 +5,7 @@
         Type in the school, professor, or area of research to find academic researchers.
       </div>
       <Searchbar/>
+      
   </div>
 </template>
 

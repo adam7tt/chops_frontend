@@ -14,7 +14,11 @@
 </template>
 -->
 <template>
-    <cloud :data="words" :fontSizeMapper="fontSizeMapper"/>
+    <div>   
+    <!-- {{data}}
+    {{words}} -->
+    <cloud :data="data" :fontSizeMapper="fontSizeMapper"/>
+    </div>
 </template>
 
 <script>
@@ -24,15 +28,15 @@ import Cloud from 'vue-d3-cloud'
 export default {
     name: "word-cloud",
     data(){
-        // console.log(this.info)
+        // console.log(this.data)
         return{
-            words: this.info[0].wordcloud,
+            words: this.data,
             fontSizeMapper: word => Math.log2(word.value) * 10
             // myColors: ['#1f77b4', '#629fc9', '#94bedb', '#c9e0ef'],
             // defaultWords: this.info[0].wordcloud
         }
     },
-    props: ['info'],
+    props: ['info', 'data'],
     components:{
         Cloud
         // wordcloud
