@@ -1,0 +1,1422 @@
+How Long Do Endoprosthetic Reconstructions for Proximal
+Femoral Tumors Last?
+
+Nicholas M. Bernthal MD, Adam J. Schwartz MD,
+Daniel A. Oakes MD, J. Michael Kabo PhD,
+Jeffrey J. Eckardt MD
+
+tumors improves,
+
+Abstract
+Background As the life expectancy of patients with
+musculoskeletal
+long-term studies of
+endoprosthetic reconstructions are necessary to establish
+realistic expectations for the implants and compare them to
+other reconstruction approaches.
+Questions/purposes
+(1) What is the long-term survival of
+cemented bipolar proximal femoral replacements? (2) How
+does prosthesis survival compare to patient survival among
+patients with Stage I, II, and III disease? (3) Do modular
+implants outperform custom-built prostheses? (4) Do some
+proximal
+replacements require conversion to
+THA?
+Patients and Methods We retrospectively reviewed all 86
+proximal femoral replacements used for tumor recon-
+struction from 1982 to 2008. Primary diagnoses were 43
+high-grade tumors (IIA/IIB), 20 low-grade tumors (IA/IB
+
+femoral
+
+Each author certiﬁes that he or she has no commercial associations
+(eg, consultancies, stock ownership, equity interest, patent/licensing
+arrangements, etc) that might pose a conﬂict of interest in connection
+with the submitted article.
+Each author certiﬁes that his or her institution approved the human
+protocol for this investigation, that all investigations were conducted
+in conformity with ethical principles of research, and that informed
+consent for participation in the study was obtained.
+This work was performed at University of California Los Angeles
+Medical Center.
+
+N. M. Bernthal (&), A. J. Schwartz, D. A. Oakes, J. J. Eckardt
+Department of Orthopaedic Surgery, University of California
+Los Angeles Medical Center, 1250 16th Street, Room 745,
+Santa Monica, CA 90404, USA
+e-mail: nbernthal@mednet.ucla.edu
+
+J. M. Kabo
+College of Engineering and Computer Science, California State
+University, Northridge, CA, USA
+
+or benign), and 23 with metastatic disease. We reviewed
+prosthesis survival, patient survival, complication rates,
+functional outcomes, and rates of conversion to THA.
+Results Five of 86 patients (5.8%) required revision of
+the femoral component. Five-, 10-and 20-year implant
+survivorships were 93%, 84%, and 56%, respectively. All
+patients with low-grade disease survived; the 5-year sur-
+vival rate for patients with metastatic disease was 16%; the
+5-, 10-, and 20-year survival for IIA/IIB patients was 54%,
+50%, and 44%, respectively. Five of 86 patients (5.8%)
+underwent conversion to THA for groin pain.
+Conclusions Cemented
+femoral
+bipolar
+replacements after
+resection proved a durable
+reconstruction technique. The implants outlived patients
+with metastatic disease and high-grade localized disease
+while patients with low-grade disease outlived their
+implants. The survival of modular prostheses was compa-
+rable to that of older, one-piece custom designs.
+Level of Evidence
+therapeutic study. See
+Guidelines for Authors for a complete description of levels
+of evidence.
+
+Level IV,
+
+proximal
+
+tumor
+
+Introduction
+
+Austin Moore and Harold Bohlman [22] published the ﬁrst
+case of endoprosthetic reconstruction for a bone neoplasm
+of the proximal femur in 1943. Nonetheless, amputation
+remained the mainstay of surgical treatment for proximal
+femoral tumors until the advent of doxorubicin and meth-
+otrexate in the mid-1970s [16]. Despite the fact that limb
+salvage is now performed in up to 80% to 90% of patients
+with musculoskeletal tumors, there remains debate as to
+which reconstruction modality allows the greatest function
+and is most durable [4, 6]. Allograft-prosthetic composite
+
+123
+
+2868
+
+Bernthal et al.
+
+Clinical Orthopaedics and Related Research1
+
+and endoprostheses are the two main reconstruction alter-
+natives, but the low incidence of these tumors coupled
+with often short-term patient followup has made deﬁnitive
+recommendations elusive [2, 14]. Critics of both recon-
+struction modalities cite unacceptably high rates of
+infection and implant failure [2, 4]. As long-term patient
+survival rates continue to improve, concerns regarding
+long-term durability of both constructs have surfaced.
+
+It is difﬁcult to draw conclusions from the existing
+literature on long-term outcomes of bipolar proximal fem-
+oral replacements (PFRs) because most of the reports are
+small, heterogeneous cohorts with limited followup [1, 12,
+26]. Bickels et al. [1] reported a 7.7% revision rate in 39
+PFRs at a mean followup of 80 months, but the cohort was
+small and included both unipolar and bipolar prostheses.
+Menendez et al. [21] reported a 3.2% revision rate in 62
+bipolar PFRs, but the mean followup was only 18 months.
+Recently, Finstein et al. [11] reviewed a larger cohort of 62
+bipolar PFRs in tumor patients and demonstrated good
+long-term survivorship of the prosthesis (19.4% revision
+rate at a mean of 59.2 months’ followup). However, none of
+these studies has reviewed prosthetic survival stratiﬁed by
+tumor stage, a major factor in providing prognostic infor-
+mation to the individual patient. Additionally, all prior
+reports describe a surprising 0% conversion rate from
+bipolar PFR to THA in tumor patients [1, 12, 21, 26].
+
+We therefore asked the following questions: (1) What is
+the long-term survival of cemented bipolar PFRs? (2) How
+does prosthesis survival compare to patient survival among
+patients with Stage I, II, and III disease, respectively? (3)
+Do newer, modular implants outperform older, custom-
+built prostheses? (4) What are the limb salvage rate,
+functional outcome, and complication rate for PFRs? (5)
+Do bipolar prostheses require conversion to THAs?
+
+Patients and Methods
+
+total
+
+We retrospectively identiﬁed all 106 bipolar PFRs
+implanted in 98 patients between December 1982 and
+December 2008. Of the 106 implants, 20 were excluded:
+nine were revision procedures, seven were performed for
+reasons other than tumor (ie,
+joint revisions and
+trauma), and four were expandable prostheses used in
+skeletally immature patients. The expandable prostheses
+were placed with the intent to perform multiple expansions
+and/or revision procedures at a later date, and these results
+have been previously reported [7]. The cohort was there-
+fore formed by the remaining 86 primary cemented bipolar
+PFRs performed in skeletally mature adults with primary
+tumors. The mean age was 44.5 years (range, 10–83 years)
+at the time of surgery. The diagnoses at the time of the
+index procedures are listed (Table 1). Of the 86 patients, 46
+
+123
+
+Table 1. Diagnosis on admission and classiﬁcation based on grade
+and stage
+
+Index diagnosis
+
+High
+grade
+
+Low
+grade
+
+Total
+
+Stage III
+primary or
+metastatic
+
+Chondrosarcoma
+
+Osteosarcoma
+
+Ewing’s sarcoma
+
+Giant cell tumor
+
+Malignant ﬁbrous
+
+histiocytoma
+
+Fibrosarcoma
+
+Lymphoma
+
+Multiple myeloma
+
+Chondroblastoma
+
+Hemangioma
+Soft tissue sarcoma
+
+Metastasis to bone
+
+Total
+
+9
+
+17
+
+10
+
+3
+
+2
+
+2
+
+43
+
+12
+
+1
+
+4
+
+1
+
+1
+1
+
+20
+
+1
+
+2
+
+1
+
+19
+
+23
+
+21
+
+18
+
+11
+
+4
+
+3
+
+2
+
+2
+
+1
+
+1
+
+1
+3
+
+19
+
+86
+
+(53.5%) were female and 40 (46.5%) were male. Seven of
+the 86 patients were lost to followup at 5, 6, 12, 21, 24, 80,
+and 86 months. The minimum followup was 3 months
+(mean,
+3–291 months; median,
+30.7 months). No patients were recalled speciﬁcally for
+this study; information was obtained via chart review. We
+had prior approval from our institution’s Ofﬁce for Pro-
+tection of Research Subjects.
+
+64.4 months;
+
+range,
+
+Of
+
+the 86 implants, 56 were manufactured by
+Stryker/Howmedica (Mahwah, NJ), 19 by Techmedica
+Inc (Camarillo, CA), eight by DePuy Orthopaedics, Inc
+(Warsaw, IN), two by Intermedics Orthopedics, Inc (Austin,
+TX), and one by Zimmer, Inc (Warsaw, IN). From 1982 to
+1990, 32 implanted prostheses were custom-designed one-
+piece implants designed by the senior authors (JMK, JJE).
+The remaining 54 implants since 1990 were manufactured
+using forged stems and titanium modular segments.
+
+Bipolar PFRs were used as the exclusive reconstruction
+method after tumor resection from the proximal femur
+since 1982, as our institution had a poor experience with
+allograft
+reconstruction [6]. Contraindications included
+tumors with extension prohibiting distal femoral ﬁxation or
+adequate soft tissue coverage for a functional extremity.
+Since 1992, a displaced pathologic fracture has been con-
+sidered a relative contraindication.
+
+Preoperative planning consisted of a comprehensive
+history and physical examination,
+routine laboratory
+assessment, high-quality plain radiographs, and a CT and/
+or MRI to determine the local extent of the lesion. Neo-
+adjuvant
+radiation was used in 23 patients: nine for
+metastatic disease, 10 with localized high-grade Ewing’s
+sarcoma,
+tissue
+
+two with high-grade localized soft
+
+Volume 468, Number 11, November 2010
+
+Cemented Bipolar Proximal Femoral Replacements
+
+2869
+
+sarcoma, and two with localized high-grade osteosarcoma
+who presented with a fracture. Neoadjuvant chemotherapy
+was used in 42 patients: one with low-grade osteosarcoma
+with pathologic fracture, 36 with high-grade localized
+disease, and ﬁve with metastatic disease.
+
+All surgery was performed by a single surgeon (JJE).
+The surgical technique was identical in all cases and fol-
+lowed standard principles of surgical oncology [5, 25]. An
+extended lateral incision was used for all surgeries and
+appropriate tissues were retained over the tumor in an
+attempt to obtain a wide tumor margin. Tumors with large
+extraosseous extension required additional soft
+tissue
+resection. The lateral incision was extended to the anterior
+superior iliac spine for tumors with anterior soft tissue
+extension; for posterior tumors, the incision was extended
+from the greater trochanter to the posterior iliac crest for
+tumors. The fascia lata was split in line with its ﬁbers and
+the vastus lateralis was then released proximally. The
+dissection was continued anterior and posterior to expose
+the hip. The interval between the quadriceps and the biceps
+was identiﬁed and perforating vessels were ligated. The
+bulk of the quadriceps was then reﬂected anteriorly off
+the femur, the biceps muscle reﬂected posteriorly, and the
+external
+rotators transected. The abductors were then
+released and reﬂected proximally, and the joint capsule
+incised. The hip was then dislocated. The level of resection
+was marked on the femur with an osteotome. After the
+osteotomy was completed, the distal marrow was sampled
+and a frozen-section analysis performed to conﬁrm the
+absence of tumor at the level of the osteotomy. The ace-
+tabulum was then sized and a bipolar component was
+selected. The femoral canal was reamed, cleaned, and
+dried. If the tip of the stem ended within the diaphysis of
+the femur, a cement restrictor was used. In cases in which
+the stem ended in the distal 8 cm of the metaphysis, cross-
+stem pin ﬁxation was used (Fig. 1). A trial reduction with
+all components was then performed. Before cementation,
+100 mg Solu-Cortef1 (Pﬁzer, New York, NY) was given
+intravenously to protect against the inﬂammatory effects of
+fat emboli that can occur during cementation. Antibiotic-
+impregnated cement was used in all cases. With the pros-
+thesis now assembled, the stem was inserted slowly into the
+femoral canal with the intent
+to achieve 20(cid:3) of neck
+anteversion. After hip relocation, leg lengths were once
+again veriﬁed, and the leg was taken through a ROM to
+conﬁrm stability. Modular neck segments were used to
+increase or decrease leg length accordingly. Meticulous
+closures were performed as the retained capsule was
+secured around the femoral neck with nonabsorbable
+suture. The quadriceps was then pulled over the prosthesis
+and the proximal portion was sutured to the external rota-
+tors and to the remaining biceps muscle. The abductors
+were pulled distally out
+to length and, with the hip
+
+Fig. 1A–C (A) An intraoperative view shows a newer, modular
+cemented bipolar PFR with circumferential porous coating and distal
+locking screws as the implant ends in the metaphysis. (B) AP and (C)
+lateral radiographs of the distal femur show a well-ﬁxed, cemented
+custom bipolar PFR stem at 26 years after surgery.
+
+abducted, sutured over the vastus lateralis and vastus
+medialis origins. No vigorous attempts were made to suture
+the abductors to the prosthesis to simulate anatomic tro-
+chanteric attachment. Deep and superﬁcial drains were
+placed and the wound closed.
+
+Postoperatively, patients were originally placed on bed
+rest for 4 weeks. Over time, this period of bed rest has been
+reduced to 7 to 10 days. Antibiotics were continued until
+the drains were removed. Warfarin was used for antico-
+agulation postoperatively for 21 days with a target
+international normalized ratio of 2.0 to 3.0. Several days
+before discharge, patients began ambulation in an abduc-
+tion hip brace, which was encouraged for 3 months, at
+which point weightbearing was permitted as tolerated.
+Isometric exercises were encouraged initially, along with
+passive ROM. Abduction strengthening exercises were not
+begun until 6 weeks and were then carried on for 3 to
+6 months.
+
+123
+
+2870
+
+Bernthal et al.
+
+Clinical Orthopaedics and Related Research1
+
+Patients were seen in clinic 2, 4, 8, and 12 weeks
+postoperatively and then every 3 months for the ﬁrst
+2 years. At
+these visits, all patients underwent wound
+checks and ROM testing, AP and lateral radiographs of the
+proximal femur were taken, and in patients with neoplastic
+disorders, a chest radiograph was taken. Chest CT scans
+were performed quarterly for patients with high-grade
+localized disease. From 2 to 4 years from surgery, patients
+were followed biannually with a clinical examination and
+hip and chest radiographs. Chest CT scans were obtained
+biannually in this group. After 4 years, the patients were
+seen annually with the same physical examination and
+radiographs in perpetuity. Cross-sectional imaging such as
+CT and MRI was only used at the operative site if the
+clinical examination and/or radiographs were suggestive of
+local relapse.
+
+scale
+
+Functional outcome was assessed using the system
+adopted by the Musculoskeletal Tumor Society (MSTS) for
+the functional evaluation of reconstructive procedures after
+skeletal resection [8]. The MSTS scoring system is a cli-
+nician-scored 30-point
+six
+categories (pain, stability, strength, appearance, accep-
+tance, and function) with scores of 0 to 5. Scores were
+considered excellent if ﬁve of six variables scored 5 points,
+good if ﬁve variables scored 3 points or more, fair if ﬁve of
+six factors scored 1 or more points, and poor if two or more
+factors scored 0. Scores were available for 53 of the 86
+patients.
+
+assessing each of
+
+Prosthesis survivorship was deﬁned by revision of the
+cemented component for any reason (including mechanical
+failure, infection, or local recurrence) as an end point.
+Mechanical failure included aseptic loosening or fatigue
+fracture of the femoral component. The rate of successful
+limb salvage was determined using amputation for any
+reason as an end point. All other repeat surgical proce-
+dures,
+including conversion to THA, were considered
+separately, as the cemented stem was retained.
+
+To determine disease-speciﬁc patient and prosthetic
+survival rates, the study cohort of 86 reconstructions was
+divided into three groups deﬁned by the staging system
+described by Enneking [8, 9]: Group 1 (n = 20) included
+those with low-grade malignancy (Stage IA or IB) or
+benign conditions; Group 2 (n = 43) consisted of those
+
+Table 2. Patients requiring revision of femoral component (n = 5)
+
+with high-grade localized disease (Stage IIA or IIB); and
+Group 3 (n = 23) consisted of those with Stage III primary
+sarcomas, lymphoma, myeloma, or metastatic disease.
+
+Patient, prosthesis, and limb survival rates were deter-
+mined using the Kaplan-Meier product-limit method [15].
+For the purpose of the Kaplan-Meier analysis, all patients
+were evaluated based on their status at their most recent
+clinic visit. Therefore, patients who died of disease with an
+intact implant were counted as nonrevised implants at the
+time point of their last clinic visit. Patients who were
+eventually lost to followup were included in the statistical
+evaluation based on their status at their last clinic visit. In
+either case, the analysis included the contribution of these
+individuals only up to the point of their last known status,
+ie, length of followup. Survival curves were compared
+using the log-rank method [19]. Statistical analysis was
+performed using a commercially available statistics pack-
+age (SPSS1 Version 11.0; SPSS Inc, Chicago, IL).
+
+Results
+
+Five of the 86 patients (5.8%) underwent revision of their
+prostheses, as deﬁned as removal of the femoral compo-
+nent. Three underwent revision for aseptic loosening, one
+for deep infection, and one underwent removal of a well-
+ﬁxed stem because of osteolysis at the prosthesis-stem
+junction at
+the time of conversion to THA (Table 2).
+Overall prosthesis survival rates at 5, 10, and 20 years were
+thus 97%, 84%, and 56%, respectively (Table 3).
+
+Patient survival was vastly different among patients with
+Stage I, II, and III disease. For patients with low-grade
+tumors (n = 20), there was 100% disease-speciﬁc survival
+at 20 years. The 5-year disease-speciﬁc survival rate for
+Stage III primary sarcoma, metastatic tumors, lymphoma,
+and multiple myeloma (n = 23) was 15.5%, and no
+patients in this group survived to 10 years. The 5-, 10-, and
+20-year disease-speciﬁc survival rates for patients diag-
+nosed with high-grade localized disease (n = 43) were
+54%, 50%, and 44%,
+respectively (Table 3; Fig. 2).
+Comparing these rates to the prosthetic survival rates, we
+found the reconstructions outlived patients with metastatic
+disease (Stage III) and high-grade localized disease (Stage
+
+Patient
+
+Age (years)
+
+Index diagnosis
+
+Stage
+
+Cause of revision
+
+Time to revision (months)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+42
+
+19
+
+22
+
+40
+
+49
+
+123
+
+Chondrosarcoma
+
+Chondroblastoma
+
+Ewing’s sarcoma
+
+Osteosarcoma
+
+Lymphoma
+
+IA
+
+IA
+
+IIB
+
+IIB
+
+III
+
+Aseptic loosening
+
+Aseptic loosening
+
+Aseptic loosening
+
+Deep infection
+
+Osteolysis of prosthesis-stem junction
+
+63
+
+200
+
+48
+
+244
+
+85
+
+Volume 468, Number 11, November 2010
+
+Cemented Bipolar Proximal Femoral Replacements
+
+2871
+
+Table 3. Kaplan-Meier 5-, 10-, and 20-year survivorship data for implant, patient, and limb
+
+Survivorship
+
+5 years
+
+10 years
+
+20 years
+
+%
+
+95% conﬁdence interval
+
+%
+
+95% conﬁdence interval
+
+%
+
+95% conﬁdence interval
+
+Lower
+
+Upper
+
+Lower
+
+Upper
+
+Lower
+
+Upper
+
+Implant survival
+
+Low grade (n = 20)
+
+Stage IIA/IIB (n = 43)
+Stage III (n = 23)
+
+Custom (n = 32)
+
+Modular (n = 54)
+
+Overall (n = 86)
+
+90.9
+
+93.8
+
+82.2
+
+87.6
+
+94.1
+
+88.4
+
+100
+
+100
+
+96.9
+
+93.9
+
+Patient survival by diagnosis
+
+Low grade (n = 20)
+
+100
+
+Stage IIA/IIB (n = 43)
+
+Stage III (n = 23)
+
+53.8
+
+15.5
+
+45.6
+
+6
+
+Limb salvage (n = 86)
+
+100
+
+NA = not applicable.
+
+99.6
+
+99.9
+
+99.8
+
+99.9
+
+62
+
+25
+
+90.9
+
+93.8
+NA
+
+87.4
+
+85.7
+
+83.6
+
+100
+
+50.2
+
+NA
+
+95.7
+
+82.2
+
+87.8
+
+79
+
+72.5
+
+75.9
+
+41.8
+
+91.4
+
+88.9
+
+80.2
+
+82.7
+
+79
+
+99.6
+
+99.8
+
+95.8
+
+98.9
+
+91.3
+
+58.6
+
+47.5
+
+13.6
+
+33.9
+
+32.4
+
+68.2
+
+46.9
+NA
+
+58.3
+
+NA
+
+55.7
+
+100
+
+44
+
+NA
+
+34.6
+
+53.6
+
+100
+
+95.7
+
+91.4
+
+100
+
+Fig. 2 Kaplan-Meier curves show postoperative patient survival for
+patients undergoing bipolar PFRs for tumors as divided by tumor
+stage at
+the time of diagnosis. This graph illustrates the stark
+differences in survival based on grade and stage of disease.
+
+IIA/B), while patients with low-grade disease outlived their
+implants (p \ 0.05) (Table 3; Fig. 3).
+
+We found no difference (p = 0.582) in prosthesis sur-
+vival between modular and nonmodular implants (Table 3;
+Fig. 4).
+
+One of the 86 patients (1.2%) underwent amputation, a
+hemipelvectomy performed at 87.7 months for a local
+recurrence. The remaining 85 patients (98.8%) maintained
+a viable limb, producing a 95.7% limb survival rate at
+20 years. Six other patients had local recurrences treated
+with palliative care. Functional evaluation data were
+available on 53 of 86 patients at a mean 92 months
+
+Fig. 3 Kaplan-Meier curves show postoperative patient survival
+based on tumor stage versus postoperative prosthesis survival. This
+graph illustrates these prostheses outsurvive patients with metastatic
+and high-grade disease, whereas patients with low-grade disease
+outsurvive the prostheses.
+
+postoperatively (range, 7–288 months). The mean MSTS
+score was 87.0% (mean raw score, 26.2; range, 13–30), and
+function was considered excellent in 15 patients (28.3%),
+good in 29 (54.7%), fair in nine (17.0%), and poor in
+none. Four of 86 patients (4.6%) experienced systemic
+complications (nonfatal pulmonary embolism, posttrans-
+fusion hepatitis, distant acute myelogenous leukemia, and
+postoperative perforated diverticulum). Eighteen local
+complications occurred in 16 patients (18.6%) (Table 4).
+
+123
+
+2872
+
+Bernthal et al.
+
+Clinical Orthopaedics and Related Research1
+
+Dislocation occurred in four patients (4.6%). The single
+cases of wound dehiscence and seroma formation were
+surgically de´brided in the immediate postoperative period
+and required no further care. The single case of deep
+infection was in an immunosuppressed lymphoma patient
+85 months after her index surgery and was managed with a
+
+staged prosthesis exchange. We noted no mechanical fati-
+gue fractures or nerve palsies.
+
+Five of 86 (5.8%) patients underwent conversion to
+THA for groin pain (Table 5). All patients reported reso-
+lution of symptoms with the revision procedure. None of
+the 23 patients who underwent adjuvant radiation therapy
+required conversion to THA.
+
+Discussion
+
+As advances in chemotherapy, radiation therapy, and limb
+salvage have led to survival improvements in patients with
+malignancies of the proximal femur, successful surgical
+intervention has been redeﬁned to include not only pres-
+ervation of life and limb but also a durable, reliable, and
+functional extremity. Long-term outcome studies of
+cemented bipolar PFRs are thus needed to evaluate these
+prostheses and compare them to other
+reconstruction
+modalities available. Speciﬁcally, questions of prosthetic
+survival as compared to patient survival, complications of
+the surgery, and conversions to THA must be answered to
+develop realistic expectations for the implants. While
+studies of
+in oncology patients
+are notoriously difﬁcult due to often shortened life
+
+long-term outcomes
+
+4*
+
+1
+
+5
+
+7
+
+4
+
+4
+
+1
+
+1
+
+1
+
+0
+
+0
+
+18
+
+Table 4. Local complications in patients undergoing primary proximal femoral replacement for oncologic disease
+
+Local complication
+
+No further surgery
+required
+
+Requiring surgery without revision
+of stemmed component
+
+Requiring revision
+of a stemmed component
+
+Total
+
+Fig. 4 Kaplan-Meier curves of postoperative prosthesis survival
+compare older, one-piece prostheses to newer, custom implants. We
+found no difference in survival between modular and nonmodular
+prostheses.
+
+Local relapse
+
+Dislocation
+
+Aseptic loosening
+
+of femoral component
+
+5**
+
+Deep infection
+
+Wound dehiscence
+
+Seroma
+
+Nerve palsies
+
+Fatigue fractures
+
+Total
+
+2
+
+4
+
+1
+
+1
+
+8
+
+* One was well ﬁxed but showed osteolysis at the prosthesis-stem interface.
+
+** Treated with palliative care.
+
+Table 5. Patients requiring conversion to THA (n = 5)
+
+Patient
+
+Index diagnosis
+
+Age (years)
+
+Radiation?
+
+Chemotherapy?
+
+Time to conversion (months)
+
+1
+
+2
+
+3
+4
+
+5
+
+Giant cell tumor
+
+Giant cell tumor
+
+Osteosarcoma
+Chondrosarcoma
+
+Osteosarcoma
+
+16
+
+44
+
+15
+43
+
+19
+
+No
+
+No
+
+No
+No
+
+No
+
+No
+
+No
+
+Yes
+No
+
+Yes
+
+49
+
+13
+
+71
+33
+
+244
+
+123
+
+Volume 468, Number 11, November 2010
+
+Cemented Bipolar Proximal Femoral Replacements
+
+2873
+
+expectancies, this study of 86 patients has a mean of fol-
+lowup of more than 65 months.
+
+Our study is associated with several limitations. First,
+we lacked control patients managed with allograft-com-
+posite implants for comparison. As our early institutional
+allograft experience was poor [6], endoprosthetic recon-
+struction has been used exclusively at our institution since
+1982. Despite this, our study provides outcomes to which
+institutions that perform allograft-composite can compare
+their results. Second, we compared an aggregate prosthesis
+survival curve to patient survival curves for patients with
+Stage I, II, and III disease. We believe the similarity in
+prosthesis survival among the different tumor stage groups
+allows this (Table 3) and the aggregate prosthesis survival
+curve provides the most robust curve for comparison.
+
+Our overall revision rate of 5.8% compares to that of
+other reports of PFRs. Bickels et al. [1] reported a revision
+rate of 7.7% at a mean of 80 months while Farid et al. [10]
+reported a revision rate of 13.5% with a median followup
+of 146 months. Menendez et al. [21] reported a 3.2%
+revision rate, but followup was only 18.1 months. In their
+review of bipolar PFRs, Finstein et al. [11] reported a
+revision rate of 19.4% (Table 6).
+
+is the patient
+
+By stratifying patients according to disease-speciﬁc life
+expectancy, our results help to answer a key question
+regarding prosthesis longevity:
+likely to
+outlive his or her prosthesis? For patients with Stage IIA or
+IIB disease or patients with Stage III disease, the survival
+of the implants exceeded patient survival. Patients with
+low-grade or benign disease, however, outlived their
+prostheses. Therefore, these patients should be counseled
+preoperatively that, while bipolar PFRs provide a durable
+reconstruction, they likely would require a revision surgery
+at some point in their lifetime.
+
+We found no difference in survival between newer,
+modular prostheses and older, one-piece custom prosthe-
+ses. While Finstein et al.
+found modular PFRs
+outperformed custom designs, our 10-year survival rates
+
+[11]
+
+were nearly identical
+(87.4% and 85.7%). While our
+sample size of 32 custom prostheses was larger than the 10
+described by Finstein et al. [11], additional studies will be
+required to provide a deﬁnitive answer to this question.
+
+Our high limb preservation rate (98.8%) and good
+functional results (83% good or excellent MSTS scores) are
+consistent with the literature. Malawar et al. [20] and
+Finstein et al. [11] both also reported one single case of
+amputation in their respective cohorts. Bickels et al. [1]
+reported 87% good or excellent results in 39 patients, while
+Finstein et al. [11] reported an MSTS mean of 21.3 with
+71% good or excellent results in 13 patients. While the
+subjectivity of the MSTS system and the variation of
+reporting methods make comparison across studies difﬁcult
+[18],
+these results indicate reliably good to excellent
+function can be obtained with PFRs. It should be noted,
+however, we had six additional cases of local relapse
+before 1992 treated palliatively, of which ﬁve presented
+with pathologic fractures. This led us to conclude local
+control cannot be consistently achieved with this procedure
+in patients presenting with a displaced pathologic fracture
+due to tumor seeding of the surrounding compartment;
+therefore, since 1992, these patients were recommended
+amputation for local control.
+
+Five of 86 patients (5.8%) required conversion to THA
+for groin pain and/or acetabular cartilage loss. While not
+reported in the oncology literature,
+the limitations of
+bipolar hemiarthroplasties have been well documented in
+other patient populations [23, 24]. In patients with degen-
+erative arthritis, Pellegrini et al. [24] reported a 12%
+conversion to THA in long-term followup. In patients with
+hemiarthroplasty for fracture, Ong et al. [23] reported an
+18% rate of moderate to severe groin pain. In osteonecrosis
+patients with bipolar hemiarthroplasty, incidences of groin
+pain have been reported from 12% to 42% [3, 13, 17],
+which is perhaps the best comparison group as they
+resemble tumor patients in that they are generally younger
+and have no pathology of the acetabulum. Ito et al. [13]
+
+Table 6. A comparison to prior publications reporting on PFRs in oncologic patients
+
+Study
+
+Number of
+implants
+
+Mean followup
+(months)
+
+Type of reconstruction
+
+Revisions
+
+Limb salvage rate
+
+Conversion to
+THA
+
+Bickels et al. [1]
+
+Farid et al. [10]
+
+Finstein et al. [11]
+
+Horowitz et al. [12]
+
+Menendez et al. [21]
+
+Zeegen et al. [27]
+
+Bernthal et al.
+
+39
+
+52
+
+62
+
+16
+
+62
+
+57
+
+86
+
+80
+
+59.2
+
+80
+
+18.1
+
+18
+
+65.3
+
+PFR = proximal femoral replacement.
+
+Bipolar and unipolar
+
+7.7% (3/39)
+
+98% (45/46)
+
+146 (median)
+
+40 bipolar, 12 acetabular
+
+13.5% (7/52)
+
+0
+
+0
+
+0
+
+0
+
+Bipolar ± acetabular
+
+resurface
+
+Bipolar PFR
+
+cement
+
+Bipolar PFR
+
+Unknown
+
+Bipolar PFR
+
+19.4% (12/62)
+
+98.4% (61/62)
+
+3.2% (2/62)
+
+0%
+
+5.8% (5/86)
+
+7.0% (6/86)
+
+98.9% (85/86)
+
+123
+
+2874
+
+Bernthal et al.
+
+Clinical Orthopaedics and Related Research1
+
+reported 6.3% of bipolar hemiarthroplasties for osteone-
+crosis required conversion to THA. The ﬁve patients in our
+study who required conversion to THA were younger than
+our average patient (mean 27.5 versus 44.5 years) and
+perhaps placed more physical demands on the reconstruc-
+tion. Three of
+receive adjuvant
+chemotherapy and all ﬁve did not receive radiation, sug-
+gesting these are not predisposing factors for conversion to
+THA in our experience.
+
+the patients did not
+
+This study represents the largest reported series of
+cemented bipolar PFRs implanted for tumors. By stratify-
+ing patients by tumor grade and stage, the data demonstrate
+patients with metastatic and high-grade tumors are unlikely
+to require revision surgery, whereas patients with low-
+grade tumors will likely outlive their prosthesis. The 5.8%
+conversion rate to THA, which is unique to this series,
+suggests groin pain and acetabular erosion be carefully
+evaluated in patients who have undergone bipolar PFRs.
+Still, with a 5.8% overall revision rate and a 99% limb
+salvage rate, we conclude cemented bipolar PFRs provide a
+durable method of reconstruction for the vast majority of
+patients with musculoskeletal tumors.
+
+Acknowledgments We thank Frederick R. Eilber, MD, and Fritz C.
+Eilber, MD, for their contribution in the care of these patients, the
+development of our
+this
+manuscript.
+
+tumor database, and their
+
+review of
+
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+
+References
+
+1. Bickels J, Meller I, Henshaw RM, Malawar MM. Reconstruction
+of hip stability after proximal and total femur resections. Clin
+Orthop Relat Res. 2000;375:218–230.
+
+2. Brien EW, Terek RM, Healy JH, Lane JM. Allograft recon-
+struction after proximal
+tibial resection for bone tumors: an
+analysis of function and outcome comparing allograft and pros-
+thetic reconstructions. Clin Orthop Relat Res. 1994;303:116–127.
+3. Cabanela ME. Bipolar versus total hip arthroplasty for avascular
+necrosis of the femoral head: a comparison. Clin Orthop Relat
+Res. 1990;261:59–62.
+
+4. Cannon CP, Zeegan E, Eckardt JJ. Techniques in endoprosthetic
+
+reconstruction. Oper Tech Orthop. 2005;14:225–235.
+
+5. Eckardt JJ, Eilber FR. Endoprosthetic replacement. Curr Orthop.
+
+1993;7:148–156.
+
+6. Eckardt JJ, Eilber FR, Grant TO, Mirra JM, Weisenberger TH,
+Dorey FJ. Management of Stage IIB osteogenic sarcoma: expe-
+rience at the University of California, Los Angeles. In: Cancer
+Treatment Symposia. Vol 3. National Institutes of Health Publi-
+cation Number 85-2766. Bethesda, MD: National Institutes of
+Health; 1985:117–130.
+
+7. Eckardt
+
+JM, Kelley CM, Ward WG Sr,
+Asavamongkolkul A, Wirganowicz PZ, Yang RS, Eilber FR.
+
+JJ, Kabo
+
+Expandable endoprosthesis reconstruction in skeletally immature
+patients with tumors. Clin Orthop Relat Res. 2000;373:51–61.
+
+8. Enneking WF. Modiﬁcation of the system for functional evalu-
+ation of surgical management of musculoskeletal tumors. In:
+Limb Salvage in Musculoskeletal Oncology. Enneking WF, ed.
+New York, NY: Churchill Livingstone; 1987:626–639.
+
+9. Enneking WF, Spanier SS, Goodman MA. A system for the
+surgical staging of musculoskeletal sarcoma. Clin Orthop Relat
+Res. 1980;153:106–120.
+
+10. Farid Y, Lin PP, Lewis VO, Yasko AW. Endoprosthetic and
+allograft-prosthetic composite reconstruction of the proximal
+femur for bone neoplasms. Clin Orthop Relat Res. 2006;442:223–
+229.
+
+11. Finstein J, King J, Fox E, Ogilvie C, Lackman R. Bipolar prox-
+for musculoskeletal
+
+imal
+neoplasms. Clin Orthop Relat Res. 2007;459:66–75.
+
+replacement prostheses
+
+femoral
+
+12. Horowitz SM, Glasser DB, Lane JM, Healey JH. Prosthetic and
+extremity survivorship after limb salvage for sarcoma: how long
+do the reconstructions last? Clin Orthop Relat Res. 1993;293:
+280–286.
+
+13. Ito H, Matsuno T, Kaneda K. Bipolar hemiarthroplasty for
+osteonecrosis of the femoral head. Clin Orthop Relat Res.
+2000;374:201–211.
+
+14. Jeys LM, Kulkarni A, Grimer RJ, Carter SR, Tillman RM, Abudu
+A. Endoprosthetic reconstruction for the treatment of musculo-
+skeletal tumors of the appendicular skeleton and pelvis. J Bone
+Joint Surg Am. 2008;90:1265–1271.
+
+15. Kaplan EL, Meier P. Nonparametric estimation from incomplete
+
+observation. J Am Stat Assoc. 1958;53:457–481.
+
+16. Lange B, Kramer S, Gregg J, Toledano S, Wimmer R, Evans A.
+High-dose methotrexate and Adriamycin in osteogenic sarcoma:
+The Children’s Hospital of Philadelphia Study. Am J Clin Oncol
+1982;5:3–8.
+
+17. Lee S, Sugano N, Nakata K, Matsui M, Ohzono K. Comparison
+between bipolar hemiarthroplasty and THA for osteonecrosis of
+the femoral head. Clin Orthop Relat Res. 2004;424:161–165.
+
+18. Lieberman JR, Dorey F, Shakelle P, Schumaker L, Thomas BJ,
+Kilgus DJ, Finerman GA. Differences between patients’ and
+physicians’ evaluations of outcome after total hip arthroplasty.
+J Bone Joint Surg Am. 1996;78:835–888.
+
+19. Machin D, Palmar MKB. Comparison of 2 survival curves. In
+Machin D, Palmar MKB, eds. Survival Analysis: A Practical
+Approach. Chichester, England: Bookcraft; 1995:66–75.
+
+20. Malawar MM, Chou LB. Prosthetic survival and clinical results
+with use of large-segment replacements in the treatment of high-
+grade bone sarcomas. J Bone Joint Surg Am. 1995;77:1154–1165.
+21. Menendez LR, Ahlmann ER, Kermani C, Gotha H. Endopros-
+thetic reconstructions for neoplasms of the proximal femur. Clin
+Orthop Relat Res. 2006;450:46–51.
+
+22. Moore AT, Bohlman HR. Metal hip joint: a case report. J Bone
+
+Joint Surg Am. 1943;25:688–692.
+
+23. Ong B, Maurer S, Aharonoff G, Zuckerman J, Koval K. Unipolar
+versus bipolar hemiarthroplasty: functional outcome after femoral
+neck fracture at a minimum of thirty-six months of follow up.
+J Orthop Trauma. 2002;16:317–322.
+
+24. Pellegrini VD Jr, Heiges BA, Bixler B, Lehman EB, Davis CM
+III. Minimum ten-year results of primary bipolar hip arthroplasty
+for degenerative arthritis of the hip. J Bone Joint Surg Am.
+2006;88:1817–1825.
+
+25. Springﬁeld DS, Enneking WF, Neff JR, Makley JT. Principles of
+
+tumor management. Instr Course Lect. 1984;33:1–25.
+
+26. Zeegen EN, Aponte-Tinao LA, Hornicek FJ, Gebhardt MC,
+Mankin HJ. Survivorship analysis of 141 modular metallic en-
+doprostheses at early followup. Clin Orthop Relat Res. 2004;
+420:239–250.
+
+123
+
+View publication stats
+View publication stats
+
+

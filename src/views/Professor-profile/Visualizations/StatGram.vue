@@ -57,12 +57,12 @@ export default {
   },
 
   mounted() {
-    var v = this
-    setInterval(function(){
-        v.values = v.values.map(
-          () => (Math.random() * 4.9 + 0.1).toPrecision(2)
-        )
-    }, 1400)
+    // var v = this
+    // setInterval(function(){
+    //     v.values = v.values.map(
+    //       () => (Math.random() * 4.9 + 0.1).toPrecision(2)
+    //     )
+    // }, 1400)
   },
 
   watch: {

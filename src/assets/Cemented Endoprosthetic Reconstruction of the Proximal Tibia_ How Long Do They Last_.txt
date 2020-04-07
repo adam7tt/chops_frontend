@@ -1,0 +1,1378 @@
+Cemented Endoprosthetic Reconstruction of the Proximal Tibia
+
+How Long Do They Last?
+
+Adam J. Schwartz MD, J. Michael Kabo PhD,
+Fritz C. Eilber MD, Frederick R. Eilber MD,
+Jeffrey J. Eckardt MD
+
+Published online: 22 May 2010
+(cid:2) The Author(s) 2010. This article is published with open access at Springerlink.com
+
+Abstract
+Background The few available studies documenting the
+long-term survival of cemented proximal tibial endopros-
+theses for musculoskeletal
+tumors do not differentiate
+between stem designs or patient diagnosis. There is wide
+variation in survival rates reported, possibly a result of this
+heterogeneity in patient population and implant design.
+Questions/purposes We therefore asked: (1) How long do
+proximal tibial endoprostheses last? (2) What is the typical
+long-term functional result after proximal tibial replace-
+ment? And (3) what are the short- and long-term
+
+Each author certiﬁes that he or she has no commercial associations
+(eg, consultancies, stock ownership, equity interest, patent/licensing
+arrangements, etc) that might pose a conﬂict of interest in connection
+with the submitted article.
+Each author certiﬁes that his or her institution approved the human
+protocol for this investigation and that all investigations were
+conducted in conformity with ethical principles of research.
+This work was performed at The University of California Los Angeles
+Medical Center.
+
+A. J. Schwartz, J. J. Eckardt
+Department of Orthopaedic Surgery, University of California
+Los Angeles Medical Center, Santa Monica, CA, USA
+
+A. J. Schwartz (&)
+Mayo Clinic Arizona, 5777 E Mayo Boulevard, Scottsdale,
+AZ 85056, USA
+e-mail: schwartz.adam@mayo.edu;
+adamschwartz2001@yahoo.com
+
+J. M. Kabo
+College of Engineering and Computer Science, California State
+University, Northridge, Northridge, CA, USA
+
+F. C. Eilber, F. R. Eilber
+Department of Surgical Oncology, University of California Los
+Angeles Medical Center, Santa Monica, CA, USA
+
+complications associated with endoprosthetic reconstruc-
+tion of the proximal tibia, particularly with respect to the
+soft tissue reconstruction?
+Patients and Methods We retrospectively reviewed 52
+patients with 52 proximal
+tibial endoprosthetic recon-
+structions for a tumor-related diagnosis. Kaplan-Meier
+survivorship analysis was performed using revision of the
+stemmed components for any reason as an endpoint for
+implants, and death due to disease progression for patients.
+Function was assessed using the MSTS scoring system.
+The minimum followup was 1 month (mean, 96 months:
+range, 1–284 months; median, 69 months).
+Results Using revision of the stemmed components for
+any reason as an end point, overall prosthesis survival at 5,
+10, 15, and 20 years was 94%, 86%, 66%, and 37%,
+respectively. The 29 modular implants demonstrated a
+trend toward improved survival compared to the 23 cus-
+tom-designed components, with a 15-year survivorship of
+88% versus 63%. The mean postoperative Musculoskeletal
+Tumor Society score at most recent followup was 82% of
+normal function (mean raw score, 24.6; range, 4–29).
+Conclusions Cemented endoprosthetic reconstruction of
+the proximal tibia provides a reliable method of recon-
+struction following tumor resection.
+Level of Evidence
+Level IV, therapeutic study. See the
+Guidelines for Authors for a complete description of levels
+of evidence.
+
+Introduction
+
+Amputation was the standard method for achieving local
+control of tumors of the proximal tibia prior to the early
+1970s. Since the advent of effective chemotherapeutic reg-
+imens,
+limb sparing surgery provides improved patient
+
+123
+
+2876
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+function and acceptance when compared to amputation [41,
+43, 46]. The ﬁrst limb salvage efforts in this anatomic
+location consisted largely of resection arthroplasty [2, 5, 17,
+29]. Alternative methods of reconstruction for tumors
+involving this anatomic location include Van Ness rota-
+tionplasty [17, 22, 29], resection arthrodesis [2, 5], allograft
+[4, 6, 15, 53], allograft-prosthetic composite reconstruction
+[7, 21, 25], and endoprosthetic reconstruction. Acceptable
+long-term implant survival may be obtained with allograft-
+prosthetic composite techniques [7, 21, 25], which provide a
+substrate for soft tissue and extensor mechanism attachment.
+Allograft-prosthetic composites offer the best alternative to
+endoprosthetic reconstruction of the proximal tibia as bio-
+logic ﬁxation can be achieved through direct attachment of
+the patellar tendon to the allograft bone [7, 21, 25].
+
+Early attempts at endoprosthetic proximal tibial recon-
+struction were fraught with wound-related complications,
+patellar tendon attachment problems, and high rates of
+repeat surgery, largely a result of an insufﬁcient soft tissue
+envelope to surround the proximal tibia [20]. In 1983, at
+the second International Symposium on Limb Salvage
+(ISOLS) meeting in Vienna, Austria, Jean Dubousset of
+France ﬁrst reported his results using a medial gastrocne-
+mius rotation ﬂap as a means of obtaining soft tissue
+coverage over a proximal tibial endoprosthesis [8]. The
+clinical success of this technique in terms of extensor
+mechanism function and soft tissue healing permitted the
+routine use of endoprostheses for
+reconstruction after
+tumor resection of the proximal tibia [9, 10, 38].
+
+Cemented proximal tibial endoprostheses are widely used
+today [3, 14, 16, 19, 23, 26, 33, 36, 37, 51]. A few reports
+available document the long-term survival of these devices
+for musculoskeletal tumors [26, 36, 51]. These studies
+document a wide range of implant survival from 22% to 86%
+[3, 14, 18, 19, 23, 26, 33, 36, 37, 44, 51]. Additionally, these
+studies make no attempt to account for changes in implant
+design or differences among patient diagnoses.
+
+We therefore sought to address the following questions:
+(1) How long do proximal tibial endoprostheses last? (2)
+What is the typical long-term functional result following
+proximal tibial replacement? And (3) what are the short-
+and long-term complications associated with endopros-
+thetic reconstruction of the proximal tibia, particularly with
+respect to the soft tissue reconstruction?
+
+Patients and Methods
+
+We retrospectively reviewed the charts of all 57 patients
+who underwent cemented endoprosthetic tibial reconstruc-
+tion between December 1985 and December 2008. Three
+skeletally immature patients underwent reconstruction with
+an expandable prosthesis, with the intent of performing
+
+123
+
+Table 1. Patient demographics
+
+Variable
+
+Total
+
+Male
+
+Female
+
+Age (years)*
+
+Diagnosis
+
+Giant cell tumor
+
+Ewing’s sarcoma
+
+Chondrosarcoma
+
+Soft tissue sarcoma
+
+Parosteal osteosarcoma
+Fibrosarcoma
+
+High-grade osteosarcoma
+
+38 (73.1%)
+
+Number of patients
+
+52
+
+25 (48.1%)
+
+27 (51.9%)
+
+24.2 (13–71)
+
+4 (7.7%)
+
+3 (5.8%)
+
+2 (3.8%)
+
+2 (3.8%)
+
+1 (1.9%)
+1 (1.9%)
+
+1 (1.9%)
+
+9 (17.3%)
+
+43 (82.7%)
+
+Undifferentiated spindle cell sarcoma
+
+Group 1: Low grade or benign
+
+Group 2: High grade localized
+
+* Value is expressed as mean, with range in parentheses.
+
+multiple expansions and component exchanges during
+growth and were not included in the present analysis. An
+additional two reconstructions were performed for a diag-
+nosis other than musculoskeletal
+tumor and were also
+excluded from the study cohort. This left 52 proximal tibial
+endoprosthetic reconstructions in 52 patients with a tumor-
+related diagnosis available for study (Table 1). The study
+cohort of 52 reconstructions was divided into two groups,
+according to the staging system described by Enneking et al.
+[12]: Group 1 (n = 9) included those with low-grade
+malignancy (Stage IA or IB) or benign conditions, and
+Group 2 (n = 43) consisted of those with high-grade local-
+ized disease (Stage IIA or IIB). There were no patients with
+Stage III primary sarcomas or metastatic disease in this
+cohort. Minimum followup for all patients was 1 month
+(mean, 96.0 months; range, 1.0–283.6 months; median, 69.2
+months). At the time of most recent followup, 13 of 52
+patients (25%) had died, 11 due to progression of disease,
+one due to sepsis related to a perirectal abscess, and another
+due to age-related causes. Thirty-nine patients (75%)
+remained alive; 38 patients were disease-free, and one
+patient with giant cell tumor and stable pulmonary nodules
+was alive at 148.4 months. No patients were seen speciﬁ-
+cally for this chart review. Eleven of the 52 patients were
+followed for less than 2 years. Four died at 4, 5, 15, and 18
+months and four were recent procedures that have short-term
+followup. Three were lost to followup at 5, 6 and 7 months,
+but were well at the time of last evaluation. We had prior
+approval from our institution’s Ofﬁce for Protection of
+Research Subjects (UCLA IRB #G08-10-100-01).
+
+Implants were manufactured by two companies: How-
+Inc
+
+and Techmedica
+
+(Mahwah, NJ)
+
+medica/Stryker
+
+Volume 468, Number 11, November 2010
+
+Cemented Proximal Tibia Endoprostheses
+
+2877
+
+(Camarillo, CA). Between 1985 and 1989, these implants
+were custom-designed, one-piece casted implants. A rotat-
+ing-hinge was utilized in all cases. A one-piece custom tibial
+endoprosthesis was implanted in 23 cases (44%), while a
+modular endoprosthesis was utilized in 29 (56%). The 51
+implants (98%) manufactured by Stryker/Howmedica used
+the Kinematic1 rotating-hinge mechanism. The one implant
+(2%) manufactured by Techmedica used the Noiles1
+rotating-hinge mechanism. Porous extramedullary coating
+was applied to the body of the ﬁrst 10 proximal tibial en-
+doprostheses. The subsequent 10 endoprostheses were
+manufactured without this surface but demonstrated an
+alarming incidence of osteolysis and radiolucent lines. We
+have previously reported this subset of patients [48]. This
+coating was then reapplied to the prosthetic body over a
+limited distance (2–3 cm) for the remaining 32 implants in
+the series. In the initial custom design, the tibial polyethyl-
+ene component was secured by three metal tabs to the
+proximal tibial implant. The subsequent design in the early
+1990s used a press-ﬁt capture mechanism.
+
+The surgical technique for tumor resection included a
+wide surgical margin; tourniquets were never utilized [9].
+All resections performed in this series were intraarticular
+and intracompartmental. The surgical approach utilized a
+longitudinal medial incision over the distal thigh extending
+medially toward the ankle and following the juncture of the
+anterior compartment with the tibia. Once the tibia was
+completely exposed, the level of resection was marked on
+the tibia distally with an osteotome. A more distal mark on
+the tibia and a mark on the distal femur were made and this
+distance measured and recorded. The posterior tibial and
+peroneal arteries were identiﬁed in the popliteal space. The
+anterior tibial artery and vein were identiﬁed in the prox-
+imal calf and the anterior compartment. This vessel was
+occasionally sacriﬁced for large, laterally based tumors. If
+this was required, a Doppler probe was used to conﬁrm the
+presence of blood ﬂow distally with manual compression
+on the artery before ligation. The ligamentous structures
+were dissected free from their femoral origins and the
+posterior capsule was transected. The distal marrow was
+sent for frozen-section analysis to ensure a negative mar-
+row margin. With the knee ﬂexed, the distal femoral cuts
+were performed freehand using a sagittal saw. Once the
+frozen section of the distal marrow was reported as nega-
+tive, the tibia was reamed over a guidewire to maximize ﬁt
+and ﬁll of the distal canal with the prosthetic stem. The trial
+endoprosthesis was reduced, and restoration of the prere-
+section extremity length was veriﬁed using the marks on
+the proximal tibia and femur. The neurovascular bundle
+was palpated to ensure there was not excessive tension on
+the vessels, and a Doppler probe at the ankle conﬁrmed
+the presence of the posterior tibial and dorsalis pedis
+pulses. Before cementation, all patients received 100 mg
+
+Solu-Cortef1 (Pﬁzer, New York, NY) to help protect
+against the inﬂammatory effects of fat emboli. The medial
+gastrocnemius muscle was dissected free before cementing
+the endoprosthetic components and was rotated over the
+tibial component. To reconstruct the extensor mechanism,
+the joint capsule and patellar tendon were sutured to the
+leading edge of the transposed gastrocnemius muscle. A
+split-thickness skin graft was then applied to the muscle
+ﬂap in all cases.
+
+Postoperatively patients were immobilized either with a
+long posterior splint or a cast for 4 weeks and were then
+allowed to begin gentle ROM exercises. Warfarin was
+administered for 3 weeks (goal international normalized
+ratio of 2.0–3.0). On the third postoperative day, patients
+were made weightbearing as tolerated with ambulatory
+supports, which were used for 6 to 8 weeks. At 4 weeks, the
+cast was removed and ROM and motor strengthening
+exercises were begun.
+Intravenous antistaphylococcal
+antibiotics were administered until
+the drains were
+removed, generally 6 to 8 days after surgery.
+
+Patients were followed every 2 to 3 weeks for the ﬁrst 2
+months after surgery. They were then followed quarterly
+for 2 years, semiannually for an additional 2 years, and
+then annually. Radiographs of the affected limb were
+obtained at each postoperative visit, along with quarterly
+chest radiographs and semiannual chest CT. Postoperative
+function was evaluated for each patient with the use of the
+MSTS function score [13].
+
+Data retrieved from the charts included the index diag-
+the time of presentation
+nosis and disease stage at
+(according to the system described by Enneking [12]),
+length of followup, postoperative Musculoskeletal Tumor
+Society (MSTS) function scores at the time of most recent
+followup [13], and any major postoperative events (com-
+plications,
+revision of
+stemmed components,
+infection), and local recurrence.
+Complications and implant survival data were included for
+all patients, including those with short-term followup and
+the three patients lost to followup (at time end-points of 5,
+6, and 7 months).
+
+repeat surgery for any reason,
+
+Patient, prosthesis, and limb survival rates were deter-
+mined using the Kaplan-Meier product-limit method [27].
+Prosthesis survivorship was evaluated using revision of the
+stemmed components for any reason (including mechanical
+failure, infection, or local recurrence) as an end point.
+Mechanical failure included aseptic loosening or fatigue
+fracture of the stemmed tibial or femoral components.
+Bushing, axle, and polyethylene failures were analyzed
+separately, as they were successfully managed without
+the need for revision of major stemmed components.
+Statistical analysis was performed using a commercially
+available statistics package (SPSS1 Version 11.0; SPSS
+Inc, Chicago, IL).
+
+123
+
+2878
+
+Schwartz et al.
+
+Results
+
+(Fig. 1; Table 2). Ten
+
+Using revision of the stemmed components for any reason
+as an end point, overall prosthesis survival at 5, 10, 15, and
+20 years was 93.8%, 86.4%, 65.8%, and 37.0%, respec-
+tively
+stemmed
+components (19.2%) were revised: nine due to mechanical
+failure and one due to late hematogenous infection. Among
+the nine stemmed components revised for mechanical
+failure, six were due to aseptic loosening of the tibial stem
+at a mean 11.8 years postoperatively (range, 3.8–19.6
+
+cemented
+
+Clinical Orthopaedics and Related Research1
+
+years). Three of the six cemented stems revised for aseptic
+loosening had an extramedullary porous surface and three
+did not. The remaining mechanical stem failures included
+single instances of aseptic loosening of the femoral com-
+ponent at 7.1 years, fatigue fracture of the femoral condyle
+at 13.5 years, and periprosthetic tibial fracture at 18.6 years
+postoperatively. A second revision procedure was required
+in four of these nine cases of mechanical failure. One
+patient required a third revision procedure due to acute
+infection. None of the casted (n = 23) or modular forged
+stems (n = 29) have experienced fatigue fracture. Failure of
+the rotating-hinge mechanism necessitating replacement of
+the bushings, axle, tibial bearing, or polyethylene without
+revision of the stemmed components occurred in 12 cases
+(23.1%) at a mean of 8.9 years postoperatively (range, 2.5–
+17.1 years). Of the 12, failure of the tibial polyethylene
+capture mechanism occurred in eight (all of which utilized
+the original tabbed capture mechanism), standard bushing
+failures in two, and single instances of the fatigue fracture
+of the axle and tibial bearing component. All nine patients
+initially diagnosed with low-grade or aggressive benign
+tumors have survived (Table 2). The 5-, 10-, 15-, and 20-
+year disease-speciﬁc survival rates for the 43 patients
+diagnosed with high-grade localized disease were 81.2%,
+69.9%, 69.9%, and 69.9%, respectively. Survival of con-
+temporary modular implants exceeded the 15-year patient
+survival among those with high-grade localized disease.
+The 29 modular implants demonstrated a trend toward
+improved (p = 0.13) survival compared to the 23 custom
+designed components, with a 15-year survivorship of
+87.5% versus 62.9% (Fig. 2).
+
+The mean postoperative MSTS score at the time of most
+recent followup was 82.0% of normal function (mean raw
+score, 24.6; range, 4–29). The postoperative ROM on most
+recent assessment for all patients revealed mean ﬂexion of
+
+Fig. 1 Kaplan-Meier survivorship analysis shows overall prosthesis
+survival (n = 52). Using revision of the stemmed components for any
+reason as an end point, overall prosthesis survival at 5, 10, 15, and 20
+years was 93.8%, 86.4%, 65.8%, and 37.0%, respectively. Dashed
+lines represent 95% conﬁdence intervals.
+
+Table 2. Implant and patient survival
+
+Survival
+
+5 years
+
+10 years
+
+15 years
+
+20 years
+
+%
+
+95% CI
+
+%
+
+95% CI
+
+%
+
+95% CI
+
+%
+
+95% CI
+
+Lower Upper
+
+Lower Upper
+
+Lower Upper
+
+Lower Upper
+
+Implant survival
+
+Low grade (n = 9)
+
+100.0
+
+75.0% 42.6% 100.0% 37.5% 8.4% 100.0% 37.5% 8.4% 100.0%
+
+Stage IIA/IIB (n = 43)
+
+93.0% 84.0% 100.0% 88.1% 76.1% 100.0% 71.2% 51.1%
+
+99.1% 38.1% 17.0%
+
+Custom (n = 23)
+
+89.5% 76.7% 100.0% 83.9% 68.7% 100.0% 62.9% 42.9%
+
+92.2% 35.4% 16.0%
+
+85.4%
+
+78.1%
+
+Modular (n = 29)
+
+87.5% 67.3% 100.0% 87.5% 67.3% 100.0% 87.5% 67.3% 100.0% NA
+
+Overall (n = 52)
+
+93.8% 85.9% 100.0% 86.4% 74.7%
+
+99.9% 65.8% 46.7%
+
+92.7% 37.0% 17.1%
+
+80.2%
+
+100.0
+
+100.0
+
+100.0
+
+94.8% 69.9% 55.4%
+
+88.1% 69.9% 55.4%
+
+88.1% 69.9% 55.4%
+
+88.1%
+
+Patient survival by diagnosis
+
+Low grade (n = 9)
+Stage IIA/IIB (n = 43)
+
+100.0
+81.2% 69.6%
+
+95% CI = 95% conﬁdence interval; NA = not applicable.
+
+123
+
+Volume 468, Number 11, November 2010
+
+Cemented Proximal Tibia Endoprostheses
+
+2879
+
+abdominus free muscle ﬂap. Deep infection occurred in
+three of the 52 patients (5.8%). One patient developed a
+deep bacterial infection immediately after the index pro-
+cedure and was
+successfully treated surgically with
+irrigation and de´bridement with retention of the compo-
+nents. A second patient with a modular prosthesis
+presented with an acute hematogenous infection 2 years
+after
+the index operation. The cemented stems were
+retained, along with an antibiotic spacer, and after 6 weeks
+of intravenous antibiotics, the modular components were
+replaced successfully. The third patient, who underwent his
+initial reconstruction in 1985, experienced a late infection
+with Staphylococcus epidermidis in 1990. After multiple
+episodes of repeat infection, he ultimately underwent two-
+stage reimplantation of a custom-designed endoprosthesis
+with crosspin ﬁxation for antirotational control in both the
+femoral and tibial stems in 2008. He is currently pain free
+and ambulates without supports despite a 90(cid:3) active
+extensor lag. Five of the 52 patients (9.6%) ultimately
+required amputation after either the index or revision pro-
+cedure and were categorized as failed limb salvage efforts.
+The reason for amputation was local recurrence in three
+patients and single instances of regional metastasis and
+intractable pain. A total of 98 procedures were performed
+in 52 patients, including all index procedures and all pro-
+cedures related to local complications or revisions.
+
+Discussion
+
+Endoprosthetic reconstruction of the proximal
+tibia is
+challenging due to a variety of factors. Problems include
+the frequently poor residual soft tissue envelope and the
+need for reconstruction of the extensor mechanism to either
+the prosthesis or allograft. At the 1983 ISOLS meeting in
+Vienna, Jean Debousset of France described the use of a
+gastrocnemius rotation ﬂap used to cover the proximal
+tibial prosthetic implant. This provided excellent coverage
+over the prosthesis and an anchorage point for the joint
+capsule and patellar tendon attachments. As a result,
+prosthetic replacement of the tibia became feasible, since
+soft tissue coverage and extensor mechanism attachment
+were possible [8, 9, 40, 45]. While the use of this recon-
+structive method is now widespread, the available long-
+term data report a wide range of implant survival from 22%
+to 86% [3, 14, 19, 23, 26, 33, 36, 37, 39, 44, 51, 52, 54].
+We therefore raised the following questions: (1) How long
+do proximal tibial endoprostheses last? (2) What is the
+typical
+long-term functional result after proximal tibial
+replacement? And (3) what are the complications associ-
+ated with endoprosthetic reconstruction of the proximal
+tibia, particularly with respect
+tissue
+reconstruction?
+
+to the
+
+soft
+
+123
+
+Fig. 2A–B Kaplan-Meier survivorship analysis shows (A) modular
+(n = 29) versus (B) custom (n = 23) implant survival. Although not
+statistically signiﬁcant, the 29 modular implants demonstrated a trend
+toward improved survival compared to the 23 custom-designed
+components, with a 15-year survivorship of 87.5% versus 62.9% (p =
+0.13). Dashed lines represent 95% conﬁdence intervals.
+
+110.0(cid:3) (range, 30(cid:3)–135(cid:3)), mean passive extension to 1.4(cid:3)
+(range, 0(cid:3)–50(cid:3)), and mean active extension lag of 17.9(cid:3)
+(range, 0(cid:3)–100(cid:3)). Forty-two patients achieved full active
+extension, while nine patients demonstrated a residual
+active extensor lag (range, 5(cid:3)–100(cid:3)).
+
+Seven of 52 patients (13.5%) experienced delayed
+wound healing or minor postoperative wound dehiscence,
+three of which were treated nonoperatively. Among the
+four
+two underwent simple wound
+excision and primary closure, one required a split-thickness
+skin graft, and one necessitated coverage with a rectus
+
+treated surgically,
+
+2880
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+Table 3. Review of the available literature on proximal tibial endoprosthetic reconstruction
+
+Study
+
+Implant survivorship/revision ratea,b
+
+Amputationb Infectionb Local
+
+recurrenceb
+
+Number
+of
+implants
+
+Mean
+followup
+(years)
+
+10–14
+years
+
+15–19
+years
+
+C 20
+years
+
+0–9
+years
+
+31.3d
+46.2d
+
+58g
+100g
+5.4d
+84.5g
+
+73.0g
+
+Horowitz et al. [23] (1991)
+
+Malawer and Chou [33] (1995)
+
+Grimer et al. [19] (1999)
+
+Kawai et al. [28] (1999)
+
+Ilyas et al. [24] (2000)
+
+Bickels et al. [3] (2001)
+
+Natarajan et al. [37] (2003)
+
+133
+
+Flint et al. [14] (2006)
+
+Myers et al. [36] (2007)
+
+Jeys et al. [26] (2008)
+
+Wu et al. [51] (2008)
+
+Schwartz et al. [current study]
+
+52
+
+(2010)
+
+16
+
+13
+
+151
+
+7
+
+15
+
+55
+
+44i
+99
+136k
+44
+
+5.3
+
+3.5
+
+6.7
+
+3.1
+
+3.5
+
+6.3
+
+5.0
+
+5.0
+
+15.0
+
+9.0
+
+7.1
+
+8.0
+
+MSTS
+scoreb,c
+
+3E, 7G, 4Fe
+70.0%
+77%f
+90%
+
+61%
+
+48G/E, 6F, 1P
+
+63E, 36G, F8,
+
+P21
+
+75%
+
+18.8%
+
+23.1%
+
+17.0%
+
+14.3%
+
+13.3%
+
+3.6%
+
+2.3%
+
+15.9%
+25%j
+18.4%
+
+15.9%
+
+9.6%
+
+37.5%
+
+30.8%
+
+28.0%
+12.5%h
+13.3%
+
+3.6%
+
+12.0%
+
+15.9%
+
+19.5%
+
+21.0%
+
+15.9%
+
+5.8%
+
+0.0%
+
+0.0%
+
+16.0%
+
+0.0%
+
+0.0%
+
+6.2%
+
+3.0%
+
+4.5%
+
+5.1%
+
+4.0%
+
+2.3%
+
+5.8%
+
+66.0d
+
+30.0d
+
+62.5g
+
+40.6g NA
+
+44.4/81.4g,l 22.2/65.3g,l
+93.8g
+
+86.4g
+
+65.8g
+
+37.0g
+
+84.6%
+
+82.0%
+
+aShown as percentage (number as reported in original article converted for ease of comparison); bnumbers (as reported) converted to
+percentage of all cases for ease of comparison; call but ﬁrst two articles (Horowitz et al. [23] and Malawer et al. [33]) used the revised 1993
+MSTS scoring system [13]; dreported percentage of implants revised; eE = excellent, G = Good, F = Fair, P = Poor, according to the 1987
+MSTS scoring system [11] f50 of 100 analyzed; gKaplan-Meier survivorship of implant; hreported as four wound complications of 32 total
+knee implants (comprising both proximal tibia and distal femur); iall treated with cementless Kotz Modular Femur and Tibia Resection System
+(Stryker, Rutherford, NJ); jnumber reported as calculated by survival analysis; kincludes all tibial endoprostheses; lﬁrst number is survivorship
+of nine custom implants; second number is survivorship of 35 modular implants; MSTS = Musculoskeletal Tumor Society; NA = not available
+or not studied.
+
+Fig. 3A–E Images illustrate the case of a patient experiencing
+aseptic loosening of a tibial stem 20 years after initial procedure. (A)
+A plain AP radiograph demonstrates the aseptic loosening of the tibial
+stem. (B) An intraoperative photograph shows revision of the stem.
+
+Clinical photographs show the patient’s function at the time of most
+recent followup, illustrating active range of motion from (C) full
+extension to (D) 110 degrees of ﬂexion. (E) A plain AP radiograph 2
+years following revision showing a well-ﬁxed tibial stem.
+
+123
+
+Volume 468, Number 11, November 2010
+
+Cemented Proximal Tibia Endoprostheses
+
+2881
+
+The limitations of this study include the small patient
+to followup. First,
+cohort, and the three patients lost
+regarding the relatively small cohort, musculoskeletal
+tumors of the proximal tibia are rare, making it exceedingly
+difﬁcult to amass a large number of patients for prospective
+evaluation. While this series appears small, the available
+literature reports outcomes for cohorts ranging from seven
+to 136 patients over varied followup lengths, employing
+widely varied surgical techniques and implants. We report
+a relatively uniform cohort of 52 patients who underwent
+reconstruction by one surgeon, with one method of exten-
+sor mechanism and soft tissue reconstruction. We believe
+that the implant survival data of such a uniform cohort
+provides a major contribution to the available literature.
+The three patients lost to followup were included to capture
+all data related to perioperative complications and events.
+The lost-to-followup quotient (ratio of patients lost to fol-
+lowup to the number of failures reported) [35] was much
+less than 1, indicating a low likelihood that these three
+patients would substantially affect the data analysis.
+
+Long-term survival of proximal tibial implants varies
+widely across studies, possibly due to dissimilarity in
+implant design and surgical
+technique (Table 3). Our
+ﬁndings are similar to previous reports that point to an
+improvement in prosthesis longevity among newer forged
+modular implants [33, 47]. Although not statistically sig-
+niﬁcant, the use of modularity tended to improve 15-year
+survivorship to 87.5% from 15- and 20-year survivorship of
+63% and 35% seen with the initial custom-cased compo-
+nents; the study may have been underpowered to show any
+real difference. Similar to other series of cemented endo-
+prosthetic reconstruction, the major mode of stem failure
+seen was aseptic loosening (Fig. 3). The use of an extra-
+medullary porous ingrowth surface (Fig. 4) was associated
+with a lower incidence of aseptic loosening, as we have
+previously reported [48]. Additionally, improvements in
+the polyethylene locking mechanism resulted in fewer
+cases of failure of the articulating surface.
+
+Our immediate use of a continuous passive motion
+machine in the 1980s resulted in a large extensor lag, and
+after personal communication (JJE) with Jean Debousset
+(1987), this practice was discontinued in favor of immo-
+bilization for a period of 4 weeks. Due to wide variation in
+reporting methods and subjective evaluation criteria, it is
+difﬁcult
+to compare ROM data, strength testing, and
+extensor mechanism function across study cohorts. Func-
+tion after proximal
+tibial endoprosthetic reconstruction
+varies in the literature from 60% to 90% of normal func-
+tion, according to MSTS scores (Table 3). We report an
+overall MSTS score of 82.0%, despite a mean active
+extension lag of 17.9(cid:3). Passively, almost all patients were
+able to achieve full extension (mean 1.4(cid:3) short of full
+extension). These data support the notion that, even with an
+
+Fig. 4A–B (A) The initial implant design used for the ﬁrst 10 cases
+in this series featured extensive extramedullary porous coating with
+the aim of encouraging bone ingrowth. The coating was removed after
+bone ingrowth did not occur. The subsequent 10 cases were
+manufactured without this surface and were noted to demonstrate
+increased radiographic radiolucent lines and osteolysis. Three of the
+10 implants (30%) without this surface demonstrated aseptic loosen-
+ing, while only three of 42 implants (7.1%) with extramedullary
+coating showed signs of loosening. (B) An intraoperative photograph
+at the time of implant revision demonstrates soft tissue ingrowth into
+the extramedullary porous surface. This ingrowth is thought
+to
+provide a barrier that functions to limit access of wear debris to the
+bone-cement interface.
+
+active extensor lag after insertion of the residual patellar
+tendon into the rotated gastrocnemius ﬂap, most patients
+remain able to achieve full extension during swing-through
+phase of gait. Recurvatum is avoided by engagement of the
+extensor stop on the femoral prosthesis, providing a stable
+platform for walking. Formal gait analysis to better deﬁne
+the mechanisms of ambulation in this complex patient
+population would certainly improve our understanding of
+the biomechanics involved and likely lead to enhancements
+in implant design.
+
+Local complications typically reported after endopros-
+thetic
+include
+mechanical failure, local recurrence, wound-related issues,
+
+reconstruction of
+
+the proximal
+
+tibia
+
+123
+
+2882
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+endoprostheses for this patient population, even as survival
+rates improve [1, 30–32, 34, 42, 49, 50]. The main chal-
+lenge in the future is to develop an effective porous in-
+growth substrate to enhance soft tissue attachment to the
+prosthesis at
+tubercle to further
+improve extensor mechanism repair.
+
+the level of the tibial
+
+Acknowledgments We thank Brigid Brett-Esborn for her assistance
+in the preparation of this manuscript.
+
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+
+References
+
+1. Bacci G, Briccoli A, Longhi A, Ferrari S, Mercuri M, Faggioli F,
+Versari M, Picci P. Treatment and outcome of recurrent osteo-
+sarcoma: experience at Rizzoli in 235 patients initially treated
+with neoadjuvant chemotherapy. Acta Oncol. 2005;44:748–755.
+2. Benevenia J, Makley JT, Locke M, Gentili A, Heiner J. Resection
+arthrodesis of the knee for tumor: large intercalary allografts and
+long intramedullary nail technique. Semin Arthroplasty. 1994;5:
+76–84.
+
+3. Bickels J, Wittig JC, Kollender Y, Neff RS, Kellar-Graney K,
+Meller I, Malawer MM. Reconstruction of the extensor mecha-
+nism after proximal tibia endoprosthetic replacement. J Arthro-
+plasty. 2001;16:856–862.
+
+4. Brien EW, Terek RM, Healey JH, Lane JM. Allograft recon-
+struction after proximal
+tibial resection for bone tumors: an
+analysis of function and outcome comparing allograft and pros-
+thetic reconstructions. Clin Orthop Relat Res. 1994;303:116–127.
+5. Campanacci M, Costa P. Total resection of distal femur or
+proximal tibia for bone tumours: autogenous bone grafts and
+arthrodesis in twenty-six cases. J Bone Joint Surg Br. 1979;
+61:455–463.
+
+6. Clohisy DR, Mankin HJ. Osteoarticular allografts for recon-
+struction after resection of a musculoskeletal
+tumor in the
+proximal end of the tibia. J Bone Joint Surg Am. 1994;76:549–
+554.
+
+7. Colangeli M, Donati D, Benedetti MG, Catani F, Gozzi E,
+Montanari E, Giannini S. Total knee replacement versus osteo-
+chondral allograft in proximal tibia bone tumours. Int Orthop.
+2007;31:823–829.
+
+8. Dubousset J, Missenard G, Kalifa C. Management of osteogenic
+sarcoma in children and adolescents. Clin Orthop Relat Res.
+1991;270:52–59.
+
+9. Eckardt JJ, Matthews JG II, Eilber FR. Endoprosthetic recon-
+tibia.
+
+struction after bone tumor resections of the proximal
+Orthop Clin North Am. 1991;22:149–160.
+
+10. Eilber FR, Eckardt J, Morton DL. Advances in the treatment of
+sarcomas of the extremity: current status of limb salvage. Cancer.
+1984;54:2695–2701.
+
+11. Enneking W. Modiﬁcation of the system for functional evaluation
+of surgical management of musculoskeletal tumors. In: Enneking
+WF, ed. Limb Salvage in Musculoskeletal Oncology. New York,
+NY: Churchill-Livingstone; 1987:626.
+
+12. Enneking WF. Staging of musculoskeletal tumors. In: Enneking
+WF, ed. Musculoskeletal Tumor Surgery. Vol. 1. New York, NY:
+Churchill Livingstone; 1983:87–88.
+
+Fig. 5 A graph shows implant versus patient survival for the entire
+study cohort. Modular
+than custom
+implants, with a 15-year survival of 93.7% versus 51.7%, respec-
+tively. Patients with low-grade or benign disease and long-term
+survivors with high-grade localized disease should expect to undergo
+at least one revision procedure in their lifetime.
+
+implants performed better
+
+that,
+
+reconstructive methods
+
+and neurovascular compromise (Table 3). The most com-
+mon complication encountered in this series was related to
+wound healing, although only three patients experienced a
+deep infection involving the prosthesis. The purpose of the
+soft tissue reconstructive method utilized in this series was
+to permit wide tumor resection while providing reliable
+rates of wound healing. Orthopaedic oncologists in the
+1970s advocated for
+if
+unsuccessful, could be converted to an amputation level no
+higher than would have been necessary to achieve local
+control initially. Amputation rates after limb salvage pro-
+cedures of the proximal tibia vary from 2.3% to 23.1%,
+although the level of amputation is not regularly reported.
+Five of 52 patients (9.6%) treated at our institution ulti-
+mately required an amputation, none of which were
+performed for wound-related issues. The only amputation
+performed at a level higher than would be needed at the
+time of initial presentation was in the single patient with
+regional thigh metastasis who underwent a hip disarticu-
+lation. All of the mechanical failures and complications
+related to infections or wound healing in this series were
+successfully revised, and all maintain successful
+limb
+salvage.
+
+Our data suggest for patients with low-grade or benign
+disease with a normal
+life expectancy, reoperation or
+revision is likely to be necessary. Survival of contemporary
+modular implants exceeds the 15-year patient survival
+among those with high-grade localized disease (Fig. 5).
+This further encourages our continued use of cemented
+
+123
+
+Volume 468, Number 11, November 2010
+
+Cemented Proximal Tibia Endoprostheses
+
+2883
+
+13. Enneking WF, Dunham W, Gebhardt MC, Malawar M, Pritchard
+DJ. A system for the functional evaluation of reconstructive
+procedures after surgical treatment of tumours of the musculo-
+skeletal system. Clin Orthop Relat Res. 1993;286:241–246.
+
+14. Flint MN, Grifﬁn AM, Bell RS, Ferguson PC, Wunder JS.
+Aseptic loosening is uncommon with uncemented proximal tibia
+tumor prostheses. Clin Orthop Relat Res. 2006;450:52–59.
+
+15. Gebhardt MC, Flugstad DI, Springﬁeld DS, Mankin HJ. The use
+of bone allografts for limb salvage in high-grade extremity
+osteosarcoma. Clin Orthop Relat Res. 1991;270:181–196.
+
+16. Gosheger G, Hardes J, Leidinger B, Gebert C, Ahrens H, Win-
+kelmann W, Goetze C. Total
+tibial endoprosthesis including
+ankle joint and knee joint replacement in a patient with Ewing
+sarcoma. Acta Orthop. 2005;76:944–946.
+
+17. Gottsauner-Wolf F, Kotz R, Knahr K, Kristen H, Ritschl P, Salzer
+M. Rotationplasty for limb salvage in the treatment of malignant
+tumors at the knee: a follow-up of seventy patients. J Bone Joint
+Surg Am. 1991;73:1365–1375.
+
+18. Grifﬁn AM, Parsons JA, Davis AM, Bell RS, Wunder JS.
+Uncemented tumor endoprostheses at the knee: root causes of
+failure. Clin Orthop Relat Res. 2005;438:71–79.
+
+19. Grimer RJ, Carter SR, Tillman RM, Sneath RS, Walker PS,
+Unwin PS, Shewell PC. Endoprosthetic replacement of the
+proximal tibia. J Bone Joint Surg Br. 1999;81:488–494.
+
+20. Hardes J, Gebert C, Schwappach A, Ahrens H, Streitburger A,
+Winkelmann W, Gosheger G. Characteristics and outcome of
+infections associated with tumor endoprostheses. Arch Orthop
+Trauma Surg. 2006;126:289–296.
+
+21. Hejna MJ, Gitelis S. Allograft prosthetic composite replacement
+
+for bone tumors. Semin Surg Oncol. 1997;13:18–24.
+
+22. Hillmann A, Hoffmann C, Gosheger G, Krakau H, Winkelmann
+W. Malignant tumor of the distal part of the femur or the prox-
+imal
+or
+rotationplasty: functional outcome and quality-of-life measure-
+ments. J Bone Joint Surg Am. 1999;81:462–468.
+
+endoprosthetic
+
+replacement
+
+tibia:
+
+part
+
+the
+
+of
+
+23. Horowitz SM, Lane JM, Otis
+
+JC, Healey JH. Prosthetic
+arthroplasty of the knee after resection of a sarcoma in the
+proximal end of the tibia: a report of sixteen cases. J Bone Joint
+Surg Am. 1991;73:286–293.
+
+24. Ilyas I, Younge D, Pant R, Moreau P. Limb salvage for proximal
+Int Orthop.
+
+tumours using a modular prosthesis.
+
+tibial
+2000;24:208–211.
+
+25. Jeon DG, Kim MS, Cho WH, Song WS, Lee SY. Pasteurized
+autograft-prosthesis composite for reconstruction of proximal
+tibia in 13 sarcoma patients. J Surg Oncol. 2007;96:590–597.
+
+26. Jeys LM, Kulkarni A, Grimer RJ, Carter SR, Tillman RM, Abudu
+A. Endoprosthetic reconstruction for the treatment of musculo-
+skeletal tumors of the appendicular skeleton and pelvis. J Bone
+Joint Surg Am. 2008;90:1265–1271.
+
+27. Kaplan EL, Meier P. Nonparametric estimation from incomplete
+
+observations. J Am Stat Assoc. 1958;53:457–481.
+
+28. Kawai A, Healey JH, Boland PJ, Athanasian EA, Jeon DG. A
+rotating-hinge knee replacement for malignant tumors of the
+femur and tibia. J Arthroplasty. 1999;14:187–196.
+
+29. Kotz R. Rotationplasty. Semin Surg Oncol. 1997;13:34–40.
+30. Lewis IJ, Nooij MA, Whelan J, Sydes MR, Grimer R, Hogen-
+doorn PC, Memon MA, Weeden S, Uscinska BM, van Glabbeke
+M, Kirkpatrick A, Hauben EI, Craft AW, Taminiau AH; MRC
+BO06 and EORTC 80931 collaborators; European Osteosarcoma
+Intergroup. Improvement in histologic response but not survival
+in osteosarcoma patients treated with intensiﬁed chemotherapy: a
+randomized phase III trial of the European Osteosarcoma Inter-
+group. J Natl Cancer Inst. 2007;99:112–128.
+
+31. Link MP, Goorin AM, Horowitz M, Meyer WH, Belasco J, Baker
+A, Ayala A, Shuster J. Adjuvant chemotherapy of high-grade
+osteosarcoma of the extremity: updated results of the Multi-
+
+Institutional Osteosarcoma Study. Clin Orthop Relat Res.
+1991;270:8–14.
+
+32. Link MP, Goorin AM, Miser AW, Green AA, Pratt CB, Belasco
+JB, Pritchard J, Malpas JS, Baker AR, Kirkpatrick JA, et al. The
+effect of adjuvant chemotherapy on relapse-free survival
+in
+patients with osteosarcoma of the extremity. N Engl J Med.
+1986;314:1600–1606.
+
+33. Malawer MM, Chou LB. Prosthetic survival and clinical results
+with use of large-segment replacements in the treatment of high-
+grade bone sarcomas. J Bone Joint Surg Am. 1995;77:1154–1165.
+34. Marina N, Gebhardt M, Teot L, Gorlick R. Biology and thera-
+osteosarcoma. Oncologist.
+
+pediatric
+
+for
+
+peutic
+advances
+2004;9:422–441.
+
+35. Murray DW, Britton AR, Bulstrode C. Lost to Follow Up Mat-
+
+ters. J Bone Joint Surg Br. 1997;79-B:254–257.
+
+36. Myers GJ, Abudu AT, Carter SR, Tillman RM, Grimer RJ. The
+long-term results of endoprosthetic replacement of the proximal
+tibia for bone tumours. J Bone Joint Surg Br. 2007;89:1632–
+1637.
+
+37. Natarajan MV, Sivaseelam A, Rajkumar G, Hussain SH. Custom
+megaprosthetic replacement for proximal tibial tumours. Int Or-
+thop. 2003;27:334–337.
+
+38. Ogihara Y, Sudo A, Fujinami S, Sato K. Limb salvage for bone
+
+sarcoma of the proximal tibia. Int Orthop. 1991;15:377–379.
+
+39. Orlic D, Smerdelj M, Kolundzic R, Bergovec M. Lower limb
+salvage surgery: modular endoprosthesis in bone tumour treat-
+ment. Int Orthop. 2006;30:458–464.
+
+40. Petschnig R, Baron R, Kotz R, Ritschl P, Engel A. Muscle
+function after endoprosthetic replacement of the proximal tibia:
+different
+techniques for extensor reconstruction in 17 tumor
+patients. Acta Orthop Scand. 1995;66:266–270.
+
+41. Postma A, Kingma A, De Ruiter JH, Schraffordt Koops H, Veth
+RP, Goe¨ken LN, Kamps WA. Quality of life in bone tumour
+patients comparing limb salvage and amputation of the lower
+extremity. J Surg Oncol. 1992;51:47–51.
+
+42. Ries LAG, Smith MA, Gurney JG, Linet M, Tamra T. Young JL,
+Bunin GR, eds. Cancer Incidence and Survival Among Children
+and Adolescents: United States SEER Program 1975–1995. NIH
+publication No. 99-4649. Bethesda, MD: National Institutes of
+Health; 1999.
+
+43. Rougraff BT, Simon MA, Kneisl JS, Greenberg DB, Mankin
+HJ. Limb salvage compared with amputation for osteosarcoma
+of the distal end of the femur: a long-term oncological, func-
+tional, and quality-of-life study. J Bone Joint Surg Am.
+1994;76:649–656.
+
+44. Sanjay BK, Moreau PG. Limb salvage in bone tumour with
+
+modular endoprosthesis. Int Orthop. 1999;23:41–46.
+
+45. Shimose S, Sugita T, Kubo T, Matsuo T, Ochi M. Reconstructed
+patellar tendon length after proximal tibia prosthetic replacement.
+Clin Orthop Relat Res. 2005;439:176–180.
+
+46. Simon MA, Aschiliman MA, Thomas N, Mankin HJ. Limb-sal-
+vage treatment versus amputation for osteosarcoma of the distal
+end of the femur. J Bone Joint Surg Am. 1986;68:1331–1337.
+
+47. Torbert JT, Fox EJ, Hosalkar HS, Ogilvie CM, Lackman RD.
+Endoprosthetic reconstructions: results of long-term followup of
+139 patients. Clin Orthop Relat Res. 2005;438:51–59.
+
+48. Ward WG, Johnson KS, Dorey FJ, Eckardt JJ. Extramedullary
+porous coating to prevent diaphyseal osteolysis and radiolucent
+lines around proximal tibial replacements. J Bone Joint Surg Am.
+1993;75:976–987.
+
+49. Wilkins RM, Cullen JW, Camozzi AB, Jamroz BA, Odom L.
+Improved survival in primary nonmetastatic pediatric osteosar-
+coma of the extremity. Clin Orthop Relat Res. 2005;438:128–
+136.
+
+50. Wilkins RM, Cullen JW, Odom L, Jamroz BA, Cullen PM, Fink
+K, Peck SD, Stevens SL, Kelly CM, Camozzi AB. Superior
+
+123
+
+2884
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+survival in treatment of primary nonmetastatic pediatric osteo-
+sarcoma of the extremity. Ann Surg Oncol. 2003;10:498–507.
+
+follow-up] [in Chinese]. Zhonghua Wai Ke Za Zhi. 2004;42:750–
+753.
+
+51. Wu CC, Henshaw RM, Pritsch T, Squires MH, Malawer MM.
+Implant design and resection length affect cemented endopros-
+thesis survival in proximal tibial reconstruction. J Arthroplasty.
+2008;23:886–893.
+
+52. Yao ZJ, Zhang C, Cai ZD, Chen ZR. [Knee replacement of the
+treatment of malignant tumor of the proximal tibia and early
+
+53. Zatsepin ST, Burdygin VN. Replacement of the distal femur and
+proximal tibia with frozen allografts. Clin Orthop Relat Res.
+1994;303:95–102.
+
+54. Zhang Y, Yang Z, Li X, Chen Y, Zhang S, Du M, Li J. Custom
+prosthetic reconstruction for proximal tibial osteosarcoma with
+proximal tibioﬁbular joint involved. Surg Oncol. 2008;17:87–95.
+
+123
+
+View publication stats
+View publication stats
+
+

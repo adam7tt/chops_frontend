@@ -4,7 +4,7 @@
         <g :transform="`translate(0 ${height/2})`">
 
             <line class="timeline__axis" x1="0" y1="0" :x2="width" y2="0" />
-            
+
             <line class='timeline__point-line' v-for='(d, i) in points' :key="i"
                 :x1='d.x' y1='0' 
                 :x2='d.x + width/15 * Math.pow(-1,i)' 

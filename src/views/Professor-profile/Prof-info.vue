@@ -1,6 +1,9 @@
 <template>
-    <!-- BEM CSS convention https://css-tricks.com/bem-101/ -->
-    <div v-if="info" class="profinfo">
+<div class="row profile_top">
+    <div class="col s2">
+        <img class="responsive-img prof_image" src="https://moonvillageassociation.org/wp-content/uploads/2018/06/default-profile-picture1.jpg" alt="">
+    </div>
+    <div v-if="info" class="col s2 profinfo">
         <h4 class="profinfo__name">Professor {{ info.name }} </h4>
         <div class="profinfo__data">
             <label class="profinfo__data__fname">
@@ -25,6 +28,9 @@
             </label>
         </div>
     </div>
+</div>
+
+
 </template>
 
 <script>
@@ -58,5 +64,12 @@
         }
     }
 
+}
+
+.profile_top{
+    padding-top: 10px;
+}
+.prof_image{
+    margin-top: 20px;
 }
 </style>

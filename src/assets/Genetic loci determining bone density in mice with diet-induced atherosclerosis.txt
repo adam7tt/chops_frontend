@@ -1,0 +1,2634 @@
+Drake, Thomas A., Eric Schadt, Kambiz Hannani, J.
+Michael Kabo, Kelly Krass, Veronica Colinayo, Lloyd
+E. Greaser III, Jonathan Goldin, and Aldons J. Lusis.
+Genetic loci determining bone density in mice with diet-
+induced atherosclerosis. Physiol Genomics 5: 205–215,
+2001.—This study investigates the phenotypic and genetic
+relationships among bone-density-related traits and those of
+adipose tissue and plasma lipids in mice with diet-induced
+atherosclerosis. Sixteen-month-old female F2 progeny of a
+C57BL/6J and DBA/2J intercross, which had received an
+atherogenic diet for 4 mo, were examined for multiple mea-
+sures of femoral bone mass, density, and biomechanical prop-
+erties using both computerized tomographic and radio-
+graphic methods. In addition, body weight and length,
+adipose tissue mass, plasma lipids and insulin, and aortic
+fatty lesions were assessed. Bone mass was inversely corre-
+lated with extent of atherosclerosis and with a prooxidant
+lipid proﬁle and directly correlated with body weight, length,
+and, most strongly, adipose tissue mass. Quantitative trait
+locus (QTL) analysis, using composite interval mapping
+(CIM) and multi-trait analysis, identiﬁed six loci with multi-
+trait CIM LOD scores . 5. Three of these coincided with loci
+linked with adipose tissue and plasma high-density lipopro-
+tein. Application of statistical tests for distinguishing close
+linkage vs. pleiotropy supported the presence of a potential
+pleiotropic effect of two of the loci on these traits. This study
+shows that bone mass in older female mice with atheroscle-
+rosis has multiple genetic determinants and provides pheno-
+typic and genetic evidence linking the regulation of bone
+density with adipose tissue and plasma lipids.
+
+adipose tissue; plasma lipids; quantitative trait locus analy-
+sis; leptin; biomechanics; genetic pleiotropy
+
+OSTEOPOROTIC FRACTURES are a major cause of morbidity
+in the aging population. Susceptibility is multifacto-
+rial, with genetic and environmental factors inﬂuenc-
+ing it. Peak bone mass is an important determinant of
+osteoporosis susceptibility later in life, and numerous
+twin and family studies in humans have demonstrated
+
+Article published online before print. See web site for date of
+
+publication (http://physiolgenomics.physiology.org).
+
+Address for reprint requests and other correspondence: T. A.
+Drake, Dept. of Pathology and Laboratory Medicine, UCLA, Los
+Angeles, CA 90095-1732 (E-mail: tdrake@mednet.ucla.edu).
+
+signiﬁcant heritability of peak bone mass at various
+skeletal sites (48, 50). In these, estimates of the genetic
+contribution to variability have been between 50 and
+80%. Physiological and pathological determinants that
+may secondarily affect bone mass are prevalent in the
+aging population and are oftentimes themselves
+strongly inﬂuenced by genetic factors. These include
+body size, obesity, and diabetes mellitus (9, 10, 43, 46).
+Clinical studies have provided evidence that athero-
+sclerosis is also associated with reduced bone density
+(3, 19, 54). Data suggest that lipid oxidation, which
+plays such a central role in the pathogenesis of athero-
+sclerosis, may also promote osteoporosis, thereby link-
+ing lipid metabolism and inﬂammation to regulation of
+bone density (38–40). Thus complex interrelationships
+exist among adipose tissue, lipid metabolism, glucose
+and insulin regulation, and inﬂammation, which may
+inﬂuence both atherosclerosis and reduction in bone
+mass.
+
+The mouse has proved to be a useful model for the
+genetic dissection of complex traits. Quantitative trait
+locus (QTL) analysis in intercrosses or backcrosses of
+selected inbred strains allows survey of the entire
+genome for loci containing genes that inﬂuence a par-
+ticular trait (26). We have previously used this tech-
+nique to identify genetic loci affecting myocardial in-
+jury and calciﬁcation, lipid metabolism, and obesity,
+among other complex traits in mice fed an atherogenic
+diet (17, 27, 32). Inbred mouse strains have been
+shown to have signiﬁcant heritable differences in a
+variety of bone phenotypes, including bone mass and
+susceptibility to osteoporosis (2, 6, 12, 22, 35, 55).
+Application of the technique of QTL analysis in mice
+for peak bone mass has begun to identify genetic loci
+associated with this trait (5, 7, 23, 47, 51).
+
+In the above instances, which are typical of most
+QTL analyses, single or several closely related traits
+were examined, with studies designed to minimize
+potentially complicating variables. In the current
+study we explore the use of QTL and other statistical
+analyses applied to an F2 intercross population for
+examining the phenotypic and potential genetic rela-
+tionships among multiple complex traits. Of particular
+
+1094-8341/01 $5.00 Copyright © 2001 the American Physiological Society
+
+205
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+206
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+interest is the potential for assessing whether the
+presence of pleiotropic genetic loci may account for
+phenotypic correlations among traits, by analyzing for
+colocalization of QTLs for different traits, and applying
+additional statistical tests. Although these analyses
+cannot prove the presence of pleiotropy, they can gen-
+erate important testable hypotheses as to whether
+pleiotropy may be present. We have applied these con-
+cepts to the setting described above of determination of
+bone density in older animals with hyperlipidemia and
+atherosclerosis, using an intercross between strains
+C57BL/6J and DBA/2J in which an atherogenic diet
+was administered. We report here the phenotypic and
+genetic relationships observed among the above meta-
+bolic and morphometric parameters, atherosclerotic le-
+sion formation, and various measures of bone mass and
+density, including biomechanical properties, in mature
+(16 mo old) F2 female mice with diet-induced athero-
+sclerosis. Advanced statistical analyses are employed
+to examine these multiple traits and assess potential
+pleiotropic effects of genetic loci identiﬁed.
+
+MATERIALS AND METHODS
+
+Mice. Parental mice were purchased from the Jackson
+Laboratories (Bar Harbor, ME). All mice were housed under
+conditions meeting the guidelines of the Association for Ac-
+creditation of Laboratory Animal Care. Females of strain
+C57BL/6J (B6) were mated with DBA/2J (DBA) males. F1
+progeny were then intercrossed to produce F2 intercross
+progeny. After weaning at ;21 days, female mice were se-
+lected and placed on a diet of rodent chow (Purina 5001)
+containing 17.5% protein, 11% fat, 0.8% calcium, and 0.5%
+phosphorus. At 12 mo of age, this was switched to an athero-
+genic high-fat, high-cholesterol diet for another 16 wk. This
+consisted of 75% chow supplemented with 7.5% cocoa butter,
+2.5% dextrose, 1.625% each of sucrose and dextrin, 1.25%
+cholesterol, and 0.5% sodium cholate, with 0.73% calcium
+and 0.68% phosphorus (diet 90221; Harlan Teklad, Madison,
+WI). The mice were given free access to food and had a
+12:12-h light-dark cycle maintained throughout. Body weight
+and length (nose to anus) were determined prior to death. At
+death, blood was collected by retro-orbital sampling into
+EDTA anticoagulant, spleens were removed for DNA isola-
+tion, and fat pads (omental, retroperitoneal, parametrial, and
+subcutaneous) were removed and weighed. Hearts and as-
+cending aortas were removed and embedded in OCT com-
+pound and frozen at 270°C. Carcasses were placed in air-
+tight individual bags and frozen at 220°C. Subsequently, the
+left femurs were dissected and stripped of soft tissue and
+placed directly in 10% buffered formalin. The right femurs
+were similarly obtained and were wrapped in gauze soaked
+in normal saline, placed in airtight plastic bags, frozen at
+270°C, and used for biomechanical analyses.
+
+Femoral bone analyses. Bone mineral mass and indices for
+bone mineral density (BMD) were measured radiographically
+and by computerized tomography. For the former, all sam-
+ples were collectively exposed on a single X-ray ﬁlm using a
+Faxitron and subsequently developed under similar condi-
+tions. Separate X-rays were obtained for the anterior-poste-
+rior (AP) and lateral orientations. The X-rays were digitized
+and comparatively analyzed. Image 1/AT image processing
+software on a 486 IBM compatible computer and a CCD 72
+video camera (Dage-MTI, Michigan City, IN) with Fujinon
+Zoom TV lens were used to digitize the X-rays. Image 1/AT
+
+was used to analyze the brightness and contrast level as well
+as the cortical diameter at a ﬁxed axial location of the mouse
+femur diaphysis. Indices calculated from the digitized mea-
+surements for the AP as well as the lateral views were the
+average gray scale (integral GS) for the entire femur and for
+cross sections at ﬁxed locations of the diaphysis and inter-
+trochanteric regions [radiographic bone mineral content
+(BMC-R)]. Each of these was averaged by the total area or
+respective bone width (D). This method of normalizing for
+variation in bone size yielded the best correlation with com-
+puted tomography (CT) determined mineral content (r 5
+0.77) and density (r 5 0.71) and is analogous to validated
+measures used for metacarpal bone density determination in
+human studies (1, 14, 16, 49). Values given are relative
+densitometry units. Variation in ﬁlm and radiation exposure
+at various points on the ﬁlm was determined to be less than
+2%. The coefﬁcients of variation for the primary measure-
+ments (integral GS, D) were less than 2%, based on repeated
+measures by a single observer on two separately prepared
+radiographs. Only results for the indices derived from the AP
+views is presented subsequently, as results for lateral views
+were strongly correlated with these and in almost all in-
+stances yielded results for phenotypic and genotypic analyses
+that were comparable.
+
+CT determination of bone density was performed using
+electron beam computed tomography (EBCT). This technol-
+ogy has been used clinically for the past decade to detect and
+quantitate calcium deposits in coronary arteries and was
+adapted for determination of BMC in mice femurs. Femurs
+obtained as described above were embedded in a semisolid
+reusable gel phantom and scanned along with calibration bar
+phantoms containing known quantities of calcium hydroxy-
+apatite in an Evolution EBCT scanner (Siemens Medical
+Systems, Iselin, NJ). Bones were oriented perpendicular to
+the scanning plane, and a total of 40 axial slices were ob-
+tained to image the entire phantom. Imaging employed a
+1.5-mm collimation continuous volume scan mode, and im-
+ages were reconstructed using vendor supplied sharp recon-
+struction kernel, a 12.7-cm ﬁeld of view, and a 512 3 512
+matrix. The calcium score was quantitated using a modiﬁca-
+tion of the vendor supplied scoring software and a calcium
+threshold of 130 Hounsﬁeld units (HU). Bone volume was
+determined by summation of the cross-sectional areas of
+each axial image multiplied by the 1.5-mm collimation
+thickness. BMD was assessed as the average HU value for
+each bone, and a measure of BMC was obtained by multiply-
+ing the average HU value by the bone volume. This method
+was demonstrated to have a highly signiﬁcant correlation of
+the BMC determination with ash weight (r2 5 0.909), and a
+between-run coefﬁcient of variation of 1.19%.
+
+Torsion testing. The proximal and distal mouse femora
+were potted into square molds using polymethylmethacrylate
+cement. Torsional testing was subsequently performed using
+a Burstein-Frankel torsion tester (8, 33). A deadweight pen-
+dulum was used to reach torsional failure in less than 0.1 s.
+The femora were tested in a random sequence and always in
+external rotation. A torque/rotation curve was recorded using
+a storage oscilloscope, and the results were photographed.
+The curve was analyzed using a computer program written in
+BASIC to measure the failure torque (N-m), angular defor-
+mation at failure (rad), stiffness (N-m/rad), and toughness
+(N-m z rad). These values were calculated using a linear re-
+gression model over the linear aspect of the curve. Reproduc-
+ibility of the technique determined by testing of left and right
+femurs from 10 mice was 90%. Bones were excluded from the
+analysis if they did not demonstrate a clean spiral fracture
+indicating pure torque failure, or the angular displacement
+
+http://physiolgenomics.physiology.org
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+207
+
+Table 1. Femur phenotypes measures in C57BL/6J 3
+DBA/2J intercross F2 mice at 16 mo of age
+
+n
+
+Range
+
+Mean 6 1 SD
+
+was excessively large with low torque indicating slippage.
+Satisfactory response curves were obtained on 117 of 140
+attempted. Unsatisfactory test results were most commonly
+due to slippage of the ends in the potting material.
+
+Plasma biochemical measurements and aortic fatty lesion
+quantitation. Plasma total cholesterol, high-density and low-
+density lipoprotein (HDL and LDL) cholesterol, triglycerides,
+and free fatty acids were measured as previously described
+(32). Plasma leptin and insulin were measured by immuno-
+assay according to manufacturers instructions, using kits
+speciﬁc for mouse proteins (R&D Systems, Minneapolis, MN;
+and Crystal Chem, Chicago, IL; respectively). Quantitation of
+aortic fatty lesion formation was performed as previously
+described. This entails histomorphometric analyses of Oil
+red-O stained serial frozen sections of the ascending aorta
+from the aortic valves through the aortic arch (42).
+
+Linkage and data analyses. A complete linkage map for all
+chromosomes except the Y chromosome was constructed at
+an average density of 13 cM using microsatellite markers as
+previously described (17). The constructed linkage map with
+all markers used is available on request. PCR primers for
+microsatellite markers were purchased from Research Ge-
+netics (Huntsville, AL); methods for use were as described.
+ANOVA, correlation, regression analyses, and hierarchical
+clustering were performed using StatView version 5.0 (SAS
+Institute, Berkeley, CA) and SPLUS 2000 (MathSoft). Link-
+age maps were constructed and QTL analysis was performed
+using MapMaker QTL (29) and QTL Cartographer (4). “Log
+of the odds ratio” (LOD) scores were calculated at 1-cM
+intervals throughout the genome for each of the traits under
+consideration. Before analysis, the normal distribution as-
+sumption underlying parametric tests for linkage was as-
+sessed for each trait by examining the histogram, as well
+as the skewness and kurtosis statistics for the trait values. In
+addition, despite its low power, the Kolmogorov-Smirnov test
+was applied to assist in determining whether a given trait
+was sampled from a normal distribution. Traits demonstrat-
+ing obvious departures from normality were log-transformed
+or square root-transformed and then reassessed for normal-
+ity. Linkage results for traits in which normality was ques-
+tionable were veriﬁed using nonparametric association tests,
+such as the Wilcoxon rank sum test, in determining marker/
+trait associations. Trait values falling outside the mean 6 3
+SD were considered outliers and excluded from analysis,
+accounting for the variation in numbers given in Table 1. A
+LOD score of 2.8 was the threshold for suggestive evidence of
+linkage, and a LOD score greater than 4.3 was interpreted as
+signiﬁcant evidence for linkage, as proposed by Lander and
+Kruglyak for an F2 intercross with 2 degrees of freedom (25).
+Composite interval mapping and multiple trait analysis. In
+addition to the standard interval mapping techniques em-
+ployed to detect loci affecting the traits of interest, additional
+analyses were performed to determine whether controlling
+for genetic background variation using markers outside a
+putative region of linkage and whether multiple traits con-
+sidered simultaneously could increase evidence for linkage.
+Composite interval mapping (CIM) enhances the ability to
+detect linked QTL over standard interval mapping methods
+by incorporating markers as cofactors into the statistical
+model for marker-trait association (30). Explicitly including
+these cofactors into the model serves to control for genetic
+background effects that would otherwise be confounded with
+the experimental error terms, which, in turn, reduce the
+chances of detecting linked QTL. All CIM analysis was per-
+formed using QTL Cartographer (4). Given multiple quan-
+titative traits, CIM analysis can be extended to consider
+multiple traits simultaneously, potentially dramatically in-
+
+CT measures
+
+Bone mineral content
+
+Bone mineral density
+
+(BMC-CT)
+
+(BMD-CT)
+
+Radiographic measures
+
+Total femur density
+
+(BMC-R)
+
+Total diaphyseal
+
+density (BMC-Rd)
+
+Total
+
+intertrochanteric
+density (BMC-Rit)
+
+Average femur
+
+density (BMD-R)
+Average diaphyseal
+density (BMD-Rd)
+
+Average
+
+intertrochanteric
+density (BMD-Rit)
+
+Cortex thickness,
+
+mm
+
+Biomechanical
+properties
+*Strength, N
+Stiffness, N/degree
+*Energy, N 3 degree
+
+Body morphometry
+
+Body wt, g
+Lean body wt, g
+Body length (nose to
+
+anus), cm
+BMI, g/cm2
+Adipose mass, g
+Adiposity, %
+*Leptin, ng/ml
+
+Plasma lipids and
+atherosclerosis
+
+*Total cholesterol,
+
+HDL cholesterol,
+
+*LDL cholesterol,
+
+mg/dl
+
+mg/dl
+
+mg/dl
+
+*Triglycerides, mg/dl
+FFA, mg/dl
+*Insulin, pg/ml
+*Aortic fatty lesions,
+
+mm2/section
+
+140
+
+140
+
+135
+
+141
+
+140
+
+136
+
+140
+
+140
+
+141
+
+143
+96
+
+142
+142
+96
+96
+140
+
+139
+
+141
+
+139
+139
+140
+140
+
+127
+
+117
+0.03–0.64
+117 ,0.001–0.077
+0.23–2.72
+117
+
+0.18 6 .10
+0.025 6 .016
+0.61 6 .44
+
+260–508
+
+375 6 48
+
+2.61–3.76
+
+3.21 6 .23
+
+97–243
+
+139–335
+
+172–441
+
+44–102
+
+98–176
+
+171 6 28
+
+246 6 33
+
+295 6 45
+
+78 6 11
+
+143 6 14
+
+50–115
+
+84 6 12
+
+0.16–0.30
+
+0.21 6 .03
+
+9.7–56.6
+8.3–44.6
+
+8.8–11.3
+0.09–0.53
+0–14.5
+0–26.0
+0.07–85.8
+
+30.8 6 7.6
+27.1 6 6.2
+
+10.1 6 .5
+0.30 6 .07
+3.0 6 2.5
+9.3 6 6.1
+14.1 6 12.7
+
+54–872
+
+13–127
+
+32–854
+
+0–43
+12–63
+
+298–7,354
+
+203 6 106
+
+53 6 22
+
+150 6 109
+8.5 6 6.2
+35 6 8
+
+1,034 6 980
+
+0–76,266
+
+7,051 6 10,946
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+Traits with an asterisk showed non-normal distribution. CT and
+radiographic BMC and BMD measures are in arbitrary units. CT,
+computed tomography; BMC, bone mineral content; BMD, bone
+mineral density; R, radiographic measurements; d, diaphyseal; it,
+intertrochanteric; BMI, body mass index; HDL and LDL, high- and
+low-density lipoprotein, respectively; and FFA, free fatty acids.
+
+creasing the power to detect loci affecting the traits of inter-
+est. Joint CIM analysis was ﬁrst described by Jiang and Zeng
+(18) and is currently implemented in the QTL Cartographer
+software.
+
+RESULTS
+
+Interrelationships among phenotypic traits. Con-
+struction of an F2 intercross from inbred parental
+strains generates a genetically heterogeneous popula-
+
+http://physiolgenomics.physiology.org
+
+208
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+Fig. 1. Hierarchical clustering analy-
+sis for all quantitative traits discussed
+in the text. The height along the y-axis
+represents the distance between two
+clusters, determined when two clusters
+are merged (the more similar traits
+are, with respect
+to corresponding
+measurements for each trait, the closer
+they will appear in the cluster tree).
+See Table 1 for complete description of
+abbreviations.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+tion. The phenotypes measured, with the mean and
+standard deviations for each, are listed in Table 1. As
+would be expected with complex quantitative traits,
+these showed a wide range of values that were nor-
+mally distributed in most cases. Hierarchical cluster-
+ing analysis was performed to assess the overall rela-
+tionships among the traits (Fig. 1). All pairwise
+correlations were computed between the quantitative
+traits, and then a standard agglomerative hierarchical
+clustering algorithm was applied to the resulting cor-
+relation matrix (21). All of the bone mass and density
+traits, including cortical thickness, formed a common
+cluster, suggesting it was reasonable to consider that
+there may be common biologic and genetic determi-
+nants among these. As a group, these were most closely
+related to another cluster composed of body weight and
+
+adipose tissue measures, including leptin. Bone biome-
+chanical measures clustered most closely with several
+metabolic traits, including plasma lipids and aortic
+lesions.
+
+In these F2 mice fed an atherogenic diet, there were
+signiﬁcant interrelationships among traits potentially
+associated with bone mass and density (Table 2). Ad-
+ministration of an atherogenic diet to susceptible mice
+induces a prooxidant state, manifested by aortic fatty
+lesion development, and hyperlipidemia with in-
+creased LDL but reduced HDL (37, 42). Aortic fatty
+lesions were observed in over 90% of F2 animals and
+were inversely correlated with plasma HDL/LDL ra-
+tios. In mice, adipose tissue mass is positively corre-
+lated with plasma HDL, and this was observed here
+also (32, 36). Consistent with this was an inverse
+
+Table 2. Correlation matrix for aortic fatty lesions and selected metabolic and morphometric parameters
+measured in F2 female mice
+
+Aortic fatty lesions
+*Plasma HDL/LDL
+Body weight
+Body length
+Fat pad mass
+Adiposity
+*Plasma insulin
+Bone mineral density (CT)
+
+*Plasma
+HDL/LDL
+
+20.233d
+
+Body
+
+Weight
+
+20.135
+0.352a
+
+Body
+Length
+
+20.067
+0.385a
+0.414a
+
+Fat Pad
+
+Mass
+
+20.344c
+0.399a
+0.700a
+0.332b
+
+Adiposity
+
+20.429b
+0.416a
+0.464a
+0.287c
+0.982a
+
+*Plasma
+Insulin
+
+20.145
+0.274c
+0.407a
+0.271c
+0.513a
+0.462a
+
+Bone
+
+Density
+
+(CT)
+
+20.227d
+0.315c
+0.206d
+0.353a
+0.439a
+0.465a
+0.224c
+
+Values are Pearson correlation coefﬁcients (r), except for values for aortic fatty lesion, which are Spearman correlation coefﬁcients. a P ,
+0.0001, b P , 0.001, c P , 0.01, and d P , 0.05. Parameters marked by an asterisk were log transformed prior to correlation analysis due
+to non-normal distribution of the untransformed data.
+
+http://physiolgenomics.physiology.org
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+209
+
+correlation of adipose tissue (measured as total fat pad
+mass, adiposity, or plasma leptin levels) with aortic
+fatty lesions. Adipose tissue also inﬂuences plasma
+insulin levels, and positive correlations were found
+among insulin levels, plasma lipids, and adipose tissue
+measures. Body weight is inﬂuenced by body size and
+adipose tissue mass, and the expected correlations
+among these were observed in these animals.
+
+All of these were correlated with CT-measured BMD
+and with additional bone-related parameters. Body
+weight, body length, and adipose tissue measurements
+all showed signiﬁcant correlations with measures of
+bone mass, density, and biomechanics. Measures of
+adipose tissue showed the strongest correlations
+whether expressed as total fat pad mass or as adiposity
+(range of r values 0.306–0.584). An independent con-
+ﬁrmation of this association was obtained by measur-
+ing plasma leptin levels, which had a similar pattern of
+effect. Body weight showed signiﬁcant correlations
+with many of these same measures, though the corre-
+lation coefﬁcients were lower (r value range 0.144–
+0.354). Body length showed the strongest correlations
+with measures of BMC and BMD for the entire femur
+(r 5 0.410 and 0.353, respectively). It was also signif-
+icantly correlated with fracture strength and stiffness.
+Stepwise regression analysis conﬁrmed the indepen-
+dent inﬂuence of adipose tissue, leaving adiposity as
+the only variable in the model for radiographic density
+or cortical thickness. For total mineral content by CT,
+stepwise regression identiﬁed both adiposity and body
+length as independent contributors.
+
+Analysis of plasma lipid correlations with bone mea-
+sures showed that a prooxidant lipid proﬁle was asso-
+ciated with reduced bone mass and density. HDL levels
+were positively correlated with bone measurements,
+whereas LDL levels were inversely correlated. Ex-
+pressing these as a ratio of HDL to LDL increased the
+correlation coefﬁcients, which were signiﬁcant for al-
+
+most all the bone measurements (r values for bone
+density measurements ranged from 0.202–0.315). Aor-
+tic fatty lesions showed signiﬁcant inverse correlations
+with bone mass and density. As plasma lipid levels are
+themselves correlated with body adiposity and mor-
+phometry, stepwise regression analyses were per-
+formed to determine whether these were independent
+factors inﬂuencing bone or were secondary. Results
+showed that among the body morphometric and lipid-
+and lesion-related parameters discussed, adiposity was
+the major determinant for all, with body length being
+the only other contributing independent variable for
+the bone mass parameters. These measured variables
+together accounted for ;25% of the observed variabil-
+ity in the various bone mass and density parameters.
+Identiﬁcation of genetic loci controlling bone-related
+traits. A complete linkage map for all the chromosomes
+except the Y chromosome was constructed using mi-
+crosatellite markers, with an average interval of 13
+cM. CIM was performed as implemented by QTL Car-
+tographer software, using four background markers
+identiﬁed by forward/backward regression analysis, in
+addition to two ﬂanking markers for each trait and
+locus. This analysis identiﬁed six loci showing linkage
+with multiple bone-related traits (Table 3). These six
+loci were further analyzed using the multi-trait pro-
+gram (JZMAPQTL) of QTL Cartographer, incorporat-
+ing up to four bone-related traits showing linkage to
+the respective loci. At each locus, the LOD score ob-
+tained by the multi-trait analysis signiﬁcantly ex-
+ceeded that obtained by CIM for any one trait and were
+highly signiﬁcant (LOD .5) for all six loci (Table 3;
+Fig. 2).
+
+Because each of the traits in this analysis had sig-
+niﬁcant associations with QTL on other chromosomes,
+ANOVA methods, including all cross-terms for two-
+way and three-way interactions, were applied to deter-
+mine whether there were signiﬁcant epistatic effects
+
+Table 3. Bone density-related QTLs identiﬁed by individual and multitrait CIM,
+as described in the text and corresponding to Fig. 2
+
+Chromosome:
+Marker nearest peak:
+
+Distal 2
+D2Mit413
+
+Mid 3
+
+D3Mit14
+
+Distal 6
+D6Mit198
+
+Proximal 7
+
+D7Mit80
+
+Proximal 15
+
+D15Mit13
+
+Distal 15
+D15Mit206
+
+Peak lod
+Additive effect
+Dominant effect
+
+BMC-CT
+BMC-R
+BMC-Rd
+BMC-Rit
+BMD-CT
+BMD-R
+BMD-Rd
+BMD-Rit
+Diaph cortical thickness
+Fracture stiffness
+Fracture strength
+Fracture energy
+
+Multitrait CIM LOD
+
+Individual trait CIM LOD
+
+5.65
+5.33
+NS
+
+3.01
+2.61
+2.39
+1.36
+3.80
+3.90
+1.61
+
+8.09
+3.77
+4.12
+
+4.67
+2.43
+
+2.30
+3.28
+
+2.50
+
+6.40
+NS
+6.22
+
+2.54
+1.95
+3.04
+3.26
+1.72
+2.32
+2.34
+2.72
+
+2.56
+
+8.28
+2.61
+4.48
+
+2.37
+
+2.04
+
+4.30
+
+6.13
+NS
+6.02
+
+5.15
+4.71
+
+2.97
+
+3.21
+
+3.23
+
+7.73
+6.17
+1.55
+
+3.21
+
+3.19
+4.73
+3.56
+
+3.25
+
+CIM, composite interval mapping; QTL, quantitative trait loci; and LOD, log of the odds ratio.
+
+http://physiolgenomics.physiology.org
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+210
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+Fig. 2. Single and multi-trait compos-
+ite interval mapping (CIM)
+log the
+odds ratio (LOD) score plots for chro-
+mosomes with quantitative trait loci
+(QTL) for bone-related traits, obtained
+by CIM at 1-cM intervals as described
+in the text. For each chromosome, the
+curve for multi-trait CIM is shown
+along with the single trait CIM for the
+trait with the highest peak LOD score.
+In all cases, the joint analysis LOD
+score curve is represented by the bold
+line, and a LOD score curve for a rep-
+resentative single trait CIM analysis is
+also given in each case, represented by
+the lighter line. These latter are:
+BMD-R for chromosomes 2 and proxi-
+mal 15, BMC-CT for chromosome 3,
+BMC-Rit for chromosome 6, cortex for
+chromosome 7, and BMC-Rd for distal
+chromosome 15.
+
+between QTL identiﬁed for each trait. The ANOVA
+model for radiographic BMD yielded a signiﬁcant in-
+teraction term between the QTL near markers
+D6Mit198 and D15Mit13 (P 5 0.04). No other signiﬁ-
+cant interactions were detected (including all higher-
+order interactions). The nature of the epistatic inter-
+actions could not be precisely determined from ANOVA
+results, as multiple interaction terms appeared to con-
+tribute signiﬁcantly to the result.
+
+In addition to considering multiple traits simulta-
+neously and detecting epistatic effects, it is of interest
+to determine the additive and dominance effects for a
+given QTL. The CIM model and joint CIM models
+provided in the QTL Cartographer software automati-
+cally generate test statistics for assessing additive and
+dominance effects. Table 3 summarizes the additive
+and dominance effects for each of the six loci.
+
+Colocalization of QTL for bone and nonbone traits:
+potential pleiotropy vs. close linkage. QTL analyses
+were also performed for the morphometric and meta-
+bolic parameters that showed phenotypic correlations
+with the bone-related traits. One or more QTL each
+were identiﬁed for adipose tissue traits, leptin, body
+weight and length, plasma lipids, and aortic lesions.
+
+Three of the six QTL for bone-related traits were found
+to be adjacent to or overlapping with QTL for nonbone
+traits (chromosome 2, adipose tissue and plasma HDL;
+chromosome 3, plasma LDL and body length; chromo-
+some 6, adipose tissue and plasma HDL) (Figs. 3–5).
+Among bone and nonbone traits with adjacent or colo-
+calizing QTL, allele effects were similar in each case.
+The colocalization of QTLs and concordant allele
+effects among traits that had signiﬁcant phenotypic
+correlation suggested the possibility that pleiotropy of
+a common underlying gene rather than close linkage of
+separate genes may be responsible. Data were evalu-
+ated using a two-step process. First, in cases where
+bone and nonbone traits gave rise to adjacent or colo-
+calizing QTL, multi-trait CIM methods were employed
+to determine whether the signiﬁcance of the linkages
+could be increased by considering bone and nonbone
+traits simultaneously. Second, if the multi-trait analy-
+sis resulted in detecting a signiﬁcant effect, then the
+likelihood of potential pleiotropy vs. close linkage was
+tested to determine whether the signiﬁcant effect was
+potentially due to a single QTL having pleiotropic
+effects across all traits considered simultaneously or to
+closely linked QTL. This was tested directly by appli-
+
+http://physiolgenomics.physiology.org
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+i
+
+i
+
+l
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+211
+
+Fig. 3. Single and multi-trait CIM
+LOD score plots for bone and non-bone-
+related traits for chromosome 2. Joint
+LOD score curves are given in black,
+bone traits (BMD-Rd and BMD-R) are
+given in blue, adipose tissue is in green
+(adipose mass), and plasma high-den-
+sity lipoprotein (HDL) is in yellow.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+cation of the statistical test developed by Jiang and
+Zeng (18). As set forth by Jiang and Zeng (18), to test
+the hypotheses of pleiotropy vs. close linkage for two
+coincident QTL of interest, the multi-trait CIM likeli-
+hood function must be reformulated. The hypotheses of
+interest (H0 and H1) involve the position p1 of the QTL
+having an effect on trait 1 and position p2 of the QTL
+having an effect on trait 2 and are given by
+
+H0: p1 5 p2
+H1: p1 (cid:222) p2
+
+The alternative hypothesis indicates that the QTL are
+nonpleiotropic and are located at different map posi-
+tions. The likelihood for H0 is the same as that given
+for the multi-trait CIM model. However, the likelihood
+for the alternative is that developed by Jiang and Zeng
+(18). Using the prescription set forth by Jiang and
+Zeng, calculation of the maximum likelihoods for each
+hypothesis was carried out using the expectation-con-
+ditional maximization (ECM) algorithm. Once the
+maximum likelihoods under each hypothesis were
+computed, the log ratio of the likelihoods was computed
+to serve as the test statistic. This log-likelihood ratio
+test statistic is asymptotic to a x2 distribution with 1
+degree of freedom. The C11 software for testing these
+particular hypotheses is available upon request.
+
+Multi-trait analysis was performed on bone and non-
+bone traits for QTL reported on chromosomes 2, 3, and
+6. Incorporation of the non-bone-related trait(s) led to
+signiﬁcant increases in the LOD scores for the loci on
+chromosomes 2, 3, and 6 (Figs. 3–5). The pleiotropy vs.
+close linkage test was then applied to each of the
+speciﬁc genome regions deﬁned by the QTL resulting
+
+from the multi-trait analyses. This test yielded the
+following results. For chromosome 2, BMD-R and
+BMD-Rd were tested against adipose mass and HDL
+cholesterol to determine whether the QTL on chromo-
+some 2 potentially represented the same locus (pleiot-
+ropy) or distinct, closely linked loci. The pleiotropy test
+could not be rejected at the 0.05 signiﬁcance level for
+any of the comparisons. For chromosome 3, the chro-
+mosome 3 QTL for BMC-CT was tested against the
+adjacent chromosome 3 QTL for body length and HDL
+cholesterol, to determine whether they potentially rep-
+resented the same QTL or closely linked loci. The test
+was rejected at the P , 0.05 level, for each comparison,
+indicating that these loci were distinct. Finally, on
+chromosome 6, total radiographic intertrochanteric
+density (BMC-Rit) (at position 68 cM) was compared
+with plasma HDL (at position 73 cM) and subcutane-
+ous fat pad mass (at position 65 cM), and the pleiotropy
+test could not be rejected at the 0.05 signiﬁcance level.
+It is of note that the pleiotropy test could be rejected at
+the 0.01 signiﬁcance level when adipose tissue mass
+(at position 50 cM) was compared against BMC-Rit (at
+position 68 cM), indicating there may be two QTL
+controlling for adipose tissue mass and subcutaneous
+fat pad mass on chromosome 6.
+
+The speciﬁcity and sensitivity of the pleiotropy/close
+linkage test have not been thoroughly explored. How-
+ever, the position of the QTLs tested affects the power
+of this test, since the test is dependent on observing
+recombination in the testing regions deﬁned by the
+positions under consideration. Therefore, although in-
+sufﬁcient support to reject this test is consistent with
+pleiotropy, it does not prove conclusively that pleiotro-
+
+http://physiolgenomics.physiology.org
+
+212
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+Fig. 4. CIM LOD score plots for bone
+and non-bone-related traits for chro-
+mosomes 3. The LOD score curves for
+bone trait (BMC-CT) is given in blue,
+plasma LDL/VLDL in yellow, and body
+length in red; the joint LOD score curve
+for all three traits together is in black.
+(The gray curve reproduces the joint
+bone LOD score curve from Fig. 2 for
+comparison).
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+pic effects of a single gene are controlling for the
+multiple traits, since the power to detect multiple
+QTLs at close distances is greatly reduced and since
+these small distances may contain a large number of
+genes.
+
+DISCUSSION
+
+This study has examined genetic and metabolic de-
+terminants of bone mass and density in a set of genet-
+ically heterogeneous older female mice with diet-in-
+duced atherosclerosis. In these mice,
+there were
+signiﬁcant phenotypic correlations between bone pa-
+rameters and those related to body morphometry and
+adiposity, lipid metabolism, and atherosclerosis. By
+the concomitant use of QTL and other genetic analyses
+for these multiple traits, we sought to determine
+whether there might be a genetic basis for these rela-
+tionships. Six distinct loci were identiﬁed with signiﬁ-
+cant linkage for multiple bone-related parameters, and
+three of these coincided closely with loci showing link-
+age to nonbone traits. Colocalization of QTLs may
+simply represent close linkage of two or more genes
+independently inﬂuencing the traits, as there are likely
+hundreds of genes encompassed in the span of each
+QTL at the current resolution. However, it may also be
+indicative of the presence of common genetic determi-
+nants (genetic pleiotropy), a possibility strengthened
+by the presence of strong phenotypic correlations, con-
+sistent allele effects, and known biologic relationships
+between the colocalizing traits. We therefore developed
+and applied novel statistical tools to improve the abil-
+ity to distinguish closely mapped but independent loci
+from those that are potentially pleiotropic.
+
+Adipose tissue and plasma HDL traits were corre-
+lated with bone mass and density as well as biome-
+chanical properties, and loci on distal chromosome 2
+and distal chromosome 6 showed colocalization of
+QTLs for bone traits with both of these. For the chro-
+mosome 2 and 6 QTLs, incorporating adipose tissue
+and plasma HDL traits into the multi-trait QTL anal-
+yses signiﬁcantly raised the strength of linkage, which
+is consistent with pleiotropy. Additionally, the test for
+pleiotropy vs. close linkage supported potential pleiot-
+ropy for the chromosome 2 and the distal chromosome
+6 loci. The chromosome 2 locus falls within a region
+identiﬁed in other studies as showing linkage with
+obesity (32).
+
+Clinical studies have suggested that obesity confers
+a protective effect against osteoporosis and fractures
+that is independent of its contribution to body weight
+(43, 44, 46). Traditional explanations for this include
+the increased peripheral conversion of estrogen and
+increased insulin levels associated with adipose tissue,
+each having positive effects on bone mass and density
+(11, 45). However, recent studies of the role of leptin
+have shown that the situation is likely much more
+complicated. Clinical studies have demonstrated that
+plasma leptin levels are correlated with bone density
+(31), as we observed in this study, and in vitro leptin
+stimulates osteoblastic differentiation in progenitor
+stromal cells (52). It is intriguing that adipocytes and
+osteoblasts can be derived from common marrow stro-
+mal precursor cells and thus might share common cell
+biologic features (41). On the other hand, leptin is now
+well documented to be a central neuroendocrine medi-
+ator causing inhibition of bone formation, among other
+
+http://physiolgenomics.physiology.org
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+213
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+i
+
+i
+
+l
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+Fig. 5. CIM LOD score plots for bone and non-bone-related traits for chromosomes 6. The LOD score curve for the
+bone trait (BMC-Rit) is given in blue, adipose tissue traits are given in bold green (subcutaneous) and green
+(adipose tissue mass), and plasma HDL is in yellow. The joint LOD score curve for BMC-Rit, adipose tissue mass
+and plasma HDL taken together, is in black.
+
+effects (13). Also, administration of a high-fat diet to
+mice can impair both central and peripheral sensitivity
+to leptin (28) and cause reduced bone density (40).
+
+Similarly, there is observational and experimental
+evidence linking plasma lipids with bone density. Ath-
+erosclerotic lesions and the concomitant lower plasma
+HDL and higher plasma LDL cholesterol concentra-
+tions were associated with reduced bone density, a
+relationship observed in clinical studies in women (3,
+19, 54). Although the relationship could simply be
+parallel changes occurring with age, recent in vitro and
+in vivo studies showing inhibitory effects of oxidized
+lipids on osteoblast differentiation and on bone density
+have provided evidence for a causative relationship
+between these (38–40). Our ﬁndings of two loci show-
+ing linkage with bone, adipose tissue, and plasma lipid
+traits are intriguing in light of the above and allow us
+to hypothesize that genetic pleiotropy may be respon-
+sible. Further studies will be needed to deﬁnitively
+establish whether this is the case or simply close link-
+age of distinct genes is responsible for the observation.
+Several recent studies have reported results of
+QTL analyses for peak bone density in mice, includ-
+ing one by Klein and colleagues (23) that utilized
+recombinant inbred (RI) strains derived from the
+same parental strains studied here. Before discuss-
+
+ing our ﬁndings in relation to these, it should ﬁrst be
+noted that the bone density traits examined here are
+not directly comparable. Rather than reﬂecting peak
+bone density, they purposely reﬂect bone density in
+the more complicated setting of older age and the
+concurrent administration of a highly atherogenic
+diet. Both of these factors could be responsible for
+some or all of the QTL identiﬁed. However, since the
+traits reﬂect the cumulative genetic effects over the
+life of the mice, the QTL may also reﬂect those
+affecting peak bone density. In light of the latter, it
+is of interest that the distal chromosome 2 locus was
+linked with bone density in both our study and that
+of Klein et al. (23), suggesting that it is indeed an
+important locus. Although the same genetic varia-
+tions should be present in the RI strains and in the
+F2 intercross mice (since the parental strains are
+similar), other loci were not found in common, which
+may be explained by differing study conditions as
+discussed above and, potentially, the different tech-
+niques for measuring bone density. Also, in general,
+studies with RI strains also have less statistical
+power than those using intercrosses and are more
+susceptible to false-positive results. Loci for peak
+bone density in an intercross between strains C3H/
+HeJ and C57BL/6J, C57BL/6J and CAST/Ei, and in
+
+http://physiolgenomics.physiology.org
+
+214
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+the osteoporotic SAM-P6 mouse have also been re-
+ported recently and do not correspond to loci ob-
+served in our study (5, 7, 51). In these cases, strain
+differences would be expected to yield different loci,
+in addition to the age and diet effects.
+
+In humans, variations in the genotype for the vita-
+min D receptor, estrogen receptor, collagen type 1a,
+and interleukin 6 have been associated with differ-
+ences in bone density, as has a QTL on chromosome 11,
+but these are not mapped to any of the loci identiﬁed in
+this study (15, 20, 24, 34, 53). It is important to note
+that, in studies such as this, lack of linkage is simply
+noninformative, as there may be no biologically rele-
+vant genetic variation between the two strains used.
+Also, as noted above, the QTL we have detected may be
+related to age or diet effects rather than peak bone
+mass. The next steps in the identiﬁcation of the genes
+responsible at each of the loci identiﬁed here will re-
+quire ﬁner mapping through the use of strains con-
+genic for each of the loci. Continued identiﬁcation and
+mapping of new genes through the various genome
+projects will also expand the pool of candidate genes to
+consider.
+
+This study demonstrates the value of combining phe-
+notypic and genetic analysis for elucidating the patho-
+genic interactions among multiple related traits. Over
+the past 5 years, a variety of statistical techniques
+have been developed to resolve coincident QTL, to
+consider multiple traits simultaneously, and to test
+whether coincident QTL are closely linked or represent
+pleiotropic effects from a single QTL. As the number of
+traits being simultaneously analyzed increases, the
+power to detect marker/trait associations can poten-
+tially dramatically increase if appropriate statistical
+models are used. The results obtained in this study
+demonstrate this dramatic increase in power, and the
+pleiotropy test developed by Jiang and Zeng (18) fur-
+ther demonstrates that an application of more sophis-
+ticated statistical tests can go far in elucidating the
+underlying genetic factors contributing to multiple
+quantitative traits. We were able to increase the evi-
+dence for linkage, given by the LOD score, for six QTL
+by more than one order of magnitude, on average, and
+by more than three orders of magnitude in two cases.
+In addition, we were able to reject the pleiotropy hy-
+pothesis for the chromosome 3 loci, but were unable to
+reject this hypothesis for the chromosome 2 and the
+distal chromosome 6 QTL, by implementing and then
+applying the pleiotropy vs. close linkage statistical
+test. As more phenotype data obtain from a variety of
+sources (including microarray-measured transcript
+levels in addition to the more classic traits measured
+here) there will be increased demand for more sophis-
+ticated statistical methods capable of deriving more
+information from the data, such as those we have
+employed here. In our own study, we have tried to
+maximize the available information in our data by
+making use of the most advanced statistical techniques
+available to date.
+
+The technical assistance of Larry Castellani, Sarada Charun-
+gundla, Mark Cuevas, Lena Dishakjian, Marjon Jahromi, Yu-po Lee,
+Jian-Hua Qiao, Kathy Salcedo, and Xuping Wang is gratefully ac-
+knowledged.
+
+This work was supported in part by National Heart, Lung, and
+Blood Institute Grants HL-30568 (to A. J. Lusis and T. A. Drake) and
+HL-28481 (to A. J. Lusis) and by the Laubisch Fund, UCLA. K. Krass
+was supported by National Research Service Award GM-07014.
+
+REFERENCES
+
+1. Adami S, Zamberlan N, Gatti D, Zanﬁsi C, Braga V,
+Broggini M, and Rossini M. Computed radiographic absorpti-
+ometry and morphometry in the assessment of postmenopausal
+bone loss. Osteoporos Int 6: 8–13, 1996.
+
+2. Akhter MP, Cullen DM, Pedersen EA, Kimmel DB, and
+Recker RR. Bone response to in vivo mechanical loading in two
+breeds of mice. Calcif Tissue Int 63: 442–449, 1998.
+
+3. Barengolts EI, Berman M, Kukreja SC, Kouznetsova T,
+Lin C, and Chomka EV. Osteoporosis and coronary atheroscle-
+rosis in asymptomatic postmenopausal women. Calcif Tissue Int
+62: 209–213, 1998.
+
+4. Basten CA, Weir BS, and Zeng ZB. QTL Cartographer, A
+Reference Manual and Tutorial for QTL Mapping. Raleigh, NC:
+Department of Statistics, North Carolina State University, 1999.
+5. Beamer WG, Rosen CJ, Donahue LR, Frankel WN,
+Churchill GA, Shulz KL, Baylink DJ, and Pettis JL. Loca-
+tion of genes regulating volumetric bone mineral density in
+C57BL/6J (low) and C3H/HeJ (high) inbred strains of mice (Ab-
+stract). Bone Suppl 23: S162, 1998.
+
+6. Beamer WG, Donahue LR, Rosen CJ, and Baylink DJ.
+Genetic variability in adult bone density among inbred strains of
+mice. Bone 18: 397–403, 1996.
+
+7. Beamer WG, Shultz KL, Churchill GA, Frankel WN, Bay-
+link DJ, Rosen CJ, and Donahue LR. Quantitative trait loci
+for bone density in C57BL/6J and CAST/EiJ inbred mice. Mamm
+Genome 10: 1043–1049, 1999.
+
+8. Burstein AH and Frankel VH. A standard test for laboratory
+
+animal bone. J Biomech 4: 155–158, 1971.
+
+9. Cauley JA, Salamone LM, and Lucas FL. Postmenopausal
+endogenous and exogenous hormones, degree of obesity, thiazide
+diuretics, and risk of osteoporosis. In: Osteoporosis, edited by
+Marcus R, Feldman D, and Kelsey J. San Diego: Academic, 1996,
+p. 551–576.
+
+10. Comuzzie AG and Allison DB. The search for human obesity
+
+genes. Science 280: 1374–1377, 1998.
+
+11. Cornish J, Callon KE, and Reid IR. Insulin increases histo-
+morphometric indices of bone formation in vivo. Calcif Tissue Int
+59: 492–495, 1996.
+
+12. Dimai HP, Linkhart TA, Linkhart SG, Donahue LR,
+Beamer WG, Rosen CJ, Farley JR, and Baylink DJ. Alka-
+line phosphatase levels and osteoprogenitor cell numbers sug-
+gest bone formation may contribute to peak bone density differ-
+ences between two inbred strains of mice. Bone 22: 211–216,
+1998.
+
+13. Ducy P, Amling M, Takeda S, Priemel M, Schilling AF, Beil
+FT, Shen J, Vinson C, Rueger JM, and Karsenty G. Leptin
+inhibits bone formation through a hypothalamic relay: a central
+control of bone mass. Cell 100: 197–207, 2000.
+
+14. Fukunaga M, Tomomitsu T, Otsuka N, Imai H, Morita R,
+and Nishii Y. Indexes of bone mineral content on second meta-
+carpal bone roentgenogram analyzed by digital image process-
+ing: a comparison with other bone mass quantifying methods.
+Radiat Med 8: 230–235, 1990.
+
+15. Grant SF, Reid DM, Blake G, Herd R, Fogelman I, and
+Ralston SH. Reduced bone density and osteoporosis associated
+with a polymorphic Sp1 binding site in the collagen type I alpha
+1 gene. Nat Genet 14: 203–205, 1996.
+
+16. Hayashi Y, Yamamoto K, Fukunaga M, Ishibashi T, Taka-
+hashi K, and Nishii Y. Assessment of bone mass by image
+analysis of metacarpal bone roentgenograms: a quantitative
+digital image processing (DIP) method. Radiat Med 8: 173–178,
+1990.
+
+17. Ivandic BT, Qiao JH, Machleder D, Liao F, Drake TA, and
+Lusis AJ. A locus on chromosome 7 determines myocardial cell
+
+http://physiolgenomics.physiology.org
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+GENETIC LOCI FOR BONE DENSITY IN MICE
+
+215
+
+necrosis and calciﬁcation (dystrophic cardiac calcinosis) in mice.
+Proc Natl Acad Sci USA 93: 5483–5488, 1996.
+
+18. Jiang C and Zeng ZB. Multiple trait analysis of genetic map-
+ping for quantitative trait loci. Genetics 140: 1111–1127, 1995.
+19. Jie KG, Bots ML, Vermeer C, Witteman JC, and Grobbee
+DE. Vitamin K status and bone mass in women with and
+without aortic atherosclerosis: a population-based study. Calcif
+Tissue Int 59: 352–356, 1996.
+
+20. Johnson ML, Gong G, Kimberling W, Recker SM, Kimmel
+DB, and Recker RB. Linkage of a gene causing high bone mass
+to human chromosome 11 (11q12–13). Am J Hum Genet 60:
+1326–1332, 1997.
+
+21. Kaufman L and Rousseeuw PJ. Finding Groups in Data: An
+
+Introduction to Cluster Analysis. New York: Wiley, 1990.
+
+22. Kaye M and Kusy RP. Genetic lineage, bone mass, and phys-
+
+ical activity in mice. Bone 17: 131–135, 1995.
+
+23. Klein RF, Mitchell SR, Phillips TJ, Belknap JK, and Or-
+woll ES. Quantitative trait loci affecting peak bone mineral
+density in mice. J Bone Miner Res 13: 1648–1656, 1998.
+
+24. Kobayashi S, Inoue S, Hosoi T, Ouchi Y, Shiraki M, and
+Orimo H. Association of bone mineral density with polymor-
+phism of the estrogen receptor gene. J Bone Miner Res 11:
+306–311, 1996.
+
+25. Lander E and Kruglyak L. Genetic dissection of complex
+traits: guidelines for interpreting and reporting linkage results.
+Nat Genet 11: 241–247, 1995.
+
+26. Lander ES and Schork NJ. Genetic dissection of complex
+
+traits. Science 265: 2037–2048, 1994.
+
+27. Lembertas AV, Fisher JS, Warden CH, Wen PZ, Xia YR,
+and Lusis AJ. A locus on the X chromosome is linked to body
+length in mice. Mamm Genome 7: 171–173, 1996.
+
+28. Lin S, Thomas TC, Storlien LH, and Huang XF. Develop-
+ment of high fat diet-induced obesity and leptin resistance in
+C57Bl/6J mice. Int J Obes Relat Metab Disord 24: 639–646,
+2000.
+
+29. Lincoln SE, Daly MJ, and Lander ES. Constructing Genetic
+Linkage Maps with MAPMAKER/EXP Version 3.0: A Tutorial
+and Reference Manual. Cambridge, MA: Whitehead Institute for
+Biomedical Research (technical report).
+
+30. Lynch M and Walsh JB. Genetics and Analysis of Quantitative
+
+Traits. Sunderland, MA: Sinauer Associates, 1998.
+
+31. Matkovic V, Ilich JZ, Skugor M, Badenhop NE, Goel P,
+Clairmont A, Klisovic D, Nahhas RW, and Landoll JD.
+Leptin is inversely related to age at menarche in human females.
+J Clin Endocrinol Metab 82: 3239–3245, 1997.
+
+32. Mehrabian M, Wen PZ, Fisler J, Davis RC, and Lusis AJ.
+Genetic loci controlling body fat, lipoprotein metabolism, and
+insulin levels in a multifactorial mouse model. J Clin Invest 101:
+2485–2496, 1998.
+
+33. Mikic B, Van der Meulen MC, Kingsley DM, and Carter
+DR. Mechanical and geometric changes in the growing femora of
+BMP-5 deﬁcient mice. Bone 18: 601–607, 1996.
+
+34. Morrison NA, Qi JC, Tokita A, Kelly PJ, Crofts L, Nguyen
+TV, Sambrook PN, and Eisman JA. Prediction of bone density
+from vitamin D receptor alleles. Nature 367: 284–287, 1994.
+
+35. Murray EJ, Song MK, Laird EC, and Murray SS. Strain-
+dependent differences in vertebral bone mass, serum osteocalcin,
+and calcitonin in calcium-replete and -deﬁcient mice. Proc Soc
+Exp Biol Med 203: 64–73, 1993.
+
+36. Nishina PM, Naggert JK, Verstuyft J, and Paigen B. Ath-
+erosclerosis in genetically obese mice: the mutants obese, diabe-
+tes, fat, tubby, and lethal yellow. Metabolism 43: 554–558, 1994.
+37. Paigen B, Morrow A, Brandon C, Mitchell D, and Holmes
+P. Variation in susceptibility to atherosclerosis among inbred
+strains of mice. Atherosclerosis 57: 65–73, 1985.
+
+38. Parhami F, Jackson SM, Tintut Y, Le V, Balucan JP,
+Territo M, and Demer LL. Atherogenic diet and minimally
+oxidized low density lipoprotein inhibit osteogenic and promote
+adipogenic differentiation of marrow stromal cells. J Bone Miner
+Res 14: 2067–2078, 1999.
+
+39. Parhami F, Morrow AD, Balucan J, Leitinger N, Watson
+AD, Tintut Y, Berliner JA, and Demer LL. Lipid oxidation
+products have opposite effects on calcifying vascular cell and
+bone cell differentiation. A possible explanation for the paradox
+of arterial calciﬁcation in osteoporotic patients. Arterioscler
+Thromb Vasc Biol 17: 680–687, 1997.
+
+40. Parhami F, Tintut Y, Beamer WG, Gharavi N, Goodman W,
+and Demer LL. Atherogenic high fat diet reduces bone miner-
+alization in mice. J Bone Mineral Res. 16: 182–188, 2001.
+
+41. Prockop DJ. Marrow stromal cells as stem cells for nonhema-
+
+topoietic tissues. Science 276: 71–74, 1997.
+
+42. Qiao JH, Xie PZ, Fishbein MC, Kreuzer J, Drake TA,
+Demer LL, and Lusis AJ. Pathology of atheromatous lesions in
+inbred and genetically engineered mice. Genetic determination
+of arterial calciﬁcation. Arterioscler Thromb 14: 1480–1497,
+1994.
+
+43. Reid IR, Ames R, Evans MC, Sharpe S, Gamble G, France
+JT, Lim TM, and Cundy TF. Determinants of total body and
+regional bone mineral density in normal postmenopausal wom-
+en: a key role for fat mass. J Clin Endocrinol Metab 75: 45–51,
+1992.
+
+44. Reid IR, Evans MC, and Ames RW. Volumetric bone density
+of the lumbar spine is related to fat mass but not lean mass in
+normal postmenopausal women. Osteoporos Int 4: 362–367,
+1994.
+
+45. Reid IR, Evans MC, Cooper GJ, Ames RW, and Stapleton
+J. Circulating insulin levels are related to bone density in nor-
+mal postmenopausal women. Am J Physiol Endocrinol Metab
+265: E655–E659, 1993.
+
+46. Reid IR, Plank LD, and Evans MC. Fat mass is an important
+determinant of whole body bone density in premenopausal
+women but not in men. J Clin Endocrinol Metab 75: 779–782,
+1992.
+
+47. Rosen CJ, Churchill GA, Donahue LR, Shultz KL, Burgess
+JK, Powell DR, and Beamer WG. Mapping quantitative trait
+loci for serum insulin-like growth factor-1 levels in mice. Bone
+27: 521–528, 2000.
+
+48. Sambrook PN, Kelly PJ, White CP, Morrison NA, and
+Eisman JA. Genetic determinants of bone mass. In: Osteoporo-
+sis, edited by Marcus R, Feldman D, and Kelsey J. San Diego:
+Academic Press, 1996, p. 477–482.
+
+49. Sanada T, Tomomitsu T, Otsuka N, Fukunaga M, and
+Togawa H. A fundamental study of a computed X-ray densitom-
+etry system for bone mineral measurement in the second meta-
+carpal bone. Radiat Med 12: 143–146, 1994.
+
+50. Seeman E and Hopper JL. Genetic and environmental com-
+ponents of the population variance in bone density. Osteoporos
+Int Suppl 7: S10–S16, 1997.
+
+51. Shimizu M, Higuchi K, Bennett B, Xia C, Tsuboyama T,
+Kasai S, Chiba T, Fujisawa H, Kogishi K, Kitado H, Kimoto
+M, Takeda N, Matsushita M, Okumura H, Serikawa T,
+Nakamura T, Johnson TE, and Hosokawa M. Identiﬁcation
+of peak bone mass QTL in a spontaneously osteoporotic mouse
+strain. Mamm Genome 10: 81–87, 1999.
+
+52. Thomas T, Gori F, Khosla S, Jensen MD, Burguera B, and
+Riggs BL. Leptin acts on human marrow stromal cells to en-
+hance differentiation to osteoblasts and to inhibit differentiation
+to adipocytes. Endocrinology 140: 1630–1638, 1999.
+
+53. Uitterlinden AG, Burger H, Huang Q, Yue F, McGuigan
+FE, Grant SF, Hofman A, van Leeuwen JP, Pols HA, and
+Ralston SH. Relation of alleles of the collagen type Ia1 gene to
+bone density and the risk of osteoporotic fractures in postmeno-
+pausal women. N Engl J Med 338: 1016–1021, 1998.
+
+54. Uyama O, Yoshimoto Y, Yamamoto Y, and Kawai A. Bone
+changes and carotid atherosclerosis in postmenopausal women.
+Stroke 28: 1730–1732, 1997.
+
+55. Weiss A, Arbell I, Steinhagen-Thiessen E, and Silbermann
+M. Structural changes in aging bone: osteopenia in the proximal
+femurs of female mice. Bone 12: 165–172, 1991.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+l
+
+i
+
+i
+
+p
+h
+y
+s
+o
+g
+e
+n
+o
+m
+c
+s
+.
+p
+h
+y
+s
+o
+o
+g
+y
+.
+
+i
+
+l
+
+o
+r
+g
+
+/
+ 
+
+b
+y
+ 
+g
+u
+e
+s
+t
+ 
+
+o
+n
+ 
+J
+u
+n
+e
+
+ 
+3
+,
+ 
+2
+0
+1
+3
+
+http://physiolgenomics.physiology.org
+
+View publication stats
+View publication stats
+
+

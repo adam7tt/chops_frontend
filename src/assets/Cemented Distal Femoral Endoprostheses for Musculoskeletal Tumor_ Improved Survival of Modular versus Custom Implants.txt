@@ -1,0 +1,5462 @@
+C L I N I C A L R E S E A R C H
+
+Cemented Distal Femoral Endoprostheses for Musculoskeletal
+Tumor
+
+Improved Survival of Modular versus Custom Implants
+
+Adam J. Schwartz MD, J. Michael Kabo PhD,
+Fritz C. Eilber MD, Frederick R. Eilber MD,
+Jeffrey J. Eckardt MD
+
+Received: 23 June 2009 / Accepted: 30 November 2009 / Published online: 22 December 2009
+(cid:2) The Author(s) 2009. This article is published with open access at Springerlink.com
+
+Abstract
+Background Advocates of newer implant designs cite
+high rates of aseptic loosening and failure as reasons to
+abandon traditional cemented endoprosthetic reconstruc-
+tion of the distal femur.
+Questions/purposes We asked whether newer, modular
+distal
+femoral components had improved survivorship
+compared with older, custom-casted designs.
+Patients and Methods We retrospectively reviewed 254
+patients who underwent distal
+femoral endoprosthetic
+reconstruction. We excluded two patients with cementless
+implants, 27 with expandable prostheses, and 39 who had a
+nontumor diagnosis. This left 186 patients: 101 with older
+custom implants and 85 with contemporary modular
+implants. The minimum followup was 1 month (mean,
+96.0 months; range, 1–336 months). The tumor was clas-
+siﬁed as Stage IIA/IIB in 122 patients, Stage IA/IB or
+benign in 43, and Stage III or metastatic in 21.
+
+Results Kaplan-Meier analysis revealed overall 10-, 20-,
+and 25-year implant survival rates of 77%, 58%, and 50%,
+respectively, using revision of the stemmed components as
+an end point. The 85 modular components had a greater 15-
+year survivorship than the 101 custom-designed implants:
+93.7% versus 51.7%, respectively. Thirty-ﬁve stemmed
+components (18.8%) were revised for aseptic loosening in
+22 patients, implant fatigue fracture in 10, infection in two,
+and local recurrence in one.
+Conclusions Cemented modular
+rotating-hinge distal
+femoral endoprostheses demonstrated improved survivorship
+compared with custom-casted implants during this three-
+decade experience. Patients with low-grade disease and long-
+term survivors of high-grade localized disease should expect
+at least one or more revision procedures in their lifetime.
+Level of Evidence Level IV, therapeutic study. See the
+Guidelines for Authors for a complete description of levels
+of evidence.
+
+Each author certiﬁes that he or she has no commercial associations
+(eg, consultancies, stock ownership, equity interest, patent/licensing
+arrangements, etc) that might pose a conﬂict of interest in connection
+with the submitted article.
+Each author certiﬁes that his or her institution approved the human
+protocol for this investigation and that all investigations were
+conducted in conformity with ethical principles of research.
+This work was performed at University of California Los Angeles
+Medical Center.
+
+A. J. Schwartz (&), F. C. Eilber, F. R. Eilber, J. J. Eckardt
+Department of Orthopaedic Surgery, University of California
+Los Angeles Medical Center, 1250 16th Street Room 745, Santa
+Monica, CA 90404, USA
+e-mail: adamschwartz2001@yahoo.com
+
+J. M. Kabo
+California State University, Northridge, Northridge, CA, USA
+
+Introduction
+
+Before the 1970s, the majority of high-grade musculo-
+skeletal tumors involving the distal femur were treated with
+transfemoral amputation owing to an unacceptably high
+rate of recurrence associated with local resection [10, 19,
+31, 47]. As effective chemotherapeutic regimens were
+developed, limb salvage using various techniques gained
+popularity among orthopaedic oncologists [1, 11, 19, 20,
+24, 37, 45, 49, 60, 69]. Today, with effective neoadjuvant
+chemotherapy, limb salvage is indicated in as much as 90%
+of patients with musculoskeletal malignancies involving
+the distal femur [6, 7, 14, 44, 53–55, 57].
+
+Numerous studies document relatively high implant
+survival after limb salvage for tumors involving the distal
+
+123
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2199
+
+femur [3, 4, 8, 26, 27, 29, 35, 43, 44, 50, 54, 55, 57, 61, 71].
+Studies that are available, however, do not stratify patients
+on the basis of tumor grade, stage of disease, or life
+expectancy to deﬁne the disease-speciﬁc survival of
+implants. This makes it difﬁcult for surgeons to accurately
+predict how long the implants will last for a given patient
+population and life expectancy. Additionally,
+there are
+limited data available with which to compare implant
+survival of contemporary modular implant designs with
+older custom-designed implants no longer in use [8, 44, 48,
+70]. Critics of a cemented endoprosthetic reconstruction
+technique cite rates of aseptic loosening from 8.4% to
+greater than 30% [2, 30, 38, 63] as the main rationale for
+abandoning its use in favor of newer designs.
+
+femoral
+
+Given the paucity of
+
+long-term data concerning
+cemented distal
+implants and the heightened
+interest in alternate ﬁxation designs, we sought to answer
+the following four questions: (1) Do newer cemented
+modular
+implant designs have improved survivorship
+compared with older custom-designed components? (2)
+Does tumor grade or stage inﬂuence implant survival? (3)
+What
+long-term functional result after a
+cemented distal femoral replacement? (4) What are the
+complications associated with this technique?
+
+is the typical
+
+Patients and Methods
+
+date,
+
+possibly
+
+complete
+
+including
+
+We retrospectively reviewed the electronic and paper
+charts of all 254 patients who underwent cemented distal
+femoral endoprosthetic reconstructions for musculoskeletal
+tumors between December 1980 and December 2008. We
+excluded 68 patients: 39 patients had distal
+femoral
+reconstructions or a diagnosis other than musculoskeletal
+tumor; 27 with a tumor-related diagnosis were skeletally
+immature and underwent distal femoral reconstruction with
+the intent to perform multiple expansion procedures at a
+later
+prosthesis
+exchange; two patients underwent reconstruction with a
+cementless implant. We previously reported our results of
+expandable and cementless implants for tumors of the
+distal femur [16, 17, 36, 64] and did not include them in the
+current analysis. These exclusions left 186 patients: 98
+(53%) males and 88 (47%) females. Their mean age at the
+time of surgery was 29.0 years (range, 12–79 years). The
+186 patients were analyzed overall and according to
+implant type. We further divided the 186 patients into three
+subgroups based on disease grade or stage: Group 1
+(n = 43) were patients with low-grade malignancy (Stage
+IA or IB), parosteal osteosarcoma, or benign diagnoses;
+Group 2 (n = 122) was comprised of patients with high-
+grade localized disease (Stage IIA or IIB); and Group 3
+(n = 21)
+III primary
+
+included patients with Stage
+
+Osteosarcoma (classic high grade)
+
+102 (54.8%)
+
+Table 1. Diagnoses
+
+Diagnosis
+
+Group 1 (low grade)
+
+Giant cell tumor
+
+Parosteal osteosarcoma
+
+Chondrosarcoma (low grade)
+
+Desmoid of bone
+
+Chondroblastoma
+
+Total Group 1
+
+Group 2 (high-grade localized)
+
+Chondrosarcoma (high grade)
+
+Malignant ﬁbrous histiocytoma
+Ewing’s sarcoma
+
+Synovial sarcoma
+
+Malignant giant cell tumor
+
+Leiomyosarcoma
+
+Fibrosarcoma
+
+Alveolar soft parts sarcoma
+
+Total Group 2
+
+Group 3 (Stage III/disseminated)
+
+Osteosarcoma (Stage III)
+
+Metastatic disease
+
+Malignant ﬁbrous histiocytoma
+
+Fibrosarcoma
+
+Myeloma
+
+Lymphoma
+
+Total Group 3
+
+Total all groups
+
+Number of patients
+
+18 (9.7%)
+
+14 (7.5%)
+
+7 (3.8%)
+
+3 (1.6%)
+
+1 (0.5%)
+
+43 (23.1%)
+
+7 (3.8%)
+
+5 (2.7%)
+2 (1.1%)
+
+2 (1.1%)
+
+1 (0.5%)
+
+1 (0.5%)
+
+1 (0.5%)
+
+1 (0.5%)
+
+122 (65.6%)
+
+11 (5.9%)
+
+4 (2.2%)
+
+2 (1.1%)
+
+2 (1.1%)
+
+1 (0.5%)
+
+1 (0.5%)
+
+21 (11.3%)
+
+186 (100.0%)
+
+malignancy of the distal femur, along with patients with
+metastatic carcinoma to the distal femur, and the single
+cases of myeloma and lymphoma (Table 1). The latter
+group was treated as a single cohort owing to similarity in
+life expectancy among patients with these four diagnoses.
+At the most recent followup, 65 of the 186 patients had
+died (35%). The minimum followup was 1 month (mean,
+96 months; range, 1–336 months; median, 54.5 months)
+for all patients and 1 month (mean, 130.4 months; range,
+1–336 months)
+the 121 surviving patients. Eight
+patients were lost to followup but were well at the time of
+the last evaluation (range, 3–13 months). No patients were
+recalled speciﬁcally for
+review study. We
+obtained prior approval from our institution’s Ofﬁce for
+Protection of Research Subjects (UCLA IRB #G08-10-
+100-01).
+
+this chart
+
+for
+
+From the charts, we recorded the index diagnosis and
+disease stage at the time of presentation (according to the
+system described by Enneking et al. [22, 25]), length of
+followup, postoperative function scores, implant type and
+manufacturer,
+events
+
+postoperative
+
+any major
+
+and
+
+123
+
+2200
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+Implants were manufactured by one of three companies:
+Stryker/Howmedica (Mahwah, NJ), Techmedica (Camarillo,
+CA), and Dow-Corning Wright Corp (Arlington, TN).
+All implants used a rotating-hinge knee mechanism. The 156
+implants (83.9%) manufactured by Stryker/Howmedica
+used the KinematicTM rotating-hinge mechanism [33]. The
+28 implants (15.1%) manufactured by Techmedica used the
+NoilesTM rotating hinge, whereas the two (1.1%) manufac-
+tured by Dow-Corning Wright used the Lacey rotating-hinge
+knee (Figs. 1, 2). Initially, the ﬁrst 101 (54.3%) prostheses
+were custom designed by two of the senior authors (JMK,
+JJE) as a one-piece femoral component [56]. Seventy-three
+of 101 custom implants were Co-Cr-Mo alloy components
+manufactured by Howmedica. The bodies were casted using
+
+(systemic or local complications, repeat surgery for any
+reason, revision of stemmed components, and/or local
+recurrence).
+
+All endoprosthetic reconstructions were performed by
+the same surgeon (JJE), and all tumor resections followed
+generally accepted oncologic principles [7, 12, 14, 15]. A
+longitudinal medial
+incision extended from the tibial
+tubercle proximally following the course of the sartorius
+muscle, and the neurovascular bundle was identiﬁed and
+protected. Tourniquets were never used. All previous open
+biopsy sites were left in continuity with the resected mass;
+needle biopsy sites were ignored. The femoral and tibial
+osteotomies were made with the intention that postrecon-
+struction leg lengths would be equal. A rotating-hinge knee
+mechanism was used in all cases that
+incorporated an
+8-mm all-polyethylene nonmetal-backed tibial component.
+The distance between the distal end of the metal femoral
+component and the undersurface of the all-polyethylene
+tibial component when assembled was 17 mm. To ensure
+leg length equality, the femoral osteotomy was made 1 cm
+longer than the femoral component length, and 7 mm of
+proximal tibia was resected. The location of the patella
+relative to the joint line was never a conscious consider-
+ation. The level of resection was marked on the femur
+proximally with an osteotome, followed by a slightly more
+proximal mark on the femur and a mark on the proximal
+tibia (distal to the level of resection). The distance between
+the latter two marks was measured and recorded. This
+preresection distance should equal the postreconstruction
+distance to ensure limb length equality. A ﬁnal mark was
+placed at the most anterior aspect of the femur to ensure
+proper femoral component rotation as the location of the
+linea aspera was not always exactly posterior.
+
+After the femoral osteotomy, the proximal marrow was
+sent for frozen-section analysis to conﬁrm a negative
+marrow margin. A trial tibial component was placed, and
+in all cases, an intraoperative radiograph was obtained to
+ensure placement perpendicular to the mechanical axis of
+the tibia. The trial hinge mechanism was reduced, and
+restoration of the preresection extremity length and rota-
+tion were veriﬁed using marks previously made on the
+proximal tibia and femur. The neurovascular bundle was
+palpated to ensure there was not excessive tension on the
+vessels, and a Doppler probe at the ankle conﬁrmed the
+presence of the posterior tibial and dorsalis pedis pulses.
+We routinely used antibiotic-impregnated cement for all
+endoprosthetic reconstructions. The all-polyethylene tibial
+and patellar components were cemented ﬁrst, followed by
+the femoral component separately. All patients were
+administered 100 mg Solu-Cortef1 (Pﬁzer Inc, New York,
+NY) before placement of the femoral component, and the
+prosthesis was introduced slowly to avoid causing a fat
+embolism.
+
+123
+
+Fig. 1A–C (A) A custom endoprosthesis featuring a body casted by
+the lost-wax method and used from 1980 to 1985 is shown. The stem,
+based on the Zickel nail design, was welded to the body. (B) An
+extramedullary porous coating was added to the prosthesis used from
+1985 to 1990, which acts as a scaffolding for soft tissue ingrowth.
+This presumably protects the stem from debris wear and may reduce
+aseptic loosening. (C) A contemporary modular endoprosthesis used
+since 1990 features titanium segments and Co-Cr-Mo alloy Morse
+tapers that prevent cold welding.
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2201
+
+Fig. 2 The Lacey, Kinematic,
+and Noiles rotating-hinge mech-
+anisms used in this series are
+shown.
+
+the lost-wax method, and the casted stems, based on the
+Zickel nail design, were welded to the body. All 28 of the
+Techmedica components were manufactured completely
+from titanium. In 1990, modular endoprostheses were
+introduced and subsequently used in 85 patients (45.7%).
+Conventional nonmetal-backed polyethylene tibial compo-
+nents were used in all cases. All patellae were resurfaced
+using a nonmetal-backed all-polyethylene single central-
+pegged component.
+
+Before the introduction of
+
+the continuous passive
+motion (CPM) machine, patients initially were immobi-
+lized in a cast for 2 to 3 weeks before physical therapy.
+Since the introduction of the CPM machine in the early
+1980s, all patients were placed into a CPM machine in the
+operating room. Motion was commenced from –5(cid:3) exten-
+sion to 30(cid:3) to 45(cid:3) ﬂexion and gradually increased to greater
+than 90(cid:3) ﬂexion before discharge. A towel roll under the
+heel was used three times daily for 1 hour to ensure full
+extension was achieved. On the third postoperative day,
+patients were made weightbearing as
+tolerated with
+ambulatory supports and a knee immobilizer, which were
+used for 6 to 8 weeks. The CPM machine was used at home
+for 12 hours a day for 1 month to help ensure maximum
+ﬂexion was achieved.
+
+Patients were followed every 2 to 3 weeks for the ﬁrst
+2 months after surgery,
+then on a quarterly basis for
+2 years, semiannually for an additional 2 years, and
+annually thereafter. Radiographs of the affected limb were
+obtained at each postoperative visit, along with quarterly
+chest radiographs and semiannual chest CT. Postoperative
+function was evaluated for each patient using the Muscu-
+loskeletal Tumor Society (MSTS) function score [23]. One
+hundred sixty of the 186 patients (86.0%) were available
+
+for functional evaluation and did not undergo amputation
+during the followup period.
+
+Patient and prosthesis survival rates and 95% conﬁdence
+intervals (CIs) were determined for all three groups using
+the Kaplan-Meier product-limit method [34]. Patient sur-
+vival was analyzed using death attributable to disease
+progression as an end point. Prosthesis survivorship was
+determined for custom and modular implants separately
+using revision of the stemmed components for any reason
+as an end point. For purposes of implant survival, we did
+not include surgery attributable to failure of the bushings,
+the axle, or the metal tibial bearing component, all of
+which were managed successfully without the need for
+revision of major stemmed components.
+Implant and
+patient survival curves for the two types of implants and
+three grades or stages of malignancy were compared using
+the log-rank method [42]. Statistical analysis was per-
+formed using a commercially available statistics package
+(R, Version 2.9.0, The R Foundation for Statistical
+Computing, Vienna, Austria).
+
+Results
+
+Modular implants had greater survivorship (p = 0.011)
+than those of a custom design, with a 15-year survivorship
+rate of 93.7% versus 51.7% (Fig. 3). Of the 186 index
+procedures, 35 stemmed components
+(18.8%) were
+revised: 32 revisions were performed owing to mechanical
+failure, whereas an additional three revisions were neces-
+sary owing to nonmechanical complications. Thirty-one
+custom-casted stems were revised; 19 were revised for
+aseptic loosening of the femoral stem, nine for fatigue
+
+123
+
+2202
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+Fig. 4 The Kaplan-Meier survivorship analysis shows overall pros-
+thesis survival (n = 186). The dashed lines represent the 95% CI.
+
+(Group 1, n = 43)
+
+prosthesis survival rates at 10, 20, and 25 years were
+77.2%, 57.9%, and 50.2%, respectively (Fig. 4; Table 2).
+Modular implant survival was greater (p = 0.001) than
+patient survival for those in disease Groups 2 and 3. All
+patients initially diagnosed with low-grade or aggressive
+benign tumors
+survived (Fig. 5;
+Table 2). The 10-, 20-, and 25-year disease-speciﬁc sur-
+vival rates for patients diagnosed with high-grade localized
+disease (Group 2) were 57.7%, 56.0%, and 56.0%,
+respectively (Fig. 6; Table 2). The 5- and 10-year disease-
+speciﬁc survival rates for patients diagnosed with Stage III
+lymphoma, and myeloma
+sarcomas, metastatic disease,
+(Group 3) were 25.6% and 0%,
+respectively (Fig. 7;
+Table 2).
+
+Among the 160 patients for whom we had functional
+evaluations and who retained their implants,
+the mean
+postoperative MSTS score was 86.7% (mean score, 26.0;
+range, 11–29). The postoperative ROM on ﬁnal assessment
+revealed mean ﬂexion of 110.0(cid:3) (range, 45(cid:3)–140(cid:3)), mean
+passive extension to 1.3(cid:3) (range, 0(cid:3)–40(cid:3)), and mean active
+extension lag of 6.9(cid:3) (range, 0(cid:3)–120(cid:3)). A postoperative
+ﬂexion contracture was observed in seven patients, with a
+mean value of 10.0(cid:3) (range, 5(cid:3)–40(cid:3)).
+
+Seven systemic
+
+complications occurred in seven
+patients, including four cardiac arrhythmias, and single
+cases of chemotherapy-related fungal sepsis, acute leuke-
+mia, and steroid-induced avascular necrosis of multiple
+joints. One hundred four local complications occurred in 88
+patients; a single complication occurred in 72 patients, and
+16 patients experienced multiple complications. Compli-
+cations included mechanical failure in 54 (29.0%; Fig. 8),
+
+Fig. 3A–B Kaplan-Meier survivorship analyses show (A) custom
+(n = 101) versus (B) modular (n = 85) implant survival. The dashed
+lines represent the 95% CI.
+
+fracture, two for infection, and one for local recurrence.
+Only four of 85 forged modular components were revised:
+three for aseptic loosening and one for a fatigue fracture of
+a casted (not forged) Morse taper component. There were
+no stem fractures among forged modular implants. Failure
+of the rotating-hinge mechanism necessitated replacement
+of the bushings and/or axle without revision of the stem-
+med components in 22 patients (11.8%) at a mean of
+159.7 months (range, 1.6–291.1 months) from the index
+procedure; six of these patients (3.2%) ultimately required
+a second bushing change. Using revision of the stemmed
+components for any reason as an end point, overall
+
+123
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2203
+
+%
+0
+7
+6
+
+.
+
+%
+8
+
+.
+
+6
+4
+
+%
+0
+
+.
+
+7
+6
+
+%
+8
+6
+4
+
+.
+
+%
+0
+
+.
+
+7
+6
+
+%
+8
+6
+4
+
+.
+
+%
+4
+
+.
+
+8
+6
+
+%
+7
+8
+4
+
+.
+
+%
+6
+0
+9
+
+.
+
+%
+6
+
+.
+
+8
+6
+
+%
+8
+8
+7
+
+.
+
+%
+6
+0
+9
+
+.
+
+%
+6
+8
+6
+
+.
+
+%
+8
+
+.
+
+8
+7
+
+%
+1
+3
+9
+
+.
+
+%
+9
+7
+7
+
+.
+
+%
+2
+
+.
+
+5
+8
+
+%
+8
+4
+9
+
+.
+
+%
+5
+3
+8
+
+.
+
+%
+0
+9
+8
+
+.
+
+.
+
+%
+0
+0
+0
+1
+
+%
+2
+7
+
+.
+
+%
+4
+8
+6
+
+.
+
+%
+7
+9
+2
+
+.
+
+%
+6
+3
+9
+
+.
+
+%
+7
+
+.
+
+1
+7
+
+%
+1
+0
+4
+
+.
+
+%
+8
+5
+3
+
+.
+
+%
+7
+
+.
+
+0
+6
+
+%
+4
+9
+2
+
+.
+
+%
+2
+2
+4
+
+.
+
+%
+0
+
+.
+
+6
+6
+
+%
+9
+5
+3
+
+.
+
+%
+7
+8
+4
+
+.
+
+%
+5
+
+.
+
+8
+6
+
+%
+8
+6
+3
+
+.
+
+%
+2
+0
+5
+
+.
+
+%
+5
+3
+7
+
+.
+
+%
+6
+5
+4
+
+.
+
+%
+9
+7
+5
+
+.
+
+%
+3
+2
+9
+
+.
+
+%
+7
+
+.
+
+4
+7
+
+%
+5
+8
+5
+
+.
+
+%
+6
+1
+4
+
+.
+
+%
+4
+
+.
+
+8
+6
+
+%
+9
+9
+9
+
+.
+
+%
+7
+5
+7
+
+.
+
+%
+1
+9
+3
+
+.
+
+%
+9
+7
+8
+
+.
+
+%
+1
+0
+5
+
+.
+
+%
+6
+
+.
+
+0
+3
+
+%
+0
+5
+4
+
+.
+
+A
+N
+
+A
+N
+
+.
+
+0
+0
+0
+1
+
+%
+0
+6
+5
+
+.
+
+A
+N
+
+%
+2
+
+.
+
+1
+6
+
+%
+7
+0
+5
+
+.
+
+A
+N
+
+A
+N
+
+0
+
+.
+
+0
+0
+1
+
+%
+0
+6
+5
+
+.
+
+A
+N
+
+%
+5
+
+.
+
+3
+7
+
+%
+7
+
+.
+
+5
+5
+
+A
+N
+
+%
+7
+1
+5
+
+.
+
+%
+7
+
+.
+
+3
+9
+
+%
+6
+
+.
+
+1
+6
+
+0
+
+.
+
+0
+0
+1
+
+%
+0
+
+.
+
+6
+5
+
+A
+N
+
+%
+4
+
+.
+
+2
+8
+
+%
+9
+
+.
+
+9
+9
+
+%
+7
+
+.
+
+6
+8
+
+%
+1
+8
+5
+
+.
+
+%
+9
+
+.
+
+7
+8
+
+%
+7
+
+.
+
+8
+6
+
+%
+3
+2
+9
+
+.
+
+%
+2
+0
+9
+
+.
+
+%
+5
+
+.
+
+8
+5
+
+%
+2
+
+.
+
+8
+6
+
+%
+5
+3
+7
+
+.
+
+%
+4
+
+.
+
+8
+7
+
+%
+5
+
+.
+
+6
+9
+
+%
+5
+
+.
+
+6
+9
+
+A
+N
+
+.
+
+%
+0
+0
+0
+1
+
+%
+2
+
+.
+
+9
+6
+
+%
+7
+
+.
+
+3
+9
+
+%
+2
+
+.
+
+7
+7
+
+0
+
+.
+
+0
+0
+1
+
+%
+7
+
+.
+
+7
+5
+
+A
+N
+
+%
+7
+2
+9
+
+.
+
+%
+9
+9
+9
+
+.
+
+%
+7
+3
+9
+
+.
+
+%
+9
+
+.
+
+4
+7
+
+%
+4
+
+.
+
+6
+5
+
+%
+3
+
+.
+
+6
+9
+
+r
+e
+p
+p
+U
+
+r
+e
+w
+o
+L
+
+r
+e
+p
+p
+U
+
+r
+e
+w
+o
+L
+
+r
+e
+p
+p
+U
+
+r
+e
+w
+o
+L
+
+r
+e
+p
+p
+U
+
+r
+e
+w
+o
+L
+
+r
+e
+p
+p
+U
+
+r
+e
+w
+o
+L
+
+I
+
+C
+%
+5
+9
+
+%
+
+I
+
+C
+%
+5
+9
+
+%
+
+I
+C
+%
+5
+9
+
+%
+
+I
+
+C
+%
+5
+9
+
+%
+
+I
+C
+%
+5
+9
+
+%
+
+s
+r
+a
+e
+y
+
+5
+2
+
+s
+r
+a
+e
+y
+
+0
+2
+
+s
+r
+a
+e
+y
+
+5
+1
+
+s
+r
+a
+e
+y
+
+0
+1
+
+s
+r
+a
+e
+y
+
+5
+
+l
+a
+v
+i
+v
+r
+u
+S
+
+a
+t
+a
+d
+
+e
+g
+a
+v
+l
+a
+s
+
+b
+m
+
+i
+l
+
+l
+l
+a
+r
+e
+v
+o
+
+d
+n
+a
+
+,
+l
+a
+v
+i
+v
+r
+u
+s
+
+t
+n
+e
+i
+t
+a
+p
+
+,
+l
+a
+v
+i
+v
+r
+u
+s
+
+t
+n
+a
+l
+p
+m
+
+I
+
+.
+2
+
+e
+l
+b
+a
+T
+
+Fig. 5 The Kaplan-Meier
+survival
+among patients with low-grade or benign disease (Group 1; n = 43).
+
+survivorship analysis
+
+shows
+
+%
+9
+
+.
+
+1
+7
+
+%
+5
+
+.
+
+3
+8
+
+%
+3
+3
+6
+
+.
+
+%
+2
+5
+7
+
+.
+
+%
+9
+7
+8
+
+.
+
+%
+2
+
+.
+
+2
+8
+
+%
+3
+
+.
+
+3
+8
+
+%
+8
+
+.
+
+9
+8
+
+%
+7
+5
+8
+
+.
+
+%
+5
+3
+8
+
+.
+
+%
+7
+3
+9
+
+.
+
+%
+7
+7
+8
+
+.
+
+)
+2
+2
+1
+=
+n
+(
+
+B
+
+I
+I
+/
+
+A
+
+I
+I
+
+e
+g
+a
+t
+S
+
+)
+3
+4
+=
+n
+(
+
+e
+d
+a
+r
+g
+w
+o
+L
+
+l
+a
+v
+i
+v
+r
+u
+s
+
+t
+n
+a
+l
+p
+m
+
+I
+
+)
+1
+2
+=
+n
+(
+
+I
+I
+I
+
+e
+g
+a
+t
+S
+
+)
+1
+0
+1
+=
+n
+(
+
+m
+o
+t
+s
+u
+C
+
+)
+5
+8
+=
+n
+(
+
+r
+a
+l
+u
+d
+o
+M
+
+)
+6
+8
+1
+=
+n
+(
+
+l
+l
+a
+r
+e
+v
+O
+
+%
+9
+
+.
+
+6
+5
+
+%
+6
+1
+1
+
+.
+
+%
+7
+6
+8
+
+.
+
+%
+3
+
+.
+
+5
+6
+
+%
+6
+5
+2
+
+.
+
+%
+3
+1
+9
+
+.
+
+)
+2
+2
+1
+=
+n
+(
+
+B
+
+I
+I
+/
+
+A
+
+I
+I
+
+e
+g
+a
+t
+S
+
+e
+g
+a
+v
+l
+a
+s
+
+b
+m
+
+i
+l
+
+l
+l
+a
+r
+e
+v
+O
+
+)
+1
+2
+=
+n
+(
+
+I
+I
+I
+
+e
+g
+a
+t
+S
+
+.
+e
+l
+b
+a
+l
+i
+a
+v
+a
+
+t
+o
+n
+=
+A
+N
+
+;
+l
+a
+v
+r
+e
+t
+n
+i
+
+e
+c
+n
+e
+d
+ﬁ
+n
+o
+c
+=
+
+I
+
+C
+
+.
+
+0
+0
+0
+1
+
+)
+3
+4
+=
+n
+(
+
+e
+d
+a
+r
+g
+w
+o
+L
+
+s
+i
+s
+o
+n
+g
+a
+i
+d
+
+y
+b
+
+l
+a
+v
+i
+v
+r
+u
+s
+
+t
+n
+e
+i
+t
+a
+P
+
+Fig. 6 The Kaplan-Meier
+survival
+among patients with high-grade localized (Stage IIA/IIB) disease
+(Group 2; n = 122). The dashed lines represent the 95% CI.
+
+survivorship analysis
+
+shows
+
+in 13 (7.0%),
+
+superﬁcial wound-related issues
+local
+recurrence in 13 (7.0%), temporary peroneal nerve palsy in
+seven (3.8%), deep infections in six (3.2%), cement
+extrusion through a vascular channel
+in three (1.6%),
+ﬂexion contracture in three (1.6%), patellofemoral sub-
+luxation in two (1.1%), positive oncologic margins in two
+(1.1%), and stress fracture in one (0.05%). Eighty-one
+complications required at
+least one additional surgical
+procedure. Mechanical failure of the prosthesis occurred in
+
+123
+
+2204
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+four
+
+54 cases (29.0%). Thirty-two were stemmed component
+revisions and 22 involved replacement of the bushings
+only, as described previously. Six of 13 patients with local
+recurrence were treated with an amputation, and seven
+were palliated. Eight of the 13 patients (61.5%) with local
+recurrence ultimately died of their disease, and ﬁve of the
+13 (38.5%) are alive. Of the ﬁve patients who currently are
+alive,
+remain disease-free at 50, 141, 166, and
+205 months. One patient currently is alive with metastatic
+pulmonary disease at 38 months after the index procedure.
+Eighteen of the 186 patients (9.7%) ultimately required
+amputation after either the index or later revision procedure
+and were categorized as having failed limb salvage efforts.
+The reason for amputation was infection in nine patients,
+local recurrence in six, positive surgical margins in two,
+and metastasis to the pelvis in one.
+
+Fig. 7 The Kaplan-Meier survivorship analysis shows patient and
+prosthesis survival among patients with Stage III primary sarcoma,
+metastatic disease to the distal femur, myeloma, or lymphoma (Group
+3; n = 21). The dashed lines represent the 95% CI.
+
+Historically, a debate existed among orthopaedic oncolo-
+gists regarding which was the most durable method of
+
+Discussion
+
+Fig. 8A–D The common modes of mechanical failure seen in this
+series of cemented rotating-hinge distal femoral endoprostheses from
+1980 to 2008 are shown. (A) A radiograph shows aseptic loosening of
+a custom-casted femoral stem 24 years after the index reconstruction.
+The absence of extramedullary porous coating on the proximal body
+is evident. In our series, there were 22 total instances of aseptic
+loosening: 19 custom and three modular. (B) Fatigue fractures of a
+custom-casted femoral stem (right) and femoral body (left) are
+
+illustrated. There was only one fatigue fracture of a modular
+component, which was a casted (not forged) Morse taper segment.
+In our series, there were 10 total fatigue fractures: nine custom and
+one modular. (C) An axial photograph shows a fractured hollow,
+custom-casted femoral body. (D) In our series, there were 22 failures
+of the rotating-hinge bushings, as illustrated in this photograph, 15
+custom and seven modular.
+
+123
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2205
+
+reconstruction after distal femoral resection. Although high
+long-term implant survival and functional scores have been
+reported with a wide variety of reconstructive methods [5,
+7, 14, 44, 53–55, 57, 65], our experience with osteoartic-
+ular allografts between 1975 and 1979 was poor, and in
+1980 we abandoned this method of reconstruction in favor
+of a cemented endoprosthetic technique [13, 14, 51].
+Recently, critics of this technique have cited high rates of
+aseptic loosening as the major reason for using alternative
+ﬁxation methods [2, 38]. Such criticism does not consider
+the potential improvement in cemented implant survival
+over historical rates attributable to design modiﬁcations.
+We asked the following four questions: (1) Do newer
+implant designs perform better than older custom-designed
+implants? (2) Does tumor diagnosis inﬂuence implant
+survival? (3) What is the typical long-term functional result
+after distal femoral replacement? (4) What are the com-
+plications associated with endoprosthetic reconstruction of
+the distal femur?
+
+The major limitations of this study are its retrospective
+design, the lack of a control group, and the lack of a pre-
+study power analysis. The ﬁrst two limitations are difﬁcult
+to overcome for numerous reasons. First, musculoskeletal
+tumors are rare, and although a prospective design certainly
+would enhance the validity of our conclusions, it would be
+exceedingly difﬁcult to amass a large series of patients
+prospectively. Second, comparison to a control group is
+virtually impossible because other methods of reconstruc-
+tion were used only rarely at our institution. In the absence
+of a prestudy power analysis, we have limited our con-
+clusions to address the differences in survival rates and
+refrained from drawing conclusions when no difference
+was seen in the data. The questions addressed at the start of
+this paper will be addressed in light of these few but
+important limitations.
+
+Largely owing to the low incidence of musculoskeletal
+sarcomas, few studies document the long-term durability of
+contemporary cemented distal
+femoral endoprostheses
+(Table 3). Published implant survival rates vary from
+46.3% to 93.0%, potentially a reﬂection of heterogeneous
+patient and implant study populations. When compared
+with primary total joint implants, the modiﬁcations made to
+cemented endoprosthetic designs have been relatively few.
+These modiﬁcations include the addition of extramedullary
+porous coating, the development of modular segments, and
+the use of forged metals that have the potential to reduce
+the incidence of fatigue fracture [8, 28, 45, 62]. The evo-
+lution of the implants used at our institution reﬂects this
+general development of endoprosthetic design (Table 4).
+The data presented here suggest the use of contemporary
+modular components improve the durability and longevity
+of the cemented prosthesis when used in distal femoral
+applications. Although custom-casted stems can last two to
+
+three decades, modular designs maintain the intrinsic
+beneﬁt of immediate availability and the ability to intra-
+operatively tailor components based on the resection level.
+Malo et al. [44] reported modular implants were associated
+with an improved MSTS functional score among 56
+patients. Numerous authors [8, 43, 48, 70] have similarly
+reported modular endoprostheses survive longer than his-
+torical custom-designed implants. In our series, the mean
+time to revision of the four failures among modular
+implants was 12.5 months (range, 1.6–21.4 months), indi-
+cating these failures were possibly the result of technical
+error rather than implant design (Fig. 9). Three of four
+modular failures were attributable to aseptic loosening,
+likely the result of poor cement technique as noted previ-
+ously. The fourth failure of a modular
+implant was
+attributable to fatigue fracture of a casted, not forged,
+Morse taper segment, emphasizing the importance of this
+particular design feature. The revision implants for the
+three cases of aseptic loosening have outlasted the original
+primary reconstructions. Currently, the mean time from
+revision surgery for these patients is 138.6 months (range,
+107.4–181.2 months). All four patients who underwent
+revision of a modular implant still maintain successful limb
+salvage. Although an improvement in survival was seen in
+this series, we recognize the need for novel implant designs
+in special circumstances, such as short residual periartic-
+ular segments, which we have dealt with by designing a
+custom implant with cross-stem pin ﬁxation [6]. A com-
+pressive intramedullary device based on Wolff’s law
+(Compress1; Biomet Inc, Warsaw, IN) was developed to
+improve ﬁxation in such situations and to reduce the need
+for custom-designed cemented implants. Five- to 10-year
+reports of implant survivorship after the use of this device
+have been promising [2, 38].
+
+By stratifying patients according to disease grade and/
+or stage, we found a comparison of implant to patient
+survival provides a useful measure of disease-speciﬁc
+implant efﬁcacy (Fig. 10). Patients with low-grade tumors
+have a normal life expectancy and thus should expect to
+outlive their prostheses. As a result, this group almost
+certainly will require at least one revision procedure in
+their lifetime. However, none of the patients with dis-
+seminated, Stage III disease outlived their prosthesis in
+this series. For patients with high-grade localized disease
+(Stage IIA/IIB), overall prosthesis survivorship remained
+greater than patient survival up to a critical time, at which
+point the rate of prosthetic failure became greater than
+patient survival. The rate of modular implant survival,
+however, continued to exceed patient survival with high-
+grade localized disease to 15 years. As long-term survival
+of patients with high-grade disease approaches 70% to
+80% [39–41, 46, 52, 66, 67], the improved longevity of
+modular implants seen in this series supports the notion
+
+123
+
+2206
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+a
+e
+c
+n
+e
+r
+r
+u
+c
+e
+r
+
+s
+r
+a
+e
+y
+
+0
+2
+C
+
+s
+r
+a
+e
+y
+
+9
+1
+–
+5
+1
+
+s
+r
+a
+e
+y
+
+4
+1
+–
+0
+1
+
+s
+r
+a
+e
+y
+
+9
+–
+0
+
+)
+s
+r
+a
+e
+y
+(
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+f
+o
+
+l
+a
+c
+o
+L
+
+a
+n
+o
+i
+t
+c
+e
+f
+n
+I
+
+a
+n
+o
+i
+t
+a
+t
+u
+p
+m
+A
+
+a
+e
+r
+o
+c
+s
+
+S
+T
+S
+M
+n
+a
+e
+M
+
+a
+e
+t
+a
+r
+
+n
+o
+i
+s
+i
+v
+e
+r
+/
+p
+i
+h
+s
+r
+o
+v
+i
+v
+r
+u
+s
+
+t
+n
+a
+l
+p
+m
+
+I
+
+p
+u
+w
+o
+l
+l
+o
+f
+
+n
+a
+e
+M
+
+r
+e
+b
+m
+u
+N
+
+r
+a
+e
+Y
+
+y
+d
+u
+t
+S
+
+%
+5
+
+.
+
+2
+1
+
+%
+9
+4
+
+.
+
+%
+3
+5
+
+.
+
+%
+0
+
+.
+
+1
+1
+
+%
+0
+0
+
+.
+
+%
+1
+3
+
+.
+
+%
+0
+
+.
+
+0
+
+A
+N
+
+%
+4
+5
+
+.
+
+A
+N
+
+%
+8
+6
+
+.
+
+%
+3
+
+.
+
+2
+
+%
+5
+6
+
+.
+
+A
+N
+
+%
+5
+0
+
+.
+
+%
+0
+6
+
+.
+
+%
+3
+5
+
+.
+
+%
+0
+7
+
+.
+
+%
+5
+7
+
+.
+
+%
+2
+8
+
+.
+
+%
+0
+5
+
+.
+
+A
+N
+
+%
+4
+9
+1
+
+.
+
+%
+3
+3
+
+.
+
+%
+0
+0
+1
+
+.
+
+%
+4
+5
+
+.
+
+A
+N
+
+%
+2
+2
+
+.
+
+A
+N
+
+%
+8
+7
+
+.
+
+A
+N
+
+A
+N
+
+%
+0
+2
+1
+
+.
+
+%
+0
+4
+1
+
+.
+
+%
+7
+
+.
+
+2
+1
+
+%
+2
+
+.
+
+3
+
+%
+0
+5
+
+.
+
+%
+2
+8
+
+.
+
+%
+4
+7
+
+.
+
+%
+0
+6
+2
+
+.
+
+%
+9
+2
+1
+
+.
+
+%
+0
+0
+
+.
+
+%
+5
+7
+
+.
+
+A
+N
+
+%
+6
+3
+
+.
+
+A
+N
+
+%
+5
+6
+
+.
+
+%
+5
+6
+
+.
+
+A
+N
+
+A
+N
+
+A
+N
+
+%
+0
+7
+1
+
+.
+
+%
+2
+
+.
+
+9
+
+%
+7
+9
+
+.
+
+c
+,
+b
+P
+5
+
+c
+,
+b
+P
+0
+2
+
+c
+,
+b
+P
+9
+
+,
+
+F
+3
+
+,
+
+G
+4
+1
+
+,
+
+E
+5
+1
+
+,
+
+F
+5
+1
+
+,
+
+G
+9
+1
+
+,
+
+E
+7
+
+,
+
+F
+2
+1
+
+,
+
+G
+3
+4
+
+,
+
+E
+0
+2
+
+c
+,
+b
+P
+3
+
+,
+
+F
+9
+
+,
+
+G
+4
+1
+
+,
+
+E
+6
+
+c
+,
+b
+P
+7
+
+,
+
+F
+9
+
+,
+
+/
+
+E
+G
+4
+9
+
+h
+
+%
+7
+6
+7
+
+.
+
+k
+A
+N
+
+%
+0
+0
+8
+
+.
+
+%
+4
+
+.
+
+0
+8
+
+%
+0
+8
+8
+
+.
+
+b
+0
+3
+
+%
+0
+8
+7
+
+.
+
+%
+0
+0
+8
+
+.
+
+%
+7
+
+.
+
+6
+8
+
+A
+N
+
+A
+N
+
+A
+N
+
+A
+N
+
+%
+3
+
+.
+
+6
+4
+
+%
+2
+
+.
+
+0
+5
+
+%
+6
+
+.
+
+1
+6
+
+%
+0
+
+.
+
+6
+8
+
+g
+
+%
+4
+2
+3
+
+.
+
+%
+0
+
+.
+
+0
+8
+
+%
+0
+
+.
+
+8
+5
+
+%
+0
+
+.
+
+8
+8
+
+%
+0
+
+.
+
+6
+6
+
+%
+0
+
+.
+
+6
+8
+
+%
+0
+
+.
+
+9
+7
+
+%
+0
+
+.
+
+8
+7
+
+%
+6
+8
+6
+
+.
+
+%
+2
+7
+7
+
+.
+
+g
+
+%
+2
+4
+–
+0
+
+%
+0
+0
+8
+
+.
+
+e
+
+%
+5
+7
+
+%
+0
+0
+8
+
+.
+
+g
+
+%
+7
+
+.
+
+6
+
+%
+0
+2
+7
+
+.
+
+A
+N
+
+%
+0
+3
+9
+
+.
+
+m
+%
+2
+8
+
+%
+0
+
+.
+
+4
+8
+
+%
+0
+
+.
+
+6
+8
+
+%
+0
+
+.
+
+4
+8
+
+%
+9
+
+.
+
+5
+6
+
+%
+0
+
+.
+
+3
+8
+
+A
+N
+
+%
+7
+
+.
+
+7
+8
+
+l
+a
+r
+o
+m
+e
+f
+o
+l
+l
+e
+t
+a
+p
+
+f
+o
+
+p
+i
+h
+s
+r
+o
+v
+i
+v
+r
+u
+s
+
+y
+l
+n
+o
+o
+
+r
+e
+i
+e
+M
+-
+n
+a
+l
+p
+a
+K
+q
+
+,
+r
+i
+a
+f
+
+=
+F
+
+,
+
+d
+o
+o
+g
+=
+G
+
+,
+t
+n
+e
+l
+l
+e
+c
+x
+e
+=
+E
+c
+
+g
+n
+i
+d
+r
+o
+c
+c
+a
+b
+
+;
+]
+1
+2
+[
+
+.
+l
+a
+
+t
+e
+
+g
+n
+i
+k
+e
+n
+n
+E
+
+y
+b
+
+d
+e
+b
+i
+r
+c
+s
+e
+d
+m
+e
+t
+s
+y
+s
+
+g
+n
+i
+r
+o
+c
+s
+
+7
+8
+9
+1
+
+e
+h
+t
+
+o
+t
+
+;
+n
+o
+s
+i
+r
+a
+p
+m
+o
+c
+
+f
+o
+
+e
+s
+a
+e
+
+r
+o
+f
+
+s
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+o
+t
+
+d
+e
+t
+r
+e
+v
+n
+o
+c
+
+)
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+a
+(
+
+s
+r
+e
+b
+m
+u
+N
+
+a
+
+r
+o
+
+d
+o
+o
+g
+
+f
+o
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+s
+a
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+;
+e
+n
+o
+d
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+p
+i
+h
+s
+r
+o
+v
+i
+v
+r
+u
+s
+
+r
+o
+n
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+e
+t
+a
+r
+
+n
+o
+i
+s
+i
+v
+e
+r
+
+r
+e
+h
+t
+i
+e
+n
+e
+
+;
+s
+t
+n
+a
+l
+p
+m
+
+i
+
+d
+e
+t
+n
+e
+m
+e
+c
+n
+u
+
+l
+l
+a
+d
+
+;
+]
+1
+2
+[
+
+m
+e
+t
+s
+y
+s
+
+g
+n
+i
+r
+o
+c
+s
+
+S
+T
+S
+M
+7
+8
+9
+1
+
+e
+h
+t
+
+o
+t
+
+g
+n
+i
+d
+r
+o
+c
+c
+a
+
+,
+r
+o
+o
+p
+=
+P
+
+t
+n
+a
+c
+ﬁ
+i
+n
+g
+i
+s
+
+o
+n
+
+h
+t
+i
+
+w
+%
+3
+
+.
+
+3
+8
+
+t
+a
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+e
+t
+i
+s
+
+l
+l
+a
+
+r
+o
+f
+
+n
+o
+i
+t
+c
+n
+u
+f
+k
+
+g
+n
+i
+d
+u
+l
+c
+n
+i
+(
+
+e
+g
+a
+v
+l
+a
+s
+
+b
+m
+
+i
+l
+
+d
+a
+h
+
+o
+h
+w
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+3
+7
+
+l
+l
+a
+
+r
+o
+f
+
+n
+e
+v
+i
+g
+
+a
+t
+a
+d
+h
+
+j
+
+;
+n
+a
+i
+d
+e
+m
+
+;
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+e
+t
+i
+s
+
+c
+i
+m
+o
+t
+a
+n
+a
+
+l
+l
+a
+
+t
+a
+
+s
+t
+n
+a
+l
+p
+m
+
+i
+
+r
+o
+f
+
+a
+t
+a
+d
+
+;
+)
+s
+r
+e
+h
+t
+o
+
+d
+n
+a
+
+,
+s
+e
+t
+i
+s
+o
+p
+m
+o
+c
+
+c
+i
+t
+e
+h
+t
+s
+o
+r
+p
+-
+t
+f
+a
+r
+g
+o
+l
+l
+a
+
+d
+n
+a
+
+t
+f
+a
+r
+g
+o
+l
+l
+a
+
+,
+s
+e
+i
+t
+s
+a
+l
+p
+n
+o
+i
+t
+a
+t
+o
+r
+
+;
+d
+e
+t
+r
+o
+p
+e
+r
+
+d
+e
+s
+i
+v
+e
+r
+
+s
+t
+n
+a
+l
+p
+m
+
+i
+
+f
+o
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+g
+
+;
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+n
+o
+i
+t
+c
+u
+r
+t
+s
+n
+o
+c
+e
+r
+
+e
+g
+a
+v
+l
+a
+s
+
+b
+m
+
+i
+l
+
+l
+l
+a
+
+r
+o
+f
+
+a
+t
+a
+d
+
+;
+s
+t
+l
+u
+s
+e
+r
+
+l
+a
+c
+i
+n
+i
+l
+c
+
+t
+n
+e
+l
+l
+e
+c
+x
+e
+
+3
+8
+n
+
+;
+s
+r
+a
+e
+y
+
+5
+
+n
+a
+h
+t
+
+r
+e
+t
+a
+e
+r
+g
+
+d
+e
+v
+i
+v
+r
+u
+s
+
+o
+h
+w
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+t
+n
+e
+i
+t
+a
+p
+
+4
+4
+1
+
+f
+o
+
+;
+s
+t
+n
+a
+l
+p
+m
+
+i
+
+3
+6
+
+l
+l
+a
+
+r
+o
+f
+
+d
+e
+t
+r
+o
+p
+e
+r
+
+;
+d
+e
+t
+a
+u
+l
+a
+v
+e
+
+y
+l
+n
+o
+
+s
+e
+m
+o
+c
+t
+u
+o
+
+l
+a
+n
+o
+i
+t
+c
+n
+u
+f
+
+;
+s
+e
+t
+i
+s
+
+c
+i
+m
+o
+t
+a
+n
+a
+
+n
+e
+e
+w
+t
+e
+b
+
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+
+l
+
+i
+
+a
+t
+a
+d
+m
+
+-
+
+;
+e
+d
+a
+m
+m
+o
+t
+s
+u
+c
+
+s
+e
+s
+e
+h
+t
+s
+o
+r
+p
+
+l
+l
+a
+
+;
+n
+w
+o
+h
+s
+
+y
+l
+n
+o
+
+s
+e
+e
+n
+k
+
+e
+g
+n
+i
+h
+-
+g
+n
+i
+t
+a
+t
+o
+r
+
+f
+o
+
+l
+a
+v
+i
+v
+r
+u
+s
+
+;
+s
+e
+e
+n
+k
+
+e
+g
+n
+i
+h
+-
+g
+n
+i
+t
+a
+t
+o
+r
+
+3
+7
+1
+
+d
+n
+a
+
+s
+e
+e
+n
+k
+
+e
+g
+n
+i
+h
+-
+d
+e
+x
+ﬁ
+2
+6
+1
+
+s
+e
+d
+u
+l
+c
+n
+i
+
+;
+d
+e
+t
+r
+o
+p
+e
+r
+
+s
+n
+o
+i
+t
+a
+c
+i
+l
+p
+m
+o
+c
+
+f
+
+p
+
+.
+
+d
+e
+i
+d
+u
+t
+s
+
+t
+o
+n
+
+r
+o
+
+e
+l
+b
+a
+l
+i
+a
+v
+a
+
+t
+o
+n
+=
+A
+N
+
+;
+y
+t
+e
+i
+c
+o
+S
+
+r
+o
+m
+u
+T
+
+l
+a
+t
+e
+l
+e
+k
+s
+o
+l
+u
+c
+s
+u
+M
+=
+S
+T
+S
+M
+
+;
+t
+n
+a
+l
+p
+m
+
+i
+
+6
+-
+2
+
+3
+
+.
+
+4
+
+j
+
+j
+
+5
+
+.
+
+3
+
+5
+3
+
+.
+
+1
+1
+
+8
+
+j
+
+8
+
+3
+
+j
+
+8
+
+.
+
+7
+
+7
+
+.
+
+4
+
+2
+1
+
+3
+
+.
+
+4
+
+5
+
+.
+
+7
+
+8
+
+.
+
+3
+
+2
+1
+
+5
+
+j
+
+9
+
+8
+
+0
+4
+
+1
+6
+
+5
+9
+
+4
+3
+
+1
+3
+
+2
+3
+
+0
+4
+
+6
+5
+
+5
+5
+
+7
+5
+
+3
+8
+
+7
+7
+
+3
+4
+
+0
+1
+1
+
+3
+0
+1
+
+5
+3
+3
+
+8
+2
+2
+
+6
+8
+1
+
+7
+8
+9
+1
+
+3
+9
+9
+1
+
+4
+9
+9
+1
+
+4
+9
+9
+1
+
+5
+9
+9
+1
+
+6
+9
+9
+1
+
+8
+9
+9
+1
+
+1
+0
+0
+2
+
+2
+0
+0
+2
+
+4
+0
+0
+2
+
+5
+0
+0
+2
+
+5
+0
+0
+2
+
+6
+0
+0
+2
+
+6
+0
+0
+2
+
+6
+0
+0
+2
+
+7
+0
+0
+2
+
+8
+0
+0
+2
+
+0
+1
+0
+2
+
+i
+
+]
+3
+4
+[
+
+u
+o
+h
+C
+
+d
+n
+a
+
+r
+e
+w
+a
+l
+a
+M
+
+]
+4
+5
+[
+
+.
+l
+a
+
+t
+e
+
+f
+f
+a
+r
+g
+u
+o
+R
+
+f
+
+d
+]
+8
+[
+
+]
+4
+[
+
+.
+l
+a
+
+t
+e
+
+h
+s
+i
+d
+a
+r
+
+B
+
+]
+8
+5
+[
+
+.
+l
+a
+
+t
+e
+
+h
+i
+h
+S
+
+.
+l
+a
+
+t
+e
+
+a
+n
+n
+n
+a
+p
+a
+C
+
+]
+9
+[
+
+.
+l
+a
+
+t
+e
+
+g
+n
+o
+o
+h
+C
+
+]
+5
+3
+[
+
+.
+l
+a
+
+t
+e
+
+i
+a
+w
+a
+K
+
+l
+
+]
+4
+4
+[
+
+.
+l
+a
+
+t
+e
+
+o
+l
+a
+M
+
+]
+3
+[
+
+.
+l
+a
+
+t
+e
+
+s
+l
+e
+k
+c
+i
+B
+
+i
+
+i
+
+]
+1
+7
+[
+
+.
+l
+a
+
+t
+e
+
+n
+e
+g
+e
+e
+Z
+
+]
+1
+6
+[
+
+.
+l
+a
+
+t
+e
+
+t
+r
+e
+b
+r
+o
+T
+
+n
+]
+6
+2
+[
+
+.
+l
+a
+
+t
+e
+
+k
+n
+i
+r
+F
+
+o
+]
+5
+5
+[
+
+.
+l
+a
+
+t
+e
+
+b
+a
+w
+h
+c
+S
+
+]
+7
+5
+[
+
+.
+l
+a
+
+t
+e
+
+a
+m
+r
+a
+h
+S
+
+i
+
+]
+7
+2
+[
+
+.
+l
+a
+
+t
+e
+
+r
+e
+g
+e
+h
+s
+o
+G
+
+p
+]
+0
+5
+[
+
+.
+l
+a
+
+t
+e
+
+s
+r
+e
+y
+M
+
+i
+,
+
+g
+]
+2
+3
+[
+
+.
+l
+a
+
+t
+e
+
+s
+y
+e
+J
+
+q
+y
+d
+u
+t
+s
+
+t
+n
+e
+r
+r
+u
+C
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+l
+
+e
+l
+b
+a
+l
+i
+a
+v
+a
+
+e
+h
+t
+
+f
+o
+w
+e
+i
+v
+e
+R
+
+.
+3
+
+e
+l
+b
+a
+T
+
+123
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2207
+
+Table 4. Distal femoral implant evolution at University of California Los Angeles*
+
+Date
+
+Implant design
+
+Manufacturer/features
+
+Tumor group (n = 186)
+
+1980–1990
+
+Custom (JJE/JMK)
+
+Stryker/Howmedica
+
+KinematicTM rotating hinge
+Made of vitallium
+
+Casted hollow body by lost-wax method
+
+Welded Zickel nail stem
+
+Extramedullary porous coating added in 1985 [61]
+
+Techmedica
+
+All-titanium one piece
+NoilesTM hinge
+
+Total custom implants
+
+Stryker/Howmedica
+
+KinematicTM rotating hinge
+Forged modular replacement system
+
+Titanium segments
+
+Extramedullary porous coating
+
+Dow-Corning Wright
+
+Modular titanium
+
+Lacey hinge
+
+KinematicTM rotating hinge
+Forged modular components
+
+Titanium segments
+
+Extramedullary porous coating
+
+Larger axle and bushings
+
+Press-ﬁt stem option (none in this series)
+
+Cobalt-chrome Morse taper
+
+Total modular implants
+
+73
+
+28
+
+101
+
+53
+
+2
+
+30
+
+85
+
+2003–2008
+
+Modular
+
+Stryker Global Modular Replacement System
+
+* All components in this series were cemented; all tibial components were nonmetal-backed, all-polyethylene; all used a rotating-hinge knee
+mechanism; all patellar components were all-polyethylene, nonmetal-backed, with a single central peg.
+
+1990–2003
+
+Modular
+
+of
+
+the
+
+femur
+
+reconstruction with
+
+Fig. 9A–B (A) An AP radio-
+graph
+shows
+aseptic loosening of the femoral
+stem 12 months after endopros-
+thetic
+a
+contemporary modular implant.
+We suspect this occurred owing
+to last-minute rotational adjust-
+ment of the stem as the cement
+was curing. (B) A lateral radio-
+graph shows the femur 12 years
+after revision to a larger cemen-
+ted stem and in this case with
+cross-stem pin ﬁxation, which is
+our preferred method of recon-
+struction for
+the majority of
+failures attributable to aseptic
+loosening.
+
+123
+
+2208
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+caring for patients with wound-related issues after endo-
+prosthetic replacement [18]. Local recurrence portended a
+poor prognosis in this series as 61.5% of patients had died
+by the time of the most recent followup.
+
+Our study reports the improved survival of cemented
+distal femoral endoprostheses during the past three de-
+cades. Contemporary modular forged implants performed
+better than the custom-designed prostheses of the 1970s
+and 1980s. Although failures may occur, mechanical
+complications can be revised and potentially outlast the
+original reconstruction. We recognize revision procedures
+will be necessary for patients with long-term life expec-
+tancy, and the need for continued improvement
+in
+reconstruction techniques and implant design, as high-
+grade disease-speciﬁc survival
+rates may continue to
+improve.
+
+Acknowledgments We thank Brigid Brett-Esborn for assistance
+with preparation of this manuscript.
+
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+
+References
+
+1. Bacci G, Briccoli A, Longhi A, Ferrari S, Mercuri M, Faggioli F,
+Versari M, Picci P. Treatment and outcome of recurrent osteo-
+sarcoma: experience at Rizzoli in 235 patients initially treated
+with neoadjuvant chemotherapy. Acta Oncol. 2005;44:748–755.
+2. Bhangu AA, Kramer MJ, Grimer RJ, O’Donnell RJ. Early distal
+femoral endoprosthetic survival: cemented stems versus the
+Compress implant. Int Orthop. 2006;30:465–472.
+
+3. Bickels J, Wittig JC, Kollender Y, Henshaw RM, Kellar-Graney
+KL, Meller I, Malawer MM. Distal femur resection with endo-
+prosthetic reconstruction: a long-term followup study. Clin
+Orthop Relat Res. 2002;400:225–235.
+
+4. Bradish CF, Kemp HB, Scales JT, Wilson JN. Distal femoral
+replacement by custom-made prostheses: clinical follow-up and
+survivorship analysis. J Bone Joint Surg Br. 1987;69:276–284.
+
+5. Brigman BE, Hornicek FJ, Gebhardt MC, Mankin HJ. Allografts
+about the knee in young patients with high-grade sarcoma. Clin
+Orthop Relat Res. 2004;421:232–239.
+
+6. Cannon CP, Eckardt JJ, Kabo JM, Ward WG Sr, Kelly CM,
+Wirganowicz PZ, Asavamongkolkul A, Nieves R, Eilber FR.
+Custom cross-pin ﬁxation of 32 tumor endoprostheses stems. Clin
+Orthop Relat Res. 2003;417:285–292.
+
+7. Cannon CP, Zeegen E, Eckardt JJ. Techniques in endoprosthetic
+
+reconstruction. Oper Tech Orthop. 2005;14:225–235.
+
+8. Capanna R, Morris HG, Campanacci D, Del Ben M, Campanacci
+M. Modular uncemented prosthetic reconstruction after resection
+of tumours of the distal femur. J Bone Joint Surg Br. 1994;76:
+178–186.
+
+9. Choong PF, Sim FH, Pritchard DJ, Rock MG, Chao EY. Mega-
+prostheses after resection of distal femoral tumors: a rotating
+hinge design in 30 patients followed for 2–7 years. Acta Orthop
+Scand. 1996;67:345–351.
+
+10. Dahlin DC. Bone Tumors: General Aspects and Data on 6221
+
+Cases. Springﬁeld, IL: Charles C. Thomas; 1978:226–273.
+
+Fig. 10 A graph shows implant versus patient survival for the entire
+study cohort. Modular
+than custom
+implants, with 15-year survival
+rates of 93.7% versus 51.7%,
+respectively. Patients with low-grade or benign disease and long-
+term survivors with high-grade localized disease should expect to
+undergo at least one revision procedure in their lifetime.
+
+implants performed better
+
+that a cemented endoprosthesis will continue to provide a
+durable method of reconstruction.
+
+The functional scores were high for the majority of
+patients who underwent endoprosthetic distal
+femoral
+reconstructions (Table 3). Functional scores are assigned
+subjectively, and although newer scoring systems have
+attempted to eliminate subjective terminology, a precise
+and accurate measurement of function remains elusive.
+Despite these limitations, however, our results conﬁrm the
+ﬁndings of previous studies,
+favorable long-term
+function is possible after cemented distal femoral endo-
+prosthetic reconstructions.
+
+that
+
+The most common local complications in our patients
+included mechanical failure, tumor recurrence, and infec-
+tion. All 54 cases of mechanical failure (including modular
+and custom implants) were salvaged with revision to a
+larger stem, cross-stem ﬁxation, or new components.
+Similar to ﬁndings described elsewhere, mechanical fail-
+ures of this nature did not seem to compromise the overall
+limb salvage effort [59, 68]. Infection, however, worsened
+the prognosis. Five of 19 patients with wound-related
+complications that occurred after the index procedure
+required an amputation, and among an additional six
+patients who had a deep infection after a second or third
+procedure, four required an amputation. The total ampu-
+tation rate in this series for all wound-related complications
+after either the index or revision procedure was nine of 25
+(36.0%). We previously reported our preferred method of
+
+123
+
+Volume 468, Number 8, August 2010
+
+Modular versus Custom Distal Femoral Implants
+
+2209
+
+11. Damron TA, Ward WG, Stewart A. Osteosarcoma, chondrosar-
+coma, and Ewing’s sarcoma: National Cancer Data Base Report.
+Clin Orthop Relat Res. 2007;459:40–47.
+
+12. Eckardt JJ, Eilber FR. Endoprosthetic replacement. Curr Orthop.
+
+1993;7:148–156.
+
+13. Eckardt JJ, Eilber FR, Dorey FJ, Mirra JM. The UCLA experi-
+ence in limb salvage surgery for malignant tumors. Orthopedics.
+1985;8:612–621.
+
+14. Eckardt JJ, Eilber FR, Grant TO, Mirra JM, Weisenberger TH,
+Dorey FJ. Management of Stage IIB osteogenic sarcoma: expe-
+the University of California, Los Angeles. Cancer
+rience at
+Treatment Symposia. Volume 3: National Institutes of Health
+Consensus Development Conference on Limb Sparing Treatment
+of Adult Soft Tissue Sarcomas and Osteosarcomas. Washington,
+DC: National Institutes of Health; 1985:117–130.
+
+15. Eckardt JJ, Eilber FR, Rosen G, Mirra JM, Dorey FJ, Ward WG,
+Kabo JM. Endoprosthetic replacement for Stage IIB Osteosar-
+coma: the UCLA Experience 1980–1988. Clin Orthop Relat Res.
+1991;270:202–213.
+
+16. Eckardt
+
+JJ, Kabo JM, Kelley CM, Ward WG Sr, As-
+avamongkolkul A, Wirganowicz PZ, Yang RS, Eilber FR.
+Expandable endoprosthesis reconstruction in skeletally immature
+patients with tumors. Clin Orthop Relat Res. 2000;373:51–61.
+
+17. Eckardt JJ, Kabo JM, Kelly CM, Ward WG Sr, Cannon CP.
+Endoprosthetic reconstructions for bone metastases. Clin Orthop
+Relat Res. 2003;415(suppl):S254–S262.
+
+18. Eckardt JJ, Lesavoy MA, Debrow TJ, Wachym PA. Exposed
+endoprosthesis: management protocol using muscle and myocu-
+taneous ﬂap coverage. Clin Orthop Relat Res. 1990;251:220–229.
+19. Eilber FR, Eckardt J, Morton DL. Advances in the treatment of
+sarcomas of the extremity: current status of limb salvage. Cancer.
+1984;54(11 suppl):2695–2701.
+
+20. Eilber FR, Mirra J, Eckardt J, Kern D. Intra-arterial adriamycin,
+radiation therapy, and surgical excision for extremity skeletal and
+soft tissue sarcomas. Dev Oncol. 1984;26:141–154.
+
+21. Enneking W. Modiﬁcation of the system for functional evaluation
+in the surgical management of musculoskeletal tumors. Limb
+Salvage in Musculoskeletal Oncology. New York: Churchill-
+Livingston; 1987:626–639.
+
+22. Enneking WF. Staging of musculoskeletal tumors. In: Enneking
+WF, ed. Musculoskeletal Tumor Surgery. Vol 1. New York, NY:
+Churchill Livingstone; 1983:87–88.
+
+23. Enneking WF, Dunham W, Gebhardt MC, Malawar M, Pritchard
+DJ. A system for the functional evaluation of reconstructive
+procedures after surgical treatment of tumors of the musculo-
+skeletal system. Clin Orthop Relat Res. 1993;286:241–246.
+
+24. Enneking WF, Shirley PD. Resection-arthrodesis for malignant
+and potentially malignant lesions about the knee using an intra-
+medullary rod and local bone grafts. J Bone Joint Surg Am.
+1977;59:223–236.
+
+25. Enneking WF, Spanier SS, Goodman MA. A system for the
+surgical staging of musculoskeletal sarcoma. Clin Orthop Relat
+Res. 1980;153:106–120.
+
+26. Frink SJ, Rutledge J, Lewis VO, Lin PP, Yasko AW. Favorable
+long-term results of prosthetic arthroplasty of the knee for distal
+femur neoplasms. Clin Orthop Relat Res. 2005;438:65–70.
+
+27. Gosheger G, Gebert C, Ahrens H, Streitbuerger A, Winkelmann
+W, Hardes J. Endoprosthetic reconstruction in 250 patients with
+sarcoma. Clin Orthop Relat Res. 2006;450:164–171.
+
+28. Henshaw R, Malawer M. Review of endoprosthetic reconstruc-
+tion in limb-sparing surgery. In: Malawer MM, Sugarbaker PH,
+eds. Musculoskeletal Cancer Surgery: Treatment of Sarcomas
+and Allied Diseases. Norwell, MA: Kluwer Academic Publishers;
+2001:383–404.
+
+29. Horowitz SM, Glasser DB, Lane JM, Healey JH. Prosthetic and
+extremity survivorship after limb salvage for sarcoma: how long
+
+do the reconstructions last? Clin Orthop Relat Res. 1993;
+293:280–286.
+
+30. Hua J, Walker PS. A comparison of cortical strain after cemented
+and press-ﬁt proximal and distal femoral replacement. J Orthop
+Res. 1992;10:739–744.
+
+31. Huvos AG. Bone tumors: malignant—osteogenic sarcoma. Bone
+Tumor: Diagnosis, Treatment and Prognosis. Philadelphia, PA:
+WB Saunders; 1979:85–155.
+
+32. Jeys LM, Kulkarni A, Grimer RJ, Carter SR, Tillman RM, Abudu
+A. Endoprosthetic reconstruction for the treatment of musculo-
+skeletal tumors of the appendicular skeleton and pelvis. J Bone
+Joint Surg Am. 2008;90:1265–1271.
+
+33. Kabo JM, Yang RS, Dorey FJ, Eckardt JJ. In vivo rotational
+stability in the kinematic rotating-hinge knee. Clin Orthop Relat
+Res. 1997;336:166–176.
+
+34. Kaplan EL, Meier P. Nonparametric estimation from incomplete
+
+observation. J Am Stat Assoc. 1958;53:457–481.
+
+35. Kawai A, Muschler GF, Lane JM, Otis JC, Healey JH. Prosthetic
+knee replacement after resection of a malignant tumor of the
+distal part of the femur: medium to long-term results. J Bone
+Joint Surg Am. 1998;80:636–647.
+
+36. Kay RM, Kabo JM, Seeger LL, Eckardt JJ. Hydroxyapatite-
+coated distal femoral replacements: preliminary results. Clin
+Orthop Relat Res. 1994;302:92–100.
+
+37. Kotz R, Salzer M. Rotation-plasty for childhood osteosarcoma of
+the distal part of the femur. J Bone Joint Surg Am. 1982;64:959–
+969.
+
+38. Kramer MJ, Tanner BJ, Horvai AE, O’Donnell RJ. Compressive
+osseointegration promotes viable bone at
+the endoprosthetic
+interface: retrieval study of Compress implants. Int Orthop.
+2008;32:567–571.
+
+39. Lewis
+
+IJ, Nooij MA, Whelan J, Sydes MR, Grimer R,
+Hogendoorn PC, Memon MA, Weeden S, Uscinska BM, van
+Glabbeke M, Kirkpatrick A, Hauben EI, Craft AW, Taminiau
+AH; MRC BO06 and EORTC 80931 collaborators; European
+Osteosarcoma Intergroup. Improvement in histologic response
+but not survival in osteosarcoma patients treated with intensiﬁed
+chemotherapy: a randomized phase III trial of the European
+Osteosarcoma Intergroup. J Natl Cancer Inst. 2007;99:112–128.
+40. Link MP, Goorin AM, Horowitz M, Meyer WH, Belasco J, Baker
+A, Ayala A, Shuster J. Adjuvant chemotherapy of high-grade
+osteosarcoma of the extremity: updated results of the Multi-
+Institutional Osteosarcoma Study. Clin Orthop Relat Res.
+1991;270:8–14.
+
+41. Link MP, Goorin AM, Miser AW, Green AA, Pratt CB, Belasco
+JB, Pritchard J, Malpas JS, Baker AR, Kirkpatrick JA, et al. The
+effect of adjuvant chemotherapy on relapse-free survival
+in
+patients with osteosarcoma of the extremity. N Engl J Med.
+1986;314:1600–1606.
+
+42. Machin D, Palmar MKB. Comparison of 2 survival curves. In:
+Machin D, Palmar MKB, eds. Survival Analysis: A Practical
+Approach. Chichester, UK: Bookcraft; 1995:66–75.
+
+43. Malawer MM, Chou LB. Prosthetic survival and clinical results
+with use of large-segment replacements in the treatment of high-
+grade bone sarcomas. J Bone Joint Surg Am. 1995;77:1154–1165.
+44. Malo M, Davis AM, Wunder J, Masri BA, Bell RS, Isler MH,
+Turcotte RE. Functional evaluation in distal femoral endopros-
+thetic replacement for bone sarcoma. Clin Orthop Relat Res.
+2001;389:173–180.
+
+45. Marcove RC, Lewis MM, Rosen G, Huvos AG. Total femur and
+total knee replacement: a preliminary report. Clin Orthop Relat
+Res. 1977;126:147–152.
+
+46. Marina N, Gebhardt M, Teot L, Gorlick R. Biology and therapeutic
+advances for pediatric osteosarcoma. Oncologist. 2004;9:422–441.
+47. Mirra JM. High grade malignant intraosseous lesions associated
+with ‘reactive’ osteoid and woven-bone production. Bone
+
+123
+
+2210
+
+Schwartz et al.
+
+Clinical Orthopaedics and Related Research1
+
+Tumors: Diagnosis and Treatment. Philadelphia, PA:
+Lippincott; 1980:138–161.
+
+JB
+
+48. Mittermayer F, Windhager R, Dominkus M, Krepler P, Schwameis
+E, Sluga M, Kotz R, Strasser G. Revision of the Kotz type of
+tumour endoprosthesis for the lower limb. J Bone Joint Surg Br.
+2002;84:401–406.
+
+49. Muscolo DL, Ayerza MA, Aponte-Tinao LA, Ranalletta M. Use
+of distal femoral osteoarticular allografts in limb salvage surgery.
+J Bone Joint Surg Am. 2005;87:2449–2455.
+
+50. Myers GJ, Abudu AT, Carter SR, Tillman RM, Grimer RJ. En-
+doprosthetic replacement of the distal femur for bone tumours:
+long-term results. J Bone Joint Surg Br. 2007;89:521–526.
+
+51. National Institutes of Health. Limb-sparing treatment of adult
+soft-tissue sarcomas and osteosarcomas. National Institutes of
+Health Consensus Development Conference Statement. Natl Inst
+Health Consens Dev Conf Consens Statement. 1985;5:18.
+
+52. Ries LAG, Smith MA, Gurney JG, Linet M, Tamra T, Young JL,
+Bunin GR, eds. Cancer Incidence and Survival Among Children
+and Adolescents: United States SEER Program 1975–1995. NIH
+Publication Number 99–4649. Bethesda, MD: National Institutes
+of Health; 1999.
+
+53. Roberts P, Chan D, Grimer RJ, Sneath RS, Scales JT. Prosthetic
+replacement of the distal femur for primary bone tumours. J Bone
+Joint Surg Br. 1991;73:762–769.
+
+54. Rougraff BT, Simon MA, Kneisl JS, Greenberg DB, Mankin HJ.
+Limb salvage compared with amputation for osteosarcoma of the
+distal end of the femur: a long-term oncological, functional, and
+quality-of-life study. J Bone Joint Surg Am. 1994;76:649–656.
+
+55. Schwab JH, Agarwal P, Boland PJ, Kennedy JG, Healey JH.
+Patellar complications following distal femoral replacement after
+bone tumor resection. J Bone Joint Surg Am. 2006;88:2225–2230.
+56. Seeger LL, Farooki S, Yao L, Kabo JM, Eckardt JJ. Custom
+endoprostheses for limb salvage: a historical perspective and
+imaging evaluation. AJR Am J Roentgenol. 1998;171:1525–1529.
+57. Sharma S, Turcotte RE, Isler MH, Wong C. Cemented rotating-
+hinge endoprosthesis for limb salvage of distal femur tumors.
+Clin Orthop Relat Res. 2006;450:28–32.
+
+58. Shih LY, Sim FH, Pritchard DJ, Rock MG, Chao EY. Segmental
+total knee arthroplasty after distal femoral resection for tumor.
+Clin Orthop Relat Res. 1993;292:269–281.
+
+59. Shin DS, Weber KL, Chao EY, An KN, Sim FH. Reoperation for
+failed prosthetic replacement used for limb salvage. Clin Orthop
+Relat Res. 1999;358:53–63.
+
+60. Simon MA, Aschliman MA, Thomas N, Mankin HJ. Limb-sal-
+vage treatment versus amputation for osteosarcoma of the distal
+end of the femur. J Bone Joint Surg Am. 1986;68:1331–1337.
+
+61. Torbert JT, Fox EJ, Hosalkar HS, Ogilvie CM, Lackman RD.
+Endoprosthetic reconstructions: results of long-term followup of
+139 patients. Clin Orthop Relat Res. 2005;438:51–59.
+
+62. Ward WG, Johnston KS, Dorey FJ, Eckardt JJ. Extramedullary
+porous coating to prevent diaphyseal osteolysis and radiolucent
+lines around proximal tibial replacements: a preliminary report. J
+Bone Joint Surg Am. 1993;75:976–987.
+
+63. Ward WG, Johnston KS, Dorey FJ, Eckardt JJ. Loosening of
+massive femoral cemented endoprostheses: radiographic evi-
+dence of loosening mechanism. J Arthroplasty. 1997;12:741–750.
+64. Ward WG, Yang R-S, Eckardt JJ. Endoprosthetic bone recon-
+resection in skeletally
+
+struction following malignant
+immature patients. Orthop Clin North Am. 1996;27:493–502.
+
+tumor
+
+65. Weis LD. The success of limb-salvage surgery in the adolescent
+patient with osteogenic sarcoma. Adolesc Med. 1999;10:451–458,
+xii.
+
+66. Wilkins RM, Cullen JW, Camozzi AB, Jamroz BA, Odom L.
+Improved survival in primary nonmetastatic pediatric osteosar-
+coma of the extremity. Clin Orthop Relat Res. 2005;438:128–
+136.
+
+67. Wilkins RM, Cullen JW, Odom L, Jamroz BA, Cullen PM, Fink
+K, Peck SD, Stevens SL, Kelly CM, Camozzi AB. Superior
+survival in treatment of primary nonmetastatic pediatric osteo-
+sarcoma of the extremity. Ann Surg Oncol. 2003;10:498–507
+
+68. Wilkins RM, Kelly CM. Revision of the failed distal femoral
+replacement to allograft prosthetic composite. Clin Orthop Relat
+Res. 2002;397:114–118.
+
+69. Winkler K, Beron G, Kotz R, Salzer-Kuntschik M, Beck J, Beck
+W, Brandeis W, Ebell W, Erttmann R, Go¨bel U, et al. Neoad-
+juvant chemotherapy for osteogenic sarcoma:
+results of a
+Cooperative German/Austrian study. J Clin Oncol. 1984;2:617–
+624.
+
+70. Wu CC, Henshaw RM, Pritsch T, Squires MH, Malawer MM.
+Implant design and resection length affect cemented endopros-
+thesis survival in proximal tibial reconstruction. J Arthroplasty.
+2008;23:886–893.
+
+71. Zeegen EN, Aponte-Tinao LA, Hornicek FJ, Gebhardt MC,
+Mankin HJ. Survivorship analysis of 141 modular metallic en-
+doprostheses at early followup. Clin Orthop Relat Res. 2004;
+420:239–250.
+
+123
+
+View publication stats
+View publication stats
+
+

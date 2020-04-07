@@ -13,10 +13,9 @@
     :wordClick="wordClickHandler"
 </template>
 -->
+
 <template>
     <div>   
-    <!-- {{data}}
-    {{words}} -->
     <cloud :data="data" :fontSizeMapper="fontSizeMapper"/>
     </div>
 </template>
@@ -48,21 +47,21 @@ export default {
 }
 </script>
 
-<style scoped>
-/*
+<style>
+
     .wordCloud svg g {
-        transform: translate(250px,150px);
+        /* transform: translate(250px,150px); */
     }
-*/
+
     .wordCloud{
-        /* width: 50%; */
-        /* margin: 0 0; */
-        /* border-style: solid; */
-        /* border-width: 2px; */
-        /* border-color: grey; */
+        /* width: 50%;
+        margin: 0 0;
+        border-style: solid;
+        border-width: 2px;
+        border-color: grey; */
     }
     .word-cloud{
-        /* flex-shrink: 1; */
-        /* border: 2px solid grey; */
+        /* flex-shrink: 1;
+        border: 2px solid grey; */
     }
 </style>

@@ -1,0 +1,822 @@
+Composite mechanics of the multilayer structure of 
+
+the annulus fibrosus 
+
+George Youssef*, Cesar Lopez**, J. Michael Kabo** 
+
+*
+
+Mechanical Engineering Department, San Diego State University, USA
+
+ 
+
+Research Article 
+ 
+ 
+ 
+Received   31/12/2016 
+Revised    22/02/2017 
+Accepted    04/03/2017 
+
+Article History 
+
+**Mechanical Engineering Department, California State University Northridge, USA 
+___________________________________________________________________________ 
+Abstract 
+The degeneration of the intervertebral disc (IVD) rests on many factors, but some of the main ones are 
+the absence of a blood vessel supply, excessive overloading, and cycling loadings. This deterioration 
+may contribute to peripheral pain and neurological dysfunctions. When degeneration is severe or in 
+some other cases when the annulus fibrosus (AF) ruptures, fusion surgery, disc arthroplasty, and disc 
+discectomy have been used as clinical solutions. However, these solutions limit the range of motion, 
+the  material  used  does  not  reproduce  the  natural  behavior,  and  more  importantly,  it  weakens  the 
+overall  mechanical  response of  the  spinal  column,  which  accelerates  degeneration.  Recent  research 
+indicates a new focus on the composite nature of the annulus. In this paper, a mathematical model is 
+used  to  predict  the  mechanical  behavior  of  the  AF  based  on  its  anatomical  structure.  Previously 
+published experimental data of AF are correlated with the mechanistic-based predictions and found to 
+be in good agreement. The mathematical model shows that maximum strain occurs at the mid-to-outer 
+region, which is consistent with published data from animal models. The results indicate that future 
+motion preserving, total disc replacement devices and tissue restoration technology can be effectively 
+designed using composite materials for synthetic AF.   
+
+ 
+© 2017 Published by Rational Publication. All rights reserved 
+
+Keywords: composite mechanics;  intervertebral disc; annulus fibrosus; mechanical behavior of annulus;  disc 
+mechanics;  disc degeneration 
+
+ 
+
+1 Introduction 
+
+There has been active interest in the investigation of the mechanical properties of the entire intervertebral disc 
+(IVD) as well as each of its constituents, where the key objective is to create a new synthetic replacement in the case of 
+severe  degeneration.  Currently,  there  exist  three  main  surgical  intervention  solutions  to  remedy  degenerated  discs, 
+which includes fusion of the motion segment, disc arthroplasty, and discectomy[1]-[4]. These treatments are usually 
+recommended after other options such as medication, physical therapy, neuromodulation, and intradiscalelectrothermal 
+therapy are exhausted [5], [6]. In fusion surgery, the movement of a motion segment is constrained using bone graft 
+and  it  may  involve  using  screws,  plates  or  rods  to  fix  the  vertebrae  in  place[1],[5].  Fusion  surgery  is  currently 
+considered as the gold standard, however, associated problems such as elongated recuperation time, adjacent segment 
+degeneration, and pseudarthrosis have been documented [2]. On the other hand, in disc arthroplasty, the degenerated 
+disc  is  completely  removed  and  replaced  by  a  synthetic  structure  that  usually  consists  of  metallic  endplates  and  a 
+polymer  cage,  i.e.,  metal-on-polymer  device,  or  a  completely  metal  structure,  i.e.  metal-on-metal  [1],[2],[6].  As  of 
+2011,  in  the  United  States,  there  were  only  two  devices  that  were  approved  by  the  Food  and  Drug  Administration, 
+which are InMotion/Charité III from DePuy Spine and ProDisc from Synthes [2],[3]. Although, the devices are similar 
+in  structure,  both  are  metal-on-polymer  devices,  they  have  significant  biomechanical  differences[3].  For  instance, 
+Charité  devices  allow  anterior-posterior  movement  of  the  rotational  axis,  while  it  is  fixed  in  ProDisc  replacement 
+technology[2].  
+
+__________________________ 
+*Corresponding Author : Dr. George Youssef   
+Email Address: gyoussef@mail.sdsu.edu 
+Tel: +16195946649 
+
+ 
+
+ 
+ 
+
+G. Youssef et. al.  
+
+Other  prosthetics  such as nucleus pulpous,  motion preserving,  and  dynamic  stabilization  devices  are currently  under 
+different stages of investigation and development [2], [3].Finally in disc discectomy, surgeons remove part of the AF 
+due to herniation of the disc. As a result, the annulus gets sealed with synthetic material that does not reproduce the 
+natural behavior and increases the risk of disc degeneration [3], [4], [7]. Thus in all, the available replacement discs and 
+the  materials  used  to  alleviate  the  disc  degeneration  problem  do  not  reproduce  the  mechanical  and  physiological 
+functionality of the natural discs, which make them clinically deficient [3]-[5], [7]-[9]. Thus, it is important to explicate 
+the significance of the anatomical structure of natural constituents of the intervertebral disc on the mechanical behavior 
+in order to create the “ideal” synthetic IVD. 
+
+Despite the extensive experimental and clinical research published on this topic thus far [1]-[9], the quest for a 
+ 
+biologically-inspired  synthetic  disc  is  impeded  by  the  lack  of  fundamental  understanding  of  the  significance  of  the 
+anatomical structure and the contribution of the IVD constituents, i.e. annulus fibrosus (AF), nucleus pulposus (NP) 
+and endplates, to the load-bearing ability and the overall functionality of the disc. This quest is further complicated by 
+the  limitations  imposed  by  available  experimental  mechanics  techniques  to  separate  the  mechanical  contribution  of 
+each  element.  In  this  paper,  the anatomical  structure of  annulus fibrosus  is  the  focus to  understand  the  load-bearing 
+abilities and contribution of the annulus from the perspective of mechanics of composite materials. 
+
+2 Annulus Fibrosus Background 
+
+The  annulus  fibrosus  is  a  biological,  ring-like  structure  that  forms  the  outer  part  of  the  intervertebral  disc, 
+where its task is to keep the nucleus pulposus in place while resisting complex loadings from the vertebral bodies and 
+the  NP.  The  annulus  fibrosus  is  made  of  approximately  20  lamellae,  where  each  lamella  consists  of  near  40  fiber 
+bundles  of  proteoglycan  and  collagen  [8],  [10].  The  proteoglycan  bonds  the  lamellae  structure  together,  while  the 
+collagen fibers serve as the load bearing members. Moreover, it was found that the annulus varies from a compliant 
+material  near  the  nuclear-annular  region  to  a  stiffer  material  at  the  outside  boundary  of  the  annulus  [11]-[13].  The 
+annulus fibrosus has been experimentally investigated as a homogenous isotropic material to determine the mechanical 
+properties;  nonetheless  a  few  researchers  have  studied  the  annulus  as  a  heterogeneous  structure  with  anisotropic 
+material properties [11]. Generally, these efforts focused either on the contribution of the annulus as part of the entire 
+motion  segment  or  only  on  the  mechanical  behavior  of  the  extracted  annulus  with  limited  regard  to  the  anatomical 
+properties  of  the  annulus  based  on  its  composite  mechanics  properties.  Adams  et  al.  suggested  the  annulus  is  more 
+likely to collapse in the posterior region due to damage of the endplate [14]. They reported the posterior section of IVD 
+experienced  25%  higher  stresses  after  the  endplate  was  damaged  [14].  Schmidt  et  al.  numerically  simulated  the 
+movement  of  the  motion  segment  with  and  without  the  nucleus  pulposus  and  compared  the  results  with  in-vitro 
+experiments  [15].  The  in-silico  results  predicted  the  range  of  motion  of  the  in-vitro  studies  with  95%  accuracy; 
+however,  the  properties  used  in  the  simulation  were  iterated  to  mimic  the  movement  with  disregard  to  the  actual 
+physical and mechanical properties of the intervertebral soft tissue [15]. On the other hand, Krismer et al. indicated that 
+the  structure  of  the  annulus  fibrosus  contributes  significantly  to  the  mechanical  behavior  of  the  motion  segment  in 
+addition  to  dampening  cyclic  loads  [16].  Wagner  et  al.,  on  the  other  hand,  reported  that  the  natural  annulus  is  an 
+uneven  material  with  stiffer  response  when  tested  in  tension  (Etension=0.447±0.379MPa)  than  in  unconfined 
+compression (Ecompression=0.235±0.127MPa); an indication of dependence of the behavior of the constituents of annulus 
+fibrosus  on  the  loading  direction  [17].  Elucidating  the  sensitivity  of  the  response  to  loading  conditions,  Périé  and 
+coworkers  measured  the  compressive  modulus  of  the  annulus  fibrosus  of  bovine  tails  using  confined  compression 
+stress-relaxation experiments and reported the effective compressive modulus to be 0.74MPa [18]. Alternatively, Fujita 
+et al. described the variation in the tensile mechanical properties in the radial direction of AF sections harvested from 
+the  anterior  and  posterolateral  quadrants  from  fifteen  human  discs  [19].  The  initial  modulus  showed  a  statistically 
+insignificant increase in the inner, middle, and outer region. Meanwhile, the value of the tangent modulus of the middle 
+section that consisted of multiple lamellae (0.64±0.46MPa) was statistically different from those reported for the inner 
+and  outer  regions,  0.44±0.46MPa  and  0.42±0.45MPa,  respectively  [19].  Anatomically,  Fujita  et  al.  argued  that  the 
+dependence of the modulus is attributed to the radial location of each lamella. This argument is mechanically supported 
+since the collagen fiber orientation varies between 25° and 45° from the outer to the inner diameters of the annulus, 
+respectively  [10]-[12].  Finally,  Holzapfel  et  al.  suggested  that  the  native  annulus  can  be  considered  as  a  composite 
+material  [11].  They  harvested  11  human  spines  from  cadavers,  where  single  rectangular  lamellae  specimens  were 
+separated based on different regions of the annulus. A tensile load was then applied along the fibers of the lamellae and 
+
+127 
+
+G. Youssef et. al.  
+
+the  tensile  modulus  was  measured.  The  results  confirmed  the  fiber  orientation  of  the  annulus  varies  in  the  radial 
+direction  and  the  stiffness  along  the  longitudinal  and  transverse  fiber  direction  change  accordingly.  The  material 
+stiffness of the lamella was 78MPa in the longitudinal direction and 0.50MPa in the transverse direction [11]. Notably, 
+these results of the elastic moduli of single lamella are significantly different from those reported by Wagner et al. of 
+the  effective  modulus;  highlighting  the  significance  of  the  number  of  lamella  and  fiber  orientation  on  the  overall 
+response of the annulus material [17]. 
+
+Despite the extensive research on the annulus fibrosus, limited research has been conducted on the validity of 
+the  presumption  that  the  annulus  can  be  considered  as  an  engineering  composite  material  and  that  the  fiber  volume 
+fraction  and  orientation  are  optimized  to  resist  common  physiologic  loads.  The  assumption  of  applicability  of 
+mechanics of composite materials, which will be demonstrated in this paper, can be used to transform the development 
+of  prosthesis  design.  This  is  significant  since  researchers,  on  separate  but  not  consistent  bases,  have  identified  the 
+heterogeneity and anisotropy of the native annulus. The following section is a brief introduction to the mechanics of 
+composites,  which  will  be  used  to  elucidate  the  mechanical  behavior  of  the  nature-optimized  annulus  fibrosus 
+structure.  Specifically,  we  will  demonstrate  the  use  of  a  mathematical  model  consisting  of  mechanics  of  composite 
+materials to predict the elastic properties and mechanical failure behavior and compare it to experimentally measured 
+and reported results.   
+
+3 Composite Mechanics 
+
+In the realm of mechanics of composite material, the mechanical properties in the  12-plane can be determined using 
+testing  of  a  single  lamella  in  longitudinal  (1-direction)  and  transverse  (2-direction)  [20].  These  include  the  elastic 
+modulus  along  the  fiber  direction  (𝐸1),  the  modulus  in  the  direction  transverse  to  the  fiber  (𝐸2),  the  Poisson’s  ratio 
+(𝜈12), and the shear modulus (𝐺12).  Once determined, these properties can be used to calculate the properties in  xy-
+plane  that  is  rotated  at  any  arbitrary  angle  (θ)  defined  positive  counterclockwise  from  the  1-direction.  Thus,  the 
+mathematical  model  used  in  this  study  consists  of  the  transformation  equations  of  composite  mechanics,  which  are 
+listed below. 
+
+Fig. 1 Transformation of lamella from 12-plane to xy-plane by angle θ 
+
+𝐸𝑥 =  
+
+𝑐𝑜𝑠4𝜃 +  
+
+1
+𝐺12
+
+−
+
+2𝜈12
+𝐸1
+
+  𝑐𝑜𝑠2𝜃𝑠𝑖𝑛2𝜃 +
+
+𝑠𝑖𝑛4𝜃 
+
+    
+
+𝐸𝑦 =  
+
+𝑠𝑖𝑛4𝜃 +  
+
+1
+𝐺12
+
+−
+
+2𝜈12
+𝐸1
+
+  𝑐𝑜𝑠2𝜃𝑠𝑖𝑛2𝜃 +
+
+𝑐𝑜𝑠4𝜃 
+
+   
+
+1
+𝐸1
+
+1
+𝐸1
+
+ 
+
+1
+𝐸2
+
+1
+𝐸2
+
+−1
+
+−1
+
+𝐺𝑥𝑦 =  
+
+1
+𝐺12
+
+(𝑠𝑖𝑛4𝜃 + 𝑐𝑜𝑠4𝜃) + 2  
+
+2
+𝐸1
+
++
+
+2
+𝐸2
+
++
+
+4𝜈12
+𝐸1
+
+−
+
+1
+𝐺12
+
+  𝑐𝑜𝑠2𝜃 sin 𝜃2 
+
+−1
+
+ 
+
+𝜈𝑥𝑦 = 𝐸𝑥  
+
+𝜈12
+𝐸1
+
+ 𝑠𝑖𝑛4𝜃 + 𝑐𝑜𝑠4𝜃  −  
+
+1
+𝐸1
+
++
+
+1
+𝐸2
+
+−
+
+1
+𝐺12
+
+  𝑐𝑜𝑠2𝜃 sin 𝜃2    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+128 
+
+𝜂𝑠𝑥 = 𝐺𝑥𝑦   
+
+2
+𝐸1
+
++
+
+2𝜈12
+𝐸1
+
+−
+
+1
+𝐺12
+
+  𝑠𝑖𝑛3𝜃 cos 𝜃 −  
+
+2
+𝐸2
+
++
+
+2𝜈12
+𝐸1
+
+−
+
+1
+𝐺12
+
+  𝑐𝑜𝑠3𝜃 sin 𝜃   
+
+𝜂𝑥𝑠 = 𝐸𝑥   
+
+2
+𝐸1
+
++
+
+2𝜈12
+𝐸1
+
+−
+
+1
+𝐺12
+
+  𝑐𝑜𝑠3𝜃 sin 𝜃 −  
+
+2
+𝐸2
+
++
+
+2𝜈12
+𝐸1
+
+−
+
+1
+𝐺12
+
+  𝑠𝑖𝑛3𝜃 cos 𝜃    
+
+G. Youssef et. al.  
+
+(5) 
+
+(6) 
+
+Ex is the modulus in the x-direction, 𝐸𝑦  is the modulus in the y-direction, 𝐺𝑥𝑦  is the shear modulus in xy-plane, νxy is 
+the Poisson’s ratio, and 𝜂𝑠𝑖  and 𝜂𝑖𝑠  (i=x, y and s is a contracted notation corresponding to properties in x-y system of 
+coordinates)  are  the  shear  coupling  coefficients  that  define  the  dependency  of  the  resulting  normal  and  shear 
+deformations  on  applied  loads  [20].Eqs.  (5)  and  (6)  show  that  normal  and  shear  deformations  are  coupled  at  any 
+arbitrary fiber orientations except at 0° and 90°. Such that, an application of a normal stress in either x- or y-direction 
+will  result  in  normal  and  shear  strains  and  vice  versa.  These  observations  characterize  orthotropic  materials  when 
+loaded along the non-principal directions [20]. 
+
+ 
+Equation (7) presents the linear constitutive relationship, which can be used in conjunction with Eqs(1)-(6) to 
+calculate the strains (𝜀𝑥 , 𝜀𝑦 , 𝛾𝑥𝑦 ) based on a given loading scenario (𝜎𝑥 , 𝜎𝑥 , 𝜏𝑥𝑦 ) [22]. The non-principal strains can then 
+be  used  to  resolve  the  strains  in  the  lamella  principal  directions  (i.e.,  second  part  of  Eq.  (7)).  Thus,  these  equations 
+collectively can be used to understand the reason that the fiber orientations range between 25° and 45° from the outer 
+to  the  inner  lamellae  in  alternating  plus-and-minus  configurations.  It  can  also  be  used  to  predict  the  mechanical 
+behavior  of  each  lamella  in  the  annulus  fibrosus  under  application  of  different  levels  of  physiologic  loads  that  are 
+encountered. The applicability of these equations is shown in the next section with focus on time-independent behavior 
+of the annulus fibrosus. 
+
+𝜀𝑥
+𝜀𝑦
+𝛾𝑥𝑦
+
+ 
+
+  =
+
+1
+ 
+ 
+𝐸𝑥
+ 
+−𝜐𝑥𝑦
+ 
+ 
+ 
+ 
+
+𝜂𝑥𝑠
+
+ 
+𝐸𝑥
+
+ 
+𝐸𝑥
+
+−𝜐𝑦𝑥
+
+ 
+𝐸𝑦
+
+1
+ 
+𝐸𝑦
+𝜂𝑦𝑠
+
+ 
+𝐸𝑦
+
+𝜂𝑠𝑥
+
+𝜂𝑠𝑦
+
+ 
+𝐺𝑥𝑦
+
+ 
+𝐺𝑥𝑦
+
+1
+ 
+𝐺𝑥𝑦
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+𝜎𝑥
+𝜎𝑦
+𝜏𝑥𝑦
+
+𝜀1
+𝜀2
+          ,         
+1
+2𝛾6
+
+ 
+
+𝜀𝑥
+𝜀𝑦
+2𝛾𝑥𝑦
+
+  =  𝑇   
+1
+
+  
+
+ 
+
+(7) 
+
+ 𝑤𝑖𝑡ℎ  𝑇  =  
+
+   𝑎𝑛𝑑 𝑚 = cos 𝜃  𝑎𝑛𝑑 𝑛 = sin 𝜃 
+
+𝑚2
+𝑛2
+2𝑚𝑛
+𝑛2 𝑚2
+−2𝑚𝑛
+−𝑚𝑛 𝑚𝑛 𝑚2 − 𝑛2
+
+ 
+The aforementioned mathematical model was applied using the material properties of single lamellae reported 
+by  Iatridisand  coworkers  [21],  [22].  They  collected  the  properties  based  on  an  uniaxial  tension  experiment,  where 
+𝐸1=136MPa, 𝐸2=0.76MPa, 𝐺12=0.30MPa, and 𝜈12=0.30 [21], [22]. These properties were adopted with the focus on 
+uncovering the underlying physical significance of the fiber orientation in the native annulus fibrosus. 
+
+ 
+Figure 2 shows the dependence of the mechanical properties on the fiber orientation based on Eqs. (1)-(6). As a 
+result, the moduli in the x- and y-direction (Fig. 2.a), shear moduli in the xy-plane (Fig. 2.b), shear coupling coefficient 
+between  normal  stress  and  shear  strain  (Fig.  2.c),  and  shear  coupling  coefficient  between  applied  shear  and  normal 
+deformation (Fig. 2.d) were calculated for every possible fiber orientation. 
+
+The  results  in  Fig.  3  show  a  comparison  between  the  predicted  moduli  using  composite  mechanics 
+transformation equations (Eqs. (1)–(2)) and a priori results [19], [23]. However, the predicted values were higher than 
+the average modulus reported by Iatridis et al., E=0.56 ± 0.21MPa [23].  In addition, Eq. (7) was used to predict the 
+strain of the annulus based on two different applied loads, nominal torso weight (Fig. 4.a) and rotation (Fig. 4.b). 
+
+4 Results  
+
+ 
+
+129 
+
+a) 
+
+c) 
+
+ 
+
+ 
+
+Fig. 2 Dependency of the mechanical properties on fiber orientation where a) represents the stiffness in the x-and-y direction,b) is the shear 
+modulus, c) the shear coupling coefficient between normal stress and shear strain, while d) is the shear coupling coefficient between applied 
+
+shear and normal deformation. 
+
+G. Youssef et. al.  
+
+ 
+
+ 
+
+b) 
+
+d) 
+
+ 
+
+130 
+
+Fig. 3: Comparison of the elastic moduli based on Eqs. 1 and 2 with experimentally reported data. 
+
+G. Youssef et. al.  
+
+a) 
+
+ 
+
+b) 
+
+ 
+
+Fig. 4: Three load case scenarios and predicted strain using macromechanics of composite lamina.  
+
+4.1 Discussion 
+
+In Fig. 2.a the moduli 𝐸𝑥  and 𝐸𝑦  at θ = 0° assume the values of 𝐸1 and 𝐸2as the x- and y-direction are aligned with the 
+1- and 2-direction, respectively. It can also be seen that at θ = 90°, the longitudinal direction of the fibers is aligned 
+with the 2-direction, thus 𝐸𝑦  = 𝐸1. Notably, when x- and y-axis are aligned with the principal directions, the stiffness in 
+the x-direction is nearly 200 times larger than in y-direction, which implies unrealistic physiological deformation. That 
+is,  the  structure  can  resist  deformation  in  the  x-direction  but  it  will  collapse  in  the  y-direction  due  to  the  lack  of 
+stiffness. Nonetheless, as mentioned in the previous section, the fiber orientation of the natural disc is bounded between 
+25° at the most outer lamella and 45° at inner lamella. With this range in mind, the difference between the moduli is 
+less than twofold and the normal deformation resistance in x- and y-direction are comparable.  
+
+The shear modulus, 𝐺𝑥𝑦 , is shown in Fig. 2.b, where the lowest values are reported at 0° and 90°, at which the 
+shear  moduli  are  equal  to  the  value  of  𝐺12  of  a  single  lamella.  As  the  fiber  orientation  changes,  the  resistance  to 
+shearing  deformation  increases  monotonically  from  1.55 𝐺12  at  25°  to reach  a  maximum  of  2.5  𝐺12  at 45°.  In  other 
+words,  the  maximum  shearing  resistance  is  located  at  the  inner  diameter  of  the  disc  to  prevent  lamellae  tearing  or 
+delamination due to axial rotation loading while annulus fibrosus is in contact with the gelatinous nucleus pulposus. 
+This  can  be  further  discussed  by  considering  the  angle  of  twist  (𝜙) per  unit  applied  torque  (T),  (𝜓 =
+),  in  axial 
+
+𝑅𝑖
+𝐺𝑖𝐽
+
+ with 𝑅𝑖 is the radial location of lamella, 𝐺𝑖 is the fiber orientation dependent 
+rotation loading scenario, where 𝜓𝑖 =
+3𝑡wheret is the  lamella thickness). 
+shear modulus of  ith lamella, and  J is polar moment of inertia (such that  𝐽 = 6𝜋𝑅𝑖
+Thus, 𝜓𝑖 is inversely proportional to the shear modulus and to the squared of the radial location of the corresponding 
+lamella. This implies that the twisting per unit applied torque at the inner diameter of the annulus is nearly nine times 
+higher than the outer lamella. This facilitates the strain transduction from the nucleus to the annulus while preventing 
+the excessive deformation of the outer perimeter of the annulus to protect the spinal cord and surrounding nerves and 
+tissues as the IVD reacts to common loading conditions.  
+
+𝜙
+𝑇
+
+Finally,  Fig.  2c  and  2d  show  the  shear  coupling  coefficients  between  applied  normal  stress  and  shear  strain 
+(𝜂𝑖𝑠 ) as well as between applied shear stress and normal deformation (𝜂𝑠𝑖 ), respectively. The former (Fig. 2c) shows 
+maximum coupling at fiber orientation with 0°<θ<25°, which indicate that the natural annulus fibrosus is optimized to 
+
+131 
+
+G. Youssef et. al.  
+
+reduce  the  shear  deformation  due  to  applied  normal  stress  (e.g.,  𝛾𝑥𝑦 = 𝜂𝑦𝑠
+common loading scenario as the weight of the torso exerts normal compressive stresses on the annulus. On the other 
+hand, the maximum coupling between applied shear stress and resulting normal deformation is reported at 25°<θ<45° 
+as shown in Fig. 2d. This coupling is needed to transfer the load to the nucleus and the surrounding ligaments during 
+axial  rotation  loading  such  that𝜀𝑦 = 𝜂𝑠𝑦
+  where𝜂𝑠𝑦 < 0.  This  means,  the  disc  is  axially  compressed  (𝜀𝑦 < 0) as 
+shear stress due to torsion is applied based on axial rotation, which as a result gives a rise to the nucleus’s mechanical 
+contribution as a load-bearing member. This is consistent with results reported in the literature [19].  
+
+).  It  is  worth  noting,  this  is  the  most 
+
+𝜏𝑥𝑦
+𝐺𝑥𝑦
+
+𝜎𝑦
+𝐸𝑦
+
+In addition, the predicted elastic moduli in Fig. 3 is higher than the one reported by Iatridis et al. because they 
+tested segments of the entire annulus as a homogenous material, i.e. they reported the effective modulus of the entire 
+annulus wall-thickness [23]. It is important to note here that it is expected based on mechanics of composite laminates, 
+where  the  stiffness  of  the  multi-layer  structure  is  less  than  the  stiffness  of  single  lamella  depending  on  the  fiber 
+orientation and stacking sequence. Second, good agreement is shown between the predicted and the moduli reported by 
+Fujita et al., where they measured the properties of sections of the annulus at outer, middle and inner locations [23]. To 
+this  end,  not  only  the  mechanics  of  composite  materials  is  capable  of  predicting  the  properties  at  an  arbitrary  fiber 
+orientation, but, and more importantly, it is also capable of explaining the physical and mechanical significance of the 
+specific fiber orientation found in the natural disc. That is, the inner lamellae consist of soft material to  facilitate the 
+strain transduction from the expansion of the nucleus pulposus, while the outer lamellae tend to be stiffer [11]-[14]. 
+Therefore, the fiber configuration of annulus is built to optimize its functionality.   
+
+ 
+Subsequently, we utilized the properties that were predicted using the transformation equations (Eqs. (1)-(6)) 
+and  the  constitutive  relationship  (Eq.  (7))  to  consider  the  response  of  each  lamella  at  different  orientations  to  two 
+specific  and  common  loading  scenarios.  First,  the  mechanical  deformation  based  on  applied  axial  compression, 
+𝜎𝑦 = −1𝑀𝑃𝑎, due to the weight of the torso, and lateral compression, 𝜎𝑥 = −1𝑀𝑃𝑎, due to the hydrostatic pressure 
+from the nucleus on the annulus is calculated along principal direction using Eq. (7) [24], [25]. The approximation for 
+stress due to the weight of the upper torso with 1MPa is considered reasonable based on the average weight of torso 
+and  surface  area of the  intervertebral disc  [26]-[28]. Nonetheless, the  variation of  the stress  level  does  not  pose  any 
+contradictions in the results presented below since the models used herein are linear, where the increase or decrease in 
+the  stress  level  will  result  in  change  in  the  corresponding  strain  level  without  change  in  the  overall  behavior, 
+respectively.  In  the  second  loading  scenario,  we  consider  the  application  of  axial  rotation  in  addition  to  the  stated 
+normal loads.   
+
+Figure 4.a shows the principal strains (in 1-2 plane) based on axial and lateral compression only, from which 
+we generate the following four observations. First, The strain along the fiber direction, 𝜀1, is positive, i.e. loading the 
+fibers  in  tension,  while  the  strain  in  the  transverse  direction  is  compressive,  𝜀2 < 0.  Second,  the  magnitude  of  the 
+transverse strain, 𝜀2, is nearly four times larger than the longitudinal strains because the fibers are stiffer as it is the 
+load-bearing member of the lamella. Third, although there is no applied shear stress, shear strain is generated due to the 
+shear coupling coefficient, 𝜂𝑖𝑠 . Fourth, the magnitude of normal and shear strains is decreasing as the fiber orientation 
+changes from 25°, where the maximum strains are reported, to 45° where 𝜀1   ≈   𝛾12 ≈ 0. This generally justifies that 
+disc  herniation  is  due  to  bulging  of  the  annulus  based  on  the  weakening  of  the  middle  to  outer  lamellae,  where  the 
+maximum effective strains occur, in response to displacement of the fiber bundles because of the excessive transverse 
+strains.  These  justifications  correlated  with  the  findings  collected  by  Wade  et  al.,  where  it  was  found  that  disc 
+herniation initiates at the middle lamellae of the annulus[29].In addition, Fig. 4.a shows that the predicted strains are in 
+agreement with the tensile radial failure strains of reported by Fujita et al.[19].  
+
+Figure  4.b  shows  the  predicted  strains  due  to  simultaneous  application  of  normal  and  shear  loadings.  The 
+values of the longitudinal strain, i.e. along the fiber, remain insensitive to the application of shear stress due to axial 
+rotation  when compared  with the  previous  loading  scenario. There is a  slight  increase in  the  shear strain, where the 
+maximum  was  reported  at  25°  in  both  loading  scenarios  but  𝛾12 ≅ 0.5  for  normal  loading  while  𝛾12 ≅ 0.9  for 
+combined normal and shear loading. The transverse strain has almost increased by twofold after application of shear 
+stress because of the contribution of shear coupling coefficient, 𝜂𝑠𝑖  in addition to the normal strain as shown in Fig. 4.a. 
+Finally,  the  orientation-dependent  strains  in  each  lamella  are  significantly  different  from  those  experimentally 
+
+132 
+
+measured  by  Fujita  et  al.,  because  the  shear  loading  was  not  included  in  their  experimental  investigation  [19].  
+Additionally,  the  two-dimensional  model  presented  herein  must  be  improved  to  better  predict  the  3-dimenional 
+motions, nonetheless the promise of representing the annulus as composite of collagen fibers embedded in a compliant 
+matrix proved to be reliable in predicting basic research measurements. Ongoing research in our group is exploiting the 
+other IVD constituents. 
+
+G. Youssef et. al.  
+
+5 Conclusions 
+
+In  conclusion,  the  physical  significance  of  the  fiber  orientation  in  the  annulus  fibrosus  has  been  elucidated  by 
+mechanics  of  fiber-reinforced  polymer  matrix  composite  materials,  where  the  transformation  equations  are  used  to 
+predict the material properties of a single lamella in the x- and y-direction. It is important to note the aforementioned 
+equations  have  been  used  extensively  in  the  aerospace  industry  for  the  design  and  analysis  of  complex  composite 
+structures. Here, we recalled these equations in the sense of reverse engineering, where the predicted properties will 
+reveal  the  connotations  of  the  natural  annulus  composition.  This  in  turn  can  be  used  to  design  robust  biologically-
+inspired  total  disc  displacement  devices.  While  the  model’s  predictions  were  in  good  agreement  with  previously 
+reported  data,  there  are  two  important  limitations  that  must  be  noted.  First,  the  model  does  not  account  for  any 
+nonlinear  mechanical  behavior  (e.g.,  no  hyper-elasticity),  nor  it  accounts  for  the  time-dependent  behavior 
+(viscoelasticity is also absent). Second, the interaction between any adjacent lamellae is not included in the presented 
+model. Thus, no conclusions can be made about the inter-lamella stresses. 
+
+In this study, the elastic moduli of a single lamella in x- and y-direction were found to have comparable values 
+and it was in good agreement with experimentally reported results in the literature. The shear modulus was found to be 
+maximum at 45°, which is required to minimize the shear deformation in the lamella adjacent to the nucleus pulposus. 
+Additionally, the failure strains were calculated using orthotropic lamina constitutive relationship in each lamella based 
+on the fiber orientation and common loading scenarios. The experimentally reported strain tends to agree with strains 
+calculated using composite mechanics. In general, the discrepancy between the calculated and measured results are due 
+to the limitation of the experimental techniques used to measure the properties as well as negligence of the effect of 
+inter-laminar stresses in the theoretical models. Nonetheless, the outcomes of our research substantiate the necessity for 
+the composite nature of the annulus fibrosus material. Finally, composite mechanics show a good explanation for the 
+high stress and strain on the lateral side  of the annulus fibrosus, which may be one cause for the high appearance  of 
+herniated intervertebral discs on the lateral side. The outcomes of this research can be used to design superior synthetic 
+annuls fibrosus than their counterparts in existing total disc replacement technologies.   
+
+References 
+
+[3] 
+
+[1]  Anderson PA, Rouleau JP. Intervertebral disc arthroplasty. Spine. 2004 Dec 1;29(23):2779-86. 
+[2] 
+
+Serhan H, Mhatre D, Defossez H, Bono CM. Motion-preserving technologies for degenerative lumbar spine: 
+The past, present, and future horizons. SAS journal. 2011 Sep 30;5(3):75-89. 
+Iatridis  JC,  Nicoll  SB,  Michalek  AJ,  Walter  BA,  Gupta  MS.  Role  of  biomechanics  in  intervertebral  disc 
+degeneration and regenerative therapies: what needs repairing in the disc and what are promising biomaterials 
+for its repair?. The Spine Journal. 2013 Mar 31;13(3):243-62. 
+Long  RG,  Bürki  A,  Zysset  P,  Eglin  D,  Grijpma  DW,  Blanquer  SB,  Hecht  AC,  Iatridis  JC.  Mechanical 
+restoration and failure analyses of a hydrogel and scaffold composite strategy for annulus fibrosus repair. Acta 
+biomaterialia. 2016 Jan 15;30:116-25. 
+
+[4] 
+
+[5]  Denozière  G,  Ku  DN.  Biomechanical  comparison  between  fusion  of  two  vertebrae  and  implantation  of  an 
+
+artificial intervertebral disc. Journal of biomechanics. 2006 Dec 31;39(4):766-75. 
+
+[6]  Van Ooij A, Oner FC, Verbout AJ. Complications of artificial disc replacement: a report of  27 patients with 
+
+the SB Charite disc. Spine. 2003 Aug 1;28:369-83 
+
+[7]  Guterl CC, See EY, Blanquer SB, Pandit A, Ferguson SJ, Benneker LM, Grijpma DW, Sakai D, Eglin D, Alini 
+M, Iatridis JC. Challenges and strategies in the repair of ruptured annulus fibrosus. European cells & materials. 
+2013 Jan 2;25:1. 
+
+[8]  Adams  MA,  Roughley  PJ.  What  is  intervertebral  disc  degeneration,  and  what  causes  it?.  Spine.  2006  Aug 
+
+15;31(18):2151-61. 
+
+133 
+
+G. Youssef et. al.  
+
+[9]  Hallab  N,  Link  HD,  McAfee  PC.  Biomaterial  optimization  in  total  disc  arthroplasty.  Spine.  2003  Oct 
+
+15;28(20S):S139-52. 
+
+May 1;15(5):402-10. 
+
+[10]  Marchand F, Ahmed AM. Investigation of the laminate structure of lumbar disc anulus fibrosus. Spine. 1990 
+
+[12] 
+
+[13] 
+
+[15] 
+
+[18] 
+
+[19] 
+
+[21] 
+
+[22] 
+
+[23] 
+
+[24] 
+
+[26] 
+
+[27] 
+
+[11]  Holzapfel GA, Schulze-Bauer CA, Feigl G, Regitnig P. Single lamellar mechanics of the human lumbar anulus 
+
+fibrosus. Biomechanics and modeling in mechanobiology. 2005 Mar 1;3(3):125-40. 
+Cassidy  JJ,  Hiltner  A,  Baer  E.  Hierarchical  structure  of  the  intervertebral  disc.  Connective  tissue  research. 
+1989 Jan 1;23(1):75-88. 
+Tavakoli J, Elliott DM, Costi JJ. Structure and mechanical function of the inter‐lamellar matrix of the annulus 
+fibrosus in the disc. Journal of Orthopaedic Research. 2016 Aug 1;34(8):1307-15. 
+
+[14]  Adams  MA,  Freeman  BJ,  Morrison  HP,  Nelson  IW,  Dolan  P.  Mechanical  initiation  of  intervertebral  disc 
+
+degeneration. Spine. 2000 Jul 1;25(13):1625-36. 
+Schmidt H, Heuer F, Simon U, Kettler A, Rohlmann A, Claes L, Wilke HJ. Application of a new calibration 
+method  for  a  three-dimensional  finite  element  model  of  a  human  lumbar  annulus  fibrosus.  Clinical 
+Biomechanics. 2006 May 31;21(4):337-44. 
+
+[16]  Krismer  M,  Haid  C,  Rabl  W.  The  contribution  of  anulus  fibers  to  torque  resistance.  Spine.  1996  Nov 
+
+15;21(22):2551-7. 
+
+[17]  Wagner DR, Lotz JC. Theoretical model and experimental results for the nonlinear elastic behavior of human 
+
+annulus fibrosus. Journal of orthopaedic research. 2004 Jul 1;22(4):901-9. 
+Périé  D,  Korda  D,  Iatridis  JC.  Confined  compression  experiments  on  bovine  nucleus  pulposus  and  annulus 
+fibrosus:  sensitivity  of  the  experiment  in  the  determination  of  compressive  modulus  and  hydraulic 
+permeability. Journal of biomechanics. 2005 Nov 30;38(11):2164-71. 
+Fujita  Y,  Duncan  NA,  Lotz  JC.  Radial  tensile  properties  of  the  lumbar  annulus  fibrosus  are  site  and 
+degeneration dependent. Journal of orthopaedic research. 1997 Nov 1;15(6):814-9. 
+
+[20]  Daniel IM, Ishai O, Daniel IM, Daniel I. Engineering mechanics of composite materials. New York: Oxford 
+
+university press; 1994 Jan. 
+Iatridis  JC,  ap  Gwynn  I.  Mechanisms  for  mechanical  damage  in  the  intervertebral  disc  annulus  fibrosus. 
+Journal of biomechanics. 2004 Aug 31;37(8):1165-75. 
+Skaggs DL, Weidenbaum M, Ratcliffe A, Mow VC. Regional variation in tensile properties and biochemical 
+composition of the human lumbar anulus fibrosus. Spine. 1994 Jun 1;19(12):1310-9. 
+Iatridis  JC,  Setton  LA,  Foster  RJ,  Rawlins  BA,  Weidenbaum  M,  Mow  VC.  Degeneration  affects  the 
+anisotropic and nonlinear behaviors of human anulus fibrosus in compression. Journal of biomechanics. 1998 
+Jun 1;31(6):535-44. 
+Iatridis  JC,  Weidenbaum  M,  Setton  LA,  Mow  VC.  Is  the  nucleus  pulposus  a  solid  or  a  fluid?  Mechanical 
+behaviors of the nucleus pulposus of the human intervertebral disc. Spine. 1996 May 15;21(10):1174-84. 
+
+[25]  Wilke  HJ,  Neef  P,  Caimi  M,  Hoogland  T,  Claes  LE.  New  in  vivo  measurements  of  pressures  in  the 
+
+intervertebral disc in daily life. Spine. 1999 Apr 15;24(8):755-62. 
+Zhou SH, McCarthy ID, McGregor AH, Coombs RR, Hughes SP. Geometrical dimensions of the lower lumbar 
+vertebrae–analysis of data from digitised CT images. European Spine Journal. 2000 Jun 25;9(3):242-8. 
+Plagenhoef S, Evans FG, Abdelnour T. Anatomical data for analyzing human motion. Research quarterly for 
+exercise and sport. 1983 Jun 1;54(2):169-78. 
+
+[28]  O’connell  GD,  Vresilovic  EJ,  Elliott  DM.  Comparative  intervertebral  disc  anatomy  across  several  animal 
+
+species. In52nd Annual Meeting of the Orthopaedic Research Society 2006 Mar 19. 
+
+[29]  Wade KR, Robertson PA, Thambyah A, Broom ND.  “Surprise” loading in flexion increases the risk of disc 
+herniation  due  to  annulus-endplate  junction  failure:  a  mechanical  and  microstructural  investigation.  Spine. 
+2015 Jun 15;40(12):891-901.  
+
+134 
+
+View publication stats
+View publication stats
+
+
