@@ -2,8 +2,8 @@
   <div class="container">
     <div class="profile">
           <ProfInfo :info="info"/>
-          <Visualization :data="data"/>
-      <Citation class="profile__citation" v-if="info" :id="info.id"/>
+          <Visualization v-if="data" :data="data"/>
+      <Citation class="profile__citation" v-model="activeCitations" v-if="info" :id="info.id"/>
       <p>{{ new_array }} </p>
     </div>
   </div>
@@ -22,6 +22,7 @@ import Citation from '@/views/Professor-profile/Citation.vue';
         info: null,
         data: null,
         dates: null,
+        activeCitations: null,
         /* eslint-disable */
         new_array: `The degeneration of the intervertebral disc (IVD) rests on many factors, but some of the main ones are
 the absence of a blood vessel supply, excessive overloading, and cycling loadings. This deterioration
@@ -111,20 +112,28 @@ abilities and contribution of the annulus from the perspective of mechanics of c
         axios.get('http://127.0.0.1:5000/academics/?id=' + this.id)
           .then(response => {
             this.info = response.data
+            this.activeCitations = [];
           })
           .catch(error => (this.info = error))
-
-        axios.get('http://127.0.0.1:5000/citations/wordcloud/?id=' + this.id)
-          .then(response => {
-            this.data = JSON.parse(response.data.result)
-          })
-          .catch(error => (this.data = error))
 
         axios.get('http://127.0.0.1:5000/citations/?academic_id=' + this.id)
           .then(response => (
             this.dates = response.data.results
             ))
           .catch(error => (this.dates = error))
+    },
+    watch: {
+    activeCitations: function (val) {
+      // axios call here that populates this.data
+        var ids = this.activeCitations.length == 0 ? this.info.citations.toString() : val.toString();
+        ids = ids.replace(/(^,)|(,$)/g, "");
+        
+        axios.get('http://127.0.0.1:5000/citations/wordcloud/?ids=' + ids)
+          .then(response => {
+            this.data = JSON.parse(response.data.result)
+          })
+          .catch(error => (this.data = error))
+      }
     }
   }
 </script>
