@@ -3,6 +3,9 @@ import App from './App.vue'
 import router from './router'
 import firebase from 'firebase'
 import store from '@/store/store.js'
+import VModal from 'vue-js-modal'
+ 
+Vue.use(VModal, { dynamic: true, dynamicDefaults: { clickToClose: true} })
 
 Vue.config.productionTip = false
 

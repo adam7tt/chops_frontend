@@ -29,6 +29,7 @@
     "vue": "^2.6.10",
     "vue-apexcharts": "^1.5.1",
     "vue-d3-cloud": "^0.2.0",
+    "vue-js-modal": "^2.0.0-rc.3",
     "vue-lodash": "^2.1.2",
     "vue-resize-directive": "^1.2.0",
     "vue-router": "^3.0.3",
